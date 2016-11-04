@@ -31,6 +31,12 @@
         <mark key="^" line="80" column="11" />
         <mark key="." line="80" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/test.java" timestamp="1478245723127">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/DataMining/AssociationDM/src/Configuration.java" timestamp="1462173459664">
         <mark key="[" line="18" column="55" />
         <mark key="]" line="20" column="31" />
@@ -99,12 +105,12 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" timestamp="1478235518818">
-        <mark key="'" line="100" column="4" />
-        <mark key="[" line="224" column="42" />
-        <mark key="]" line="196" column="106" />
-        <mark key="^" line="196" column="106" />
-        <mark key="." line="196" column="106" />
+      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" timestamp="1478245868233">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="226" column="42" />
+        <mark key="]" line="228" column="16" />
+        <mark key="^" line="228" column="16" />
+        <mark key="." line="228" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/HadoopTool.java" timestamp="1468463093936">
         <mark key="'" line="31" column="0" />
@@ -186,13 +192,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1468585640549">
+      <file name="/fragment.java" timestamp="1478245847079">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="24" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="104" column="49" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
       <jump line="173" column="15" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
       <jump line="119" column="37" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
@@ -291,55 +295,57 @@
       <jump line="126" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
       <jump line="100" column="4" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
       <jump line="26" column="28" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankLPAIter.java" />
+      <jump line="211" column="53" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gU3RyaW5nLnZhbHVlT2YoY29udGV4dC5nZXRKb2JJRCgpLmdldElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWkK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBib29sZWFuIGlzb2sgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkb3VibGUgbG9zc2luZyA9IDAuMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBib29sZWFuIGlzb2sgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
         <entry>aliasFile</entry>
         <entry>一雷</entry>
         <entry>朱子柳</entry>
@@ -367,6 +372,7 @@
         <entry>守备</entry>
         <entry>args[3]</entry>
         <entry>3</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>0,$s/://g</entry>
