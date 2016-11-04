@@ -20,13 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -37,10 +30,7 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
-      <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/Documents/project/ideaProject" />
-      </component>
+      <component name="ProjectRootManager" version="2" default="true" assert-keyword="false" jdk-15="false" />
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -132,7 +122,6 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
