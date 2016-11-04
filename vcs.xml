@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/NJU-CS-SYS/ArchLab2015.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/angelhunt/alluxio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Darnell\IdeaProjects" />
