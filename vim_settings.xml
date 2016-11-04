@@ -3,429 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/label/part-r-00000" timestamp="1467814236608">
-        <mark key="'" line="7" column="495" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/feature/part-r-00000" timestamp="1467804958021">
-        <mark key="'" line="547" column="515" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/Assignment3/src/Train.java" timestamp="1465731911818">
-        <mark key="[" line="15" column="102" />
-        <mark key="]" line="15" column="103" />
-        <mark key="^" line="15" column="102" />
-        <mark key="." line="15" column="103" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" timestamp="1467978318304">
-        <mark key="'" line="203" column="4" />
-        <mark key="[" line="203" column="7" />
-        <mark key="]" line="204" column="4" />
-        <mark key="^" line="204" column="4" />
-        <mark key="." line="204" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1467969010047">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/DataMining/AssociationDM/src/UnixUsageRecordReader.java" timestamp="1462180863489">
-        <mark key="[" line="80" column="12" />
-        <mark key="]" line="80" column="11" />
-        <mark key="^" line="80" column="11" />
-        <mark key="." line="80" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/test.java" timestamp="1478245723127">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/DataMining/AssociationDM/src/Configuration.java" timestamp="1462173459664">
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/LPA.java" timestamp="1468585033037">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="116" column="21" />
-        <mark key="]" line="120" column="40" />
-        <mark key="." line="120" column="40" />
-        <mark key="^" line="120" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRaknIter.java" timestamp="1468228170380">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="107" column="22" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸07鹿鼎记.txt" timestamp="1467890413468">
-        <mark key="'" line="256" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/example/Transform.java" timestamp="1464242629247">
-        <mark key="[" line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/Assignment3/src/Test.java" timestamp="1465714467161">
-        <mark key="[" line="23" column="114" />
-        <mark key="]" line="23" column="113" />
-        <mark key="." line="23" column="113" />
-        <mark key="^" line="23" column="113" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸05射雕英雄传.txt" timestamp="1467890239483">
-        <mark key="'" line="720" column="291" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1461979585067">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankSort.java" timestamp="1468317715447">
-        <mark key="'" line="188" column="14" />
-        <mark key="k" line="38" column="0" />
-        <mark key="[" line="200" column="12" />
-        <mark key="m" line="38" column="0" />
-        <mark key="]" line="200" column="15" />
-        <mark key="." line="200" column="15" />
-        <mark key="^" line="200" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/Stat.java" timestamp="1468464570347">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/out1/part-r-00000" timestamp="1467797133758">
-        <mark key="'" line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" timestamp="1467974353643">
-        <mark key="'" line="4404" column="109" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1468227151415">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankLPAIter.java" timestamp="1468586910202">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" timestamp="1478245868233">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="226" column="42" />
-        <mark key="]" line="228" column="16" />
-        <mark key="^" line="228" column="16" />
-        <mark key="." line="228" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/HadoopTool.java" timestamp="1468463093936">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="32" />
-        <mark key="^" line="25" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/DataMining/AssociationDM/src/RecordReader.java" timestamp="1462095292030">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/tasktwo.java" timestamp="1467786997847">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/Transform2MR.java" timestamp="1464331904856">
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/part-r-00000" timestamp="1467890701901">
-        <mark key="[" line="204" column="30" />
-        <mark key="]" line="204" column="30" />
-        <mark key="." line="204" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" timestamp="1468585709276">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="152" column="53" />
-        <mark key="]" line="152" column="52" />
-        <mark key="." line="152" column="52" />
-        <mark key="^" line="152" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/Test/src/Test.java" timestamp="1465295555130">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" timestamp="1468219735279">
-        <mark key="'" line="568" column="2" />
-        <mark key="[" line="259" column="2" />
-        <mark key="]" line="259" column="2" />
-        <mark key="^" line="259" column="2" />
-        <mark key="." line="259" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/test" timestamp="1464408306265">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/preprocess/part-r-00000" timestamp="1467887831811">
-        <mark key="'" line="843" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/preprocess/part-r-00000" timestamp="1468221316199">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankIter.java" timestamp="1468585378629">
-        <mark key="'" line="82" column="31" />
-        <mark key="[" line="100" column="69" />
-        <mark key="]" line="100" column="74" />
-        <mark key="." line="100" column="74" />
-        <mark key="^" line="100" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/TaskTwo.java" timestamp="1468221173635">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/ttt" timestamp="1467713665396">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="/fragment.java" timestamp="1478245847079">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" timestamp="1478246195905">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="15" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="119" column="37" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="149" column="16" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="308" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="2" column="5" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="928" column="1" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="315" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="361" column="7" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="359" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="356" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="323" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="14" column="25" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/pagerank/part-r-00000" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/pagerank/part-r-00000" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/pagerank/part-r-00000" />
-      <jump line="357" column="5" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="242" column="7" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="3030" column="12" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" />
-      <jump line="9" column="18" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" />
-      <jump line="4404" column="109" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" />
-      <jump line="127" column="30" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="229" column="6" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="358" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="121" column="28" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="345" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="223" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="354" column="7" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="246" column="5" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="1354" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="115" column="7" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="268" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="203" column="4" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/Alias.txt" />
-      <jump line="1170" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="259" column="1" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="372" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="538" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="671" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="672" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="673" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="674" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="843" column="1" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="1016" column="1" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="1239" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="83" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="104" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="101" column="8" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="96" column="40" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="253" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="568" column="2" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/people_name_list.txt" />
-      <jump line="159" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="339" column="5" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/preprocess/part-r-00000" />
-      <jump line="23805" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/preprocess/part-r-00000" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/preprocess/part-r-00000" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRaknIter.java" />
-      <jump line="12" column="15" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankLPAIter.java" />
-      <jump line="5" column="24" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/pagerank/part-r-00000" />
-      <jump line="11" column="6" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankIter.java" />
-      <jump line="116" column="56" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankIter.java" />
-      <jump line="21" column="8" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/Stat/delta/PR" />
-      <jump line="193" column="103" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="229" column="30" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="59" column="18" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="37" column="57" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="60" column="12" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankLPAIter.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="24" column="16" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/HadoopTool.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/HadoopTool.java" />
-      <jump line="198" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="184" column="27" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="203" column="111" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="205" column="66" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="113" column="78" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="115" column="66" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="201" column="66" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="202" column="39" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="129" column="52" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="27" column="16" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PreProcess.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="82" column="31" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankIter.java" />
-      <jump line="78" column="14" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="100" column="4" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="26" column="28" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/PageRankLPAIter.java" />
-      <jump line="211" column="53" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/JYDriver.java" />
+      <jump line="82" column="13" filename="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" />
+      <jump line="56" column="11" filename="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text>main</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gU3RyaW5nLnZhbHVlT2YoY29udGV4dC5nZXRKb2JJRCgpLmdldElkKCkpOwo=</text>
-      </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
+        <text encoding="base64">CQlpZihleGVjdXRvcj09bnVsbCl7CgkJCWV4ZWN1dG9yPUV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woOCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBib29sZWFuIGlzb2sgPSBmYWxzZTsK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlpZihleGVjdXRvcj09bnVsbCl7CgkJCWV4ZWN1dG9yPUV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woOCk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
-      <last-offset />
-      <last-pattern>main</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute>:</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>aliasFile</entry>
-        <entry>一雷</entry>
-        <entry>朱子柳</entry>
-        <entry>老头</entry>
-        <entry>乔峰</entry>
-        <entry>萧峰</entry>
-        <entry>书生</entry>
-        <entry>双刀</entry>
-        <entry>人刀</entry>
-        <entry>段皇爷</entry>
-        <entry>一灯</entry>
-        <entry>南帝</entry>
-        <entry>庄震中</entry>
-        <entry>凤天南</entry>
-        <entry>南</entry>
-        <entry>玉林</entry>
-        <entry>守备</entry>
-        <entry>args[3]</entry>
-        <entry>3</entry>
-        <entry>main</entry>
-      </history-search>
-      <history-cmd>
-        <entry>0,$s/://g</entry>
-        <entry>0,$s/:/ /g</entry>
-        <entry>1,$s/:/ /g</entry>
-        <entry>W</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
