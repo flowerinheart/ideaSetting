@@ -71,6 +71,9 @@
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸05射雕英雄传.txt" timestamp="1467890239483">
         <mark key="'" line="720" column="291" />
       </file>
+      <file name="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" timestamp="1478253869013">
+        <mark key="'" line="59" column="37" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1461979585067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,11 +98,11 @@
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" timestamp="1467974353643">
         <mark key="'" line="4404" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/Alluxio_Test/src/Test.java" timestamp="1478248766880">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
+      <file name="$USER_HOME$/Documents/project/ideaProject/Alluxio_Test/src/Test.java" timestamp="1478253834258">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1468227151415">
         <mark key="[" line="0" column="0" />
@@ -212,6 +215,9 @@
       <jump line="82" column="13" filename="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" />
       <jump line="56" column="11" filename="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" />
       <jump line="103" column="0" filename="$USER_HOME$/IdeaProjects/IFTTT_Online/src/Objects/BeginTask.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" />
+      <jump line="61" column="32" filename="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" />
+      <jump line="59" column="37" filename="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -221,7 +227,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>FileSystemContext</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gU3RyaW5nLnZhbHVlT2YoY29udGV4dC5nZXRKb2JJRCgpLmdldElkKCkpOwo=</text>
@@ -258,12 +264,14 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>FileSystemContext</last-search>
+      <last-offset />
+      <last-pattern>FileSystemContext</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aliasFile</entry>
         <entry>一雷</entry>
         <entry>朱子柳</entry>
         <entry>老头</entry>
@@ -283,6 +291,7 @@
         <entry>args[3]</entry>
         <entry>3</entry>
         <entry>main</entry>
+        <entry>FileSystemContext</entry>
       </history-search>
       <history-cmd>
         <entry>0,$s/://g</entry>
@@ -339,6 +348,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
