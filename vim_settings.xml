@@ -98,8 +98,11 @@
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" timestamp="1467974353643">
         <mark key="'" line="4404" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/Alluxio_Test/src/Test.java" timestamp="1478312544291">
-        <mark key="[" line="21" column="5" />
+      <file name="$USER_HOME$/Documents/project/ideaProject/Alluxio_Test/src/Test.java" timestamp="1478315186528">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1468227151415">
         <mark key="[" line="0" column="0" />
@@ -218,7 +221,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">772dCg==</text>
+        <text encoding="base64">ICAgICAgICBFeGVjdHV0b3IgZXhlY3R1dG9yID0gQ2FjaGVFeGUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -230,28 +233,28 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gU3RyaW5nLnZhbHVlT2YoY29udGV4dC5nZXRKb2JJRCgpLmdldElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">772dCg==</text>
+        <text encoding="base64">ICAgICAgICBFeGVjdHV0b3IgZXhlY3R1dG9yID0gQ2FjaGVFeGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcyA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlU3lzdGVtIGZzID0gRmlsZVN5c3RlbS5GYWN0b3J5LmdldCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZihleGVjdXRvcj09bnVsbCl7CgkJCWV4ZWN1dG9yPUV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woOCk7Cg==</text>
+        <text encoding="base64">772dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWkK</text>
+        <text encoding="base64">CQlpZihleGVjdXRvcj09bnVsbCl7CgkJCWV4ZWN1dG9yPUV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woOCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -294,8 +297,8 @@
         <entry>0,$s/://g</entry>
         <entry>0,$s/:/ /g</entry>
         <entry>1,$s/:/ /g</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
