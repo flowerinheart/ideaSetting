@@ -98,11 +98,11 @@
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸04天龙八部.txt" timestamp="1467974353643">
         <mark key="'" line="4404" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/project/ideaProject/Alluxio_Test/src/Test.java" timestamp="1478315186528">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="37" />
+      <file name="$USER_HOME$/Documents/project/ideaProject/Alluxio_Test/src/Test.java" timestamp="1478316095330">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1468227151415">
         <mark key="[" line="0" column="0" />
@@ -297,8 +297,8 @@
         <entry>0,$s/://g</entry>
         <entry>0,$s/:/ /g</entry>
         <entry>1,$s/:/ /g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
