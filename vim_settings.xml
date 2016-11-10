@@ -43,6 +43,11 @@
         <mark key="^" line="80" column="11" />
         <mark key="." line="80" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/block/BlockStoreContext.java" timestamp="1478764111168">
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="." line="354" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/AlluxioStorageType.java" timestamp="1478762981877">
         <mark key="'" line="60" column="2" />
       </file>
@@ -143,6 +148,15 @@
         <mark key="^" line="15" column="102" />
         <mark key="." line="15" column="103" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/lineage/LineageMasterClient.java" timestamp="1478763848723">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/UnderFileSystemFileWriter.java" timestamp="1478763836317">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/lineage/LineageFileOutStream.java" timestamp="1478763843320">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/TaskTwo.java" timestamp="1468221173635">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -219,13 +233,16 @@
       <jump line="61" column="32" filename="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" />
       <jump line="59" column="37" filename="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" />
       <jump line="60" column="2" filename="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/AlluxioStorageType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/UnderFileSystemFileWriter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/lineage/LineageFileOutStream.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/lineage/LineageMasterClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">770/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBNZXRyaWNzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>FileSystemContext</text>
@@ -234,31 +251,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gU3RyaW5nLnZhbHVlT2YoY29udGV4dC5nZXRKb2JJRCgpLmdldElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">770/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBNZXRyaWNzKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">770/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZihleGVjdXRvcj09bnVsbCl7CgkJCWV4ZWN1dG9yPUV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woOCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
+        <text encoding="base64">CQlpZihleGVjdXRvcj09bnVsbCl7CgkJCWV4ZWN1dG9yPUV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woOCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmF2cm8uZ2VuZXJpYy5HZW5lcmljRGF0YS5TdHJpbmdUeXBlLlN0cmluZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpCg==</text>
+        <text encoding="base64">aWkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
