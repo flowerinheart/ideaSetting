@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DataMining'" />
-    <option name="defaultScopeName" value="Project 'DataMining'" />
-    <option name="SEARCH_SCOPE" value="Project 'DataMining'" />
+    <option name="customScope" value="File '[alluxio] - ...\core\client\src\main\java\alluxio\client\AlluxioStorageType.java'" />
+    <option name="defaultScopeName" value="File '[alluxio] - ...\core\client\src\main\java\alluxio\client\AlluxioStorageType.java'" />
+    <option name="SEARCH_SCOPE" value="File '[alluxio] - ...\core\client\src\main\java\alluxio\client\AlluxioStorageType.java'" />
   </component>
 </application>
