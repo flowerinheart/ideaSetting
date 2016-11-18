@@ -43,7 +43,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/apache/spark.git" />
+          <option name="url" value="http://192.168.20.14/weijia.liu/alluxio-shuffle-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
