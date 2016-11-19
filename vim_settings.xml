@@ -71,8 +71,12 @@
         <mark key="'" line="256" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/JavaSparkPi.java" timestamp="1479527445043" />
-      <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1479524810804">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1479538674437">
+        <mark key="'" line="119" column="23" />
+        <mark key="[" line="119" column="21" />
+        <mark key="]" line="119" column="20" />
+        <mark key="^" line="119" column="20" />
+        <mark key="." line="119" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" timestamp="1479531758263">
         <mark key="'" line="23" column="25" />
@@ -107,6 +111,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" timestamp="1479538021322" />
       <file name="$USER_HOME$/Documents/project/ideaProject/Assignment3/src/Test.java" timestamp="1465714467161">
         <mark key="[" line="23" column="114" />
         <mark key="]" line="23" column="113" />
@@ -252,6 +257,20 @@
       <jump line="7" column="16" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
       <jump line="22" column="19" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
       <jump line="23" column="25" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
+      <jump line="6" column="69" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="187" column="0" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="188" column="76" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="2458" column="21" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="2468" column="21" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="183" column="57" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="162" column="12" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="163" column="39" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="1878" column="31" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="1955" column="26" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="1957" column="26" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="1967" column="22" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="1968" column="22" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="119" column="23" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -261,7 +280,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>alluxio</text>
+        <text>java.version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAo=</text>
@@ -298,16 +317,14 @@
       </register>
     </registers>
     <search>
-      <last-search>alluxio</last-search>
+      <last-search>java.version</last-search>
       <last-offset />
-      <last-pattern>alluxio</last-pattern>
+      <last-pattern>java.version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>朱子柳</entry>
-        <entry>老头</entry>
         <entry>乔峰</entry>
         <entry>萧峰</entry>
         <entry>书生</entry>
@@ -326,6 +343,8 @@
         <entry>main</entry>
         <entry>FileSystemContext</entry>
         <entry>alluxio</entry>
+        <entry>jdk</entry>
+        <entry>java.version</entry>
       </history-search>
       <history-cmd>
         <entry>0,$s/://g</entry>
