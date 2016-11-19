@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/file/MultiBlockInStream.java" timestamp="1479542875853" />
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/tasktwo.java" timestamp="1467786997847">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="0" />
@@ -34,7 +35,6 @@
         <mark key="." line="100" column="74" />
         <mark key="^" line="100" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/JavaHdfsLR.java" timestamp="1479527479041" />
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/src/LPA.java" timestamp="1468585033037">
         <mark key="'" line="51" column="19" />
         <mark key="[" line="116" column="21" />
@@ -70,7 +70,6 @@
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸07鹿鼎记.txt" timestamp="1467890413468">
         <mark key="'" line="256" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/JavaSparkPi.java" timestamp="1479527445043" />
       <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1479538674437">
         <mark key="'" line="119" column="23" />
         <mark key="[" line="119" column="21" />
@@ -111,7 +110,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" timestamp="1479538021322" />
       <file name="$USER_HOME$/Documents/project/ideaProject/Assignment3/src/Test.java" timestamp="1465714467161">
         <mark key="[" line="23" column="114" />
         <mark key="]" line="23" column="113" />
