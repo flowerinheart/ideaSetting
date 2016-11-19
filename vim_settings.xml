@@ -74,6 +74,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1479524810804">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" timestamp="1479531758263">
+        <mark key="'" line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/out1/part-r-00000" timestamp="1467797133758">
         <mark key="'" line="3" column="51" />
       </file>
@@ -99,7 +102,11 @@
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/feature/part-r-00000" timestamp="1467804958021">
         <mark key="'" line="547" column="515" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleReader.scala" timestamp="1479526481661" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleReader.scala" timestamp="1479530764023">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/Assignment3/src/Test.java" timestamp="1465714467161">
         <mark key="[" line="23" column="114" />
         <mark key="]" line="23" column="113" />
@@ -238,61 +245,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/lineage/LineageMasterClient.java" />
       <jump line="131" column="54" filename="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/block/BlockStoreContext.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="4" column="37" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
+      <jump line="7" column="16" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
+      <jump line="22" column="19" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
+      <jump line="23" column="25" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAo=</text>
+        <text encoding="base64">ICAgIEFsbHV4aW9TdG9yZS4K</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>FileSystemContext</text>
+        <text>alluxio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAocG9vbCBpbiBORVRUWV9DSEFOTkVMX1BPT0xfTUFQLnZhbHVlcygpKSB7Cg==</text>
+        <text encoding="base64">ICAgIEFsbHV4aW9TdG9yZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0cmljc1N5c3RlbS5yZWdpc3RlckdhdWdlSWZBYnNlbnQoTWV0cmljc1N5c3RlbS5nZXRDbGllbnRNZXRyaWNOYW1lKCJOZXR0eUNvbm5lY3Rpb25zT3BlbiIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAocG9vbCBpbiBORVRUWV9DSEFOTkVMX1BPT0xfTUFQLnZhbHVlcygpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcHRpb25zLnNldFdyaXRlVHlwZShXcml0ZVR5cGUuQVNZTkNfVEhST1VHSCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0cmljc1N5c3RlbS5yZWdpc3RlckdhdWdlSWZBYnNlbnQoTWV0cmljc1N5c3RlbS5nZXRDbGllbnRNZXRyaWNOYW1lKCJOZXR0eUNvbm5lY3Rpb25zT3BlbiIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExpbmVhZ2VJbmZvPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgLyoqCiAgICogUmVwb3J0cyBhIGZpbGUgYXMgbG9zdC4KICAgKgogICAqIEBwYXJhbSBwYXRoIHRoZSBwYXRoIHRvIHRoZSBsb3N0IGZpbGUKICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uIGlmIGEgbm9uLUFsbHV4aW8gZXhjZXB0aW9uIG9jY3Vycwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcHRpb25zLnNldFdyaXRlVHlwZShXcml0ZVR5cGUuQVNZTkNfVEhST1VHSCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGFsbHV4aW8udGhyaWZ0LkxpbmVhZ2VJbmZvIGxpbmVhZ2VJbmZvIDogbUNsaWVudC5nZXRMaW5lYWdlSW5mb0xpc3QoKSkgewogICAgICAgICAgcmVzdWx0LmFkZChUaHJpZnRVdGlscy5mcm9tVGhyaWZ0KGxpbmVhZ2VJbmZvKSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgfQogICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExpbmVhZ2VJbmZvPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgLyoqCiAgICogUmVwb3J0cyBhIGZpbGUgYXMgbG9zdC4KICAgKgogICAqIEBwYXJhbSBwYXRoIHRoZSBwYXRoIHRvIHRoZSBsb3N0IGZpbGUKICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uIGlmIGEgbm9uLUFsbHV4aW8gZXhjZXB0aW9uIG9jY3Vycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGFsbHV4aW8udGhyaWZ0LkxpbmVhZ2VJbmZvIGxpbmVhZ2VJbmZvIDogbUNsaWVudC5nZXRMaW5lYWdlSW5mb0xpc3QoKSkgewogICAgICAgICAgcmVzdWx0LmFkZChUaHJpZnRVdGlscy5mcm9tVGhyaWZ0KGxpbmVhZ2VJbmZvKSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgfQogICAgfSk7Cgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICB9CiAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">YmxvY2tXb3JrZXJDbGllbnQpCiAgICAgICAgYmxvY2tXb3JrZXJDbGllbnQuY2xvc2UoKQogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBpZiB0aGVyZSBpcyBhIGxvY2FsIHdvcmtlciBydW5uaW5nIHRoZSBzYW1lIG1hY2hpbmUKICAgICAqLwogICAgQFN5bmNocm9uaXplZCBmdW4gaGFzTG9jYWxXb3JrZXIoKTog</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUhhc0xvY2FsV29ya2VyID09IG51bGwpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>FileSystemContext</last-search>
+      <last-search>alluxio</last-search>
       <last-offset />
-      <last-pattern>FileSystemContext</last-pattern>
+      <last-pattern>alluxio</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>一雷</entry>
         <entry>朱子柳</entry>
         <entry>老头</entry>
         <entry>乔峰</entry>
@@ -312,6 +322,7 @@
         <entry>3</entry>
         <entry>main</entry>
         <entry>FileSystemContext</entry>
+        <entry>alluxio</entry>
       </history-search>
       <history-cmd>
         <entry>0,$s/://g</entry>
