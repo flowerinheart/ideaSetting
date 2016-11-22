@@ -156,6 +156,9 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" timestamp="1479785082933">
+        <mark key="'" line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/output/result/preprocess/part-r-00000" timestamp="1467887831811">
         <mark key="'" line="843" column="2" />
       </file>
@@ -271,6 +274,7 @@
       <jump line="1967" column="22" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
       <jump line="1968" column="22" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
       <jump line="119" column="23" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="170" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
