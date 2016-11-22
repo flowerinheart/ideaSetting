@@ -217,6 +217,7 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/ShuffleManager.scala" timestamp="1479783561890" />
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/lineage/LineageFileOutStream.java" timestamp="1478767188838">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="53" column="0" />
