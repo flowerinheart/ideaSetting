@@ -1,4 +1,14 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="control alt button1" />
