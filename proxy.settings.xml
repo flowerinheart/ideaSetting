@@ -3,6 +3,6 @@
     <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="1080" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
-    <option name="PROXY_EXCEPTIONS" value="www.baidu.com" />
+    <option name="PROXY_EXCEPTIONS" value="192.168.*" />
   </component>
 </application>

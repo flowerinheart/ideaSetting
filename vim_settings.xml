@@ -98,12 +98,16 @@
       <file name="$USER_HOME$/exercitation/alluxio_and_hadoop/alluxio/core/client/src/main/java/alluxio/client/file/FileSystem.java" timestamp="1478253869013">
         <mark key="'" line="59" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/metrics/MetricsSystem.scala" timestamp="1479807937534">
+        <mark key="'" line="69" column="21" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/client/src/main/java/alluxio/client/AlluxioStorageType.java" timestamp="1478762981877">
         <mark key="'" line="60" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1.jar!/org/apache/spark/ShuffleDependency.class" timestamp="1479781453793" />
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1479800384230">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1479808338980">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="36" column="65" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1461979585067">
         <mark key="[" line="0" column="0" />
@@ -135,6 +139,9 @@
         <mark key="." line="228" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/ShuffleManager.scala" timestamp="1479783561890" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/executor/TaskMetrics.scala" timestamp="1479807928018">
+        <mark key="'" line="163" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/project/ideaProject/hadoopLab/input/novels/金庸05射雕英雄传.txt" timestamp="1467890239483">
         <mark key="'" line="720" column="291" />
       </file>
@@ -187,10 +194,14 @@
       <jump line="212" column="30" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" />
       <jump line="225" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" />
       <jump line="50" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
-      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
       <jump line="58" column="9" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/InternalAccumulator.scala" />
       <jump line="77" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/InternalAccumulator.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/InternalAccumulator.scala" />
+      <jump line="30" column="43" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="88" column="4" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="163" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/executor/TaskMetrics.scala" />
+      <jump line="69" column="21" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/metrics/MetricsSystem.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
