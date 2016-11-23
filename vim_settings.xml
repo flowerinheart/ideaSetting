@@ -52,9 +52,16 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1479867816495">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="35" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1479868654370">
+        <mark key="'" line="50" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1479868726539">
+        <mark key="'" line="58" column="75" />
+        <mark key="j" line="59" column="43" />
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="86" column="5" />
+        <mark key="." line="86" column="5" />
+        <mark key="^" line="86" column="5" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1461979585067">
         <mark key="[" line="0" column="0" />
@@ -198,61 +205,69 @@
       <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
       <jump line="163" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/executor/TaskMetrics.scala" />
       <jump line="69" column="21" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/metrics/MetricsSystem.scala" />
+      <jump line="72" column="30" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="5" column="42" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="57" column="65" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="54" column="17" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="55" column="75" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="117" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
+      <jump line="47" column="14" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
+      <jump line="50" column="15" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFsbHV4aW9TdG9yZS4K</text>
+        <text encoding="base64">ICAgICAgZGVmIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>shuffle</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFsbHV4aW9TdG9yZS4K</text>
+        <text encoding="base64">ICAgICAgZGVmIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAocG9vbCBpbiBORVRUWV9DSEFOTkVMX1BPT0xfTUFQLnZhbHVlcygpKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnNpb25zLm1hcEFzU2NhbGFNYXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0cmljc1N5c3RlbS5yZWdpc3RlckdhdWdlSWZBYnNlbnQoTWV0cmljc1N5c3RlbS5nZXRDbGllbnRNZXRyaWNOYW1lKCJOZXR0eUNvbm5lY3Rpb25zT3BlbiIpLAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcHRpb25zLnNldFdyaXRlVHlwZShXcml0ZVR5cGUuQVNZTkNfVEhST1VHSCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZU1hcChwYXJ0aXRpb25JZCkgPSB0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExpbmVhZ2VJbmZvPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgLyoqCiAgICogUmVwb3J0cyBhIGZpbGUgYXMgbG9zdC4KICAgKgogICAqIEBwYXJhbSBwYXRoIHRoZSBwYXRoIHRvIHRoZSBsb3N0IGZpbGUKICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uIGlmIGEgbm9uLUFsbHV4aW8gZXhjZXB0aW9uIG9jY3Vycwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">amF2YS51dGlsLlRyZWVNYXBbSW50LCBBcnJheUJ1ZmZlcltQcm9kdWN0MltBbnksIEFueV1dXQogICAgZm9yIChlbGVtOiBQcm9kdWN0MltBbnksIEFueV0gPC0gaXRlcikgewogICAgICB2YWwgcGFydGl0aW9uSWQgPSBkZXAucGFydGl0aW9uZXIuZ2V0UGFydGl0aW9uKGVsZW0uXzEpCiAgICAgIHZhciBhcnJheUJ1ZmZlciA9IGNhY2hlTWFwLmdldE9yRWxzZShwYXJ0aXRpb25JZCwgbnVsbCkKICAgICAgaWYgKGFycmF5QnVmZmVyID09IG51bGwpIHsKICAgICAgICBhcnJheUJ1ZmZlciA9IG5ldyBBcnJheUJ1ZmZlcltQcm9kdWN0MltBbnksIEFueV1dCiAgICAgICAgY2FjaGVNYXAocGFydGl0aW9uSWQpID0gYXJyYXlCdWZmZXIKICAgICAgfQogICAgICBhcnJheUJ1ZmZlci5hcHBlbmQoZWxlbSkKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGFsbHV4aW8udGhyaWZ0LkxpbmVhZ2VJbmZvIGxpbmVhZ2VJbmZvIDogbUNsaWVudC5nZXRMaW5lYWdlSW5mb0xpc3QoKSkgewogICAgICAgICAgcmVzdWx0LmFkZChUaHJpZnRVdGlscy5mcm9tVGhyaWZ0KGxpbmVhZ2VJbmZvKSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgfQogICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCBNYXBbSW50LCBBcnJheUJ1ZmZlcltQcm9kdWN0MltBbnksIEFueV1dXSA9IG5ldyBqYXZhLnV0aWwuVHJlZU1hcFtJbnQsIEFycmF5QnVmZmVyW1Byb2R1Y3QyW0FueSwgQW55XV1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBNYXBbSW50LCBBcnJheUJ1ZmZlcltQcm9kdWN0MltBbnksIEFueV1dXSA9IG5ldyBqYXZhLnV0aWwuVHJlZU1hcFtJbnQsIEFycmF5QnVmZmVyW1Byb2R1Y3QyW0FueSwgQW55XV1dCiAgICBmb3IgKGVsZW06IFByb2R1Y3QyW0FueSwgQW55XSA8LSBpdGVyKSB7CiAgICAgIHZhbCBwYXJ0aXRpb25JZCA9IGRlcC5wYXJ0aXRpb25lci5nZXRQYXJ0aXRpb24oZWxlbS5fMSkKICAgICAgdmFyIGFycmF5QnVmZmVyID0gY2FjaGVNYXAuZ2V0T3JFbHNlKHBhcnRpdGlvbklkLCBudWxsKQogICAgICBpZiAoYXJyYXlCdWZmZXIgPT0gbnVsbCkgewogICAgICAgIGFycmF5QnVmZmVyID0gbmV3IEFycmF5QnVmZmVyW1Byb2R1Y3QyW0FueSwgQW55XV0KICAgICAgICBjYWNoZU1hcChwYXJ0aXRpb25JZCkgPSBhcnJheUJ1ZmZlcgogICAgICB9CiAgICAgIGFycmF5QnVmZmVyLmFwcGVuZChlbGVtKQogICAgfQoKICAgIC8vIHdyaXRlIGRhdGEgYW5kIGluZGV4IGZpbGUsIHRoZW4gY2xvc2UgYWxsIHN0cmVhbXMKICAgIHZhbCBkYXRhV3JpdGVyID0gQWxsdXhpb1N0b3JlLmdldC5nZXREYXRhV3JpdGVyKGRlcC5zaHVmZmxlSWQsIG1hcElkLCBkZXAuc2VyaWFsaXplci5uZXdJbnN0YW5jZSgpLCB3cml0ZU1ldHJpY3MpCiAgICB2YWwgaW5kZXhXcml0ZXIgPSBBbGx1eGlvU3RvcmUuZ2V0LmdldEluZGV4V3JpdGVyKGRlcC5zaHVmZmxlSWQsIG1hcElkKQogICAgdmFsIGluZGV4RmlsZSA9IG5ldyBBbGx1eGlvSW5kZXhGaWxlCiAgICB2YXIgY3VyTGVuZ3RoOiBMb25nID0gMAogICAgZm9yICgoaywgdikgPC0gY2FjaGVNYXApIHsKICAgICAgdmFsIGxlbmd0aCA9IGRhdGFXcml0ZXIud3JpdGVSZWNvcmRzKHYpCiAgICAgIGluZGV4RmlsZS5hZGRJbmRleChuZXcgUGFydGl0aW9uSW5kZXgoaywgY3VyTGVuZ3RoLCBsZW5ndGggLSBjdXJMZW5ndGgpKQogICAgICBwYXJ0aXRpb25MZW5ndGhzLmFwcGVuZChsZW5ndGggLSBjdXJMZW5ndGgpCiAgICAgIGN1ckxlbmd0aCA9IGxlbmd0aAogICAgfQogICAgZGF0YVdyaXRlci5jbG9zZSgpCiAgICBpbmRleFdyaXRlci53cml0ZShpbmRleEZpbGUuZ2V0Qnl0ZXMpCiAgICBpbmRleFdyaXRlci5jbG9zZSgpCiAgfQoKICAvKiogQ2xvc2UgdGhpcyB3cml0ZXIsIHBhc3NpbmcgYWxvbmcgd2hldGhlciB0aGUgbWFwIGNvbXBsZXRlZCAqLwogIG92ZXJyaWRlIGRlZiBzdG9wKHN1Y2Nlc3M6IEJvb2xlYW4pOiBPcHRpb25bTWFwU3RhdHVzXSA9IHsKICAgIGlmICghc3RvcHBpbmcpIHsKICAgICAgc3RvcHBpbmcgPSB0cnVlCiAgICAgIGlmIChzdWNjZXNzKSB7CiAgICAgICAgcmV0dXJuIFNvbWUoTWFwU3RhdHVzKGJsb2NrTWFuYWdlci5zaHVmZmxlU2VydmVySWQsIHBhcnRpdGlvbkxlbmd0aHMudG9BcnJheSkpCiAgICAgIH0KICAgIH0KICAgIE5vbmUKICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEFsbHV4aW9TdG9yZS4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YmxvY2tXb3JrZXJDbGllbnQpCiAgICAgICAgYmxvY2tXb3JrZXJDbGllbnQuY2xvc2UoKQogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBpZiB0aGVyZSBpcyBhIGxvY2FsIHdvcmtlciBydW5uaW5nIHRoZSBzYW1lIG1hY2hpbmUKICAgICAqLwogICAgQFN5bmNocm9uaXplZCBmdW4gaGFzTG9jYWxXb3JrZXIoKTog</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmV0OiBMb25nID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAocG9vbCBpbiBORVRUWV9DSEFOTkVMX1BPT0xfTUFQLnZhbHVlcygpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shuffle</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>shuffle</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>萧峰</entry>
         <entry>书生</entry>
         <entry>双刀</entry>
         <entry>人刀</entry>
@@ -272,6 +287,7 @@
         <entry>jdk</entry>
         <entry>java.version</entry>
         <entry>shuffle</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>0,$s/://g</entry>
