@@ -299,6 +299,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
 </application>
