@@ -49,12 +49,12 @@
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1479982456429">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="81" column="36" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="14" />
-        <mark key="^" line="79" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1479983835459">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="73" column="21" />
+        <mark key="." line="73" column="21" />
+        <mark key="^" line="73" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
@@ -100,12 +100,11 @@
         <mark key="n" line="39" column="6" />
         <mark key="^" line="37" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1479980554646">
+      <file name="/fragment.java" timestamp="1479983863585">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="37" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
       <jump line="433" column="41" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
       <jump line="444" column="37" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
       <jump line="448" column="12" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
@@ -205,10 +204,11 @@
       <jump line="29" column="60" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="87" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
+      <jump line="76" column="8" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbi5tYXJrKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -217,34 +217,34 @@
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdGVzdExvY2FsV3JpdGUoRmlsZUlucHV0U3RyZWFtIGluLCBGaWxlT3V0cHV0U3RyZWFtIG91dCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBsb25nIGJlZ2luLCBlbmQ7CiAgICAgICAgYmVnaW4gPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBieXRlW10gYnVmZmVyID0gbmV3IGJ5dGVbMTAyNCAqIDEwMjQgKiA0XTsKICAgICAgICB0cnkgewogICAgICAgICAgICB3aGlsZShpbi5hdmFpbGFibGUoKSAhPSAwKXsKICAgICAgICAgICAgICAgIGluLnJlYWQoYnVmZmVyKTsKICAgICAgICAgICAgICAgIG91dC53cml0ZShidWZmZXIpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBvdXQuY2xvc2UoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRpbWUgOiAiICsgKGVuZCAtIGJlZ2luKSAvIDEgKyAibXMiKTsKICAgIH0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXWFyZ3Mpewo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbiA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoYXJnc1swXSkpOwogICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKG5ldyBGaWxlTm90Rm91bmRFeGNlcHRpb24oYXJnc1swXSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbi5tYXJrKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXWFyZ3Mpewo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TG9jYWxXcml0ZShpbiwgb3V0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbi5tYXJrKDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgRmlsZVN5c3RlbSBmcyA9IEZpbGVTeXN0ZW0uRmFjdG9yeS5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbiA9IG5ldwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbi5yZXNldCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbi5tYXJrKDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxvY2FsIHRpbWUiICsgKGVuZCAtIGJlZ2luKSAvIDEgKyAibXMiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXWFyZ3Mpewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgRmlsZVN5c3RlbSBmcyA9IEZpbGVTeXN0ZW0uRmFjdG9yeS5nZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
