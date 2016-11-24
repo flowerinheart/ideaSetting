@@ -14,11 +14,14 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" timestamp="1479960792517">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala" timestamp="1479894346340">
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala" timestamp="1479963527078">
+        <mark key="'" line="55" column="25" />
         <mark key="[" line="53" column="11" />
+        <mark key="k" line="55" column="35" />
         <mark key="]" line="53" column="11" />
         <mark key="^" line="53" column="11" />
         <mark key="." line="53" column="11" />
+        <mark key="n" line="48" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" timestamp="1479889635549">
         <mark key="[" line="157" column="4" />
@@ -31,6 +34,9 @@
         <mark key="]" line="612" column="56" />
         <mark key="^" line="612" column="56" />
         <mark key="." line="612" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" timestamp="1479963550604">
+        <mark key="'" line="44" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479958409931">
         <mark key="'" line="41" column="13" />
@@ -118,6 +124,10 @@
       <jump line="89" column="22" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
       <jump line="45" column="14" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
       <jump line="73" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
+      <jump line="32" column="23" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala" />
+      <jump line="44" column="8" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala" />
+      <jump line="55" column="25" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala" />
+      <jump line="44" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -127,7 +137,7 @@
         <text>Int, ArrayBuffer[util.ArrayList[String]]</text>
       </register>
       <register name="/" type="4">
-        <text>mapStatus</text>
+        <text>compute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvcihpIDwtIDAgdW50aWwgbGlzdC5zaXplKCkpewogICAgICB2YWwgYXJyYXkgPSBsaXN0LmdldChpKQo=</text>
@@ -164,9 +174,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mapStatus</last-search>
+      <last-search>compute</last-search>
       <last-offset />
-      <last-pattern>mapStatus</last-pattern>
+      <last-pattern>compute</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -186,6 +196,8 @@
         <entry>app</entry>
         <entry>map =</entry>
         <entry>mapStatus</entry>
+        <entry>blockFetcher</entry>
+        <entry>compute</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
