@@ -29,11 +29,11 @@
         <mark key="^" line="612" column="56" />
         <mark key="." line="612" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479892042819">
-        <mark key="[" line="13" column="211" />
-        <mark key="]" line="13" column="210" />
-        <mark key="." line="13" column="210" />
-        <mark key="^" line="13" column="210" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479954276030">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/common/src/main/java/alluxio/AbstractClient.java" timestamp="1479890228884">
         <mark key="'" line="64" column="46" />
@@ -83,32 +83,44 @@
       <jump line="54" column="17" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/IndexShuffleBlockResolver.scala" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQoInNwYXJrLmFsbHV4aW8ubG9naW4udXNlciIsICJEYXJuZWxsIikK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQoInNwYXJrLmFsbHV4aW8ubG9naW4udXNlciIsICJEYXJuZWxsIikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteVJkZC5zaG8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbXlSZGQubWFwKGxpbmUgPT4gKGxpbmUubGVuZ3RoLCAxKSkucmVkdWNlQnlLZXkoXyArIF8pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEFsbHV4aW9VUkkgdXJpID0gbmV3IEFsbHV4aW9VCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQoInNwYXJrLmRyaXZlci5leHRyYUNsYXNzUGF0aCIsICJDOlxcVXNlcnNcXERhcm5lbGxcXC5tMlxccmVwb3NpdG9yeVxcb3JnXFxhbGx1eGlvXFxhbGx1eGlvLWNvcmUtY2xpZW50XFwxLjMuMCIpCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text>diskBlockManager</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHJhbmRvbSA9IG5ldyBSYW5kb21TdHJpbmcoMjApCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciBsaXN0ID0gbmV3IExpc3RCdWZmZXJbVHVwbGUyW1N0cmluZywgU3RyaW5nXV0oKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0ZXN0TWFwUmVkdWNlKGFyZ3MoMCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXQoInNwYXJrLmFsbHV4aW8ubG9naW4udXNlciIsICJEYXJuZWxsIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBteVJkZC5zaG8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbXlSZGQubWFwKGxpbmUgPT4gKGxpbmUubGVuZ3RoLCAxKSkucmVkdWNlQnlLZXkoXyArIF8pCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEFsbHV4aW9VUkkgdXJpID0gbmV3IEFsbHV4aW9VCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
