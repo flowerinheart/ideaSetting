@@ -19,9 +19,13 @@
       <file name="$USER_HOME$/IdeaProjects/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/FileScanRDD.scala" timestamp="1479971638416">
         <mark key="'" line="61" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/MultiBlockStreamTest.java" timestamp="1479980758697" />
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/Tools.java" timestamp="1480055964043">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Tools.java" timestamp="1480043440878">
         <mark key="'" line="86" column="42" />
@@ -44,31 +48,39 @@
         <mark key="^" line="68" column="39" />
         <mark key="." line="68" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" timestamp="1479971518648">
-        <mark key="'" line="198" column="37" />
-        <mark key="[" line="42" column="1" />
-        <mark key="m" line="93" column="15" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="42" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/WriteFileTest.java" timestamp="1480056019406">
+        <mark key="'" line="20" column="36" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1479983835459">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="73" column="21" />
-        <mark key="." line="73" column="21" />
-        <mark key="^" line="73" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1480056125263">
+        <mark key="'" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Main.java" timestamp="1480056249471">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1480056544166">
+        <mark key="'" line="105" column="18" />
+        <mark key="[" line="177" column="83" />
+        <mark key="]" line="179" column="7" />
+        <mark key="^" line="179" column="7" />
+        <mark key="." line="179" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480053625718">
-        <mark key="'" line="43" column="69" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480055258745">
+        <mark key="'" line="25" column="26" />
+        <mark key="[" line="92" column="54" />
+        <mark key="]" line="92" column="55" />
+        <mark key="." line="92" column="55" />
+        <mark key="^" line="92" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/ByteBufferTest.java" timestamp="1480055666687" />
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479979283131">
         <mark key="'" line="41" column="13" />
         <mark key="[" line="17" column="30" />
@@ -84,14 +96,6 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleReader.scala" timestamp="1479972866254">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="40" column="79" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="n" line="39" column="6" />
-        <mark key="^" line="37" column="59" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Tools.java" timestamp="1480042967885">
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="25" />
@@ -105,33 +109,17 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1480047834791">
+      <file name="/fragment.java" timestamp="1480056213127">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480056121821">
+        <mark key="'" line="96" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="8" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="266" column="10" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="308" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="87" column="25" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="90" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="156" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="252" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="284" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="66" column="73" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="118" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="119" column="2" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="287" column="43" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="345" column="11" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="348" column="26" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="349" column="18" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="102" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="279" column="5" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="57" column="23" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="68" column="23" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="81" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="210" column="8" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
-      <jump line="195" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
       <jump line="196" column="36" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
       <jump line="197" column="20" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
       <jump line="199" column="37" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala" />
@@ -210,65 +198,82 @@
       <jump line="413" column="21" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
       <jump line="9" column="22" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" />
       <jump line="43" column="69" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="76" column="30" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="27" column="26" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="67" column="12" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="38" column="4" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="78" column="19" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="95" column="12" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="25" column="26" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" />
+      <jump line="98" column="9" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" />
+      <jump line="20" column="36" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/WriteFileTest.java" />
+      <jump line="97" column="13" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" />
+      <jump line="96" column="12" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" />
+      <jump line="18" column="21" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" />
+      <jump line="112" column="4" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
+      <jump line="65" column="24" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
+      <jump line="159" column="69" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
+      <jump line="105" column="18" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new AlluxioURI([2]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new AlluxioURI([2]</text>
+        <text>byte[] buffer</text>
       </register>
       <register name="/" type="4">
-        <text>_instance</text>
+        <text>testWriteB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbiA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoYXJnc1swXSkpOwogICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKG5ldyBGaWxlTm90Rm91bmRFeGNlcHRpb24oYXJnc1swXSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG1pbGxzZWNvbmRzID0gMDsKICAgICAgICBmb3IoaW50IGogPSAwOyBqIDwgY291bnRzOyBqKyspIHsKICAgICAgICAgICAgYnl0ZVtdIGRhdGEgPSBuZXcgYnl0ZVs0ICogMTAyNCAqIDEwMjRdOwogICAgICAgICAgICBsb25nIGJlZ2luLCBlbmQ7CiAgICAgICAgICAgIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtTUI7IGkrKykgewogICAgICAgICAgICAgICAgb3V0LndyaXRlKGRhdGEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVuZCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgICAgICBtaWxsc2Vjb25kcyArPSAoZW5kIC0gYmVnaW4pOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAidGVzdFNGIjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUb29scy5jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0KGFyZ3MubGVuZ3RoID49IDEpOwoKICAgICAgICBzd2l0Y2goYXJnc1swXSl7CiAgICAgICAgICAgIGNhc2UgImdlbktWIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJ0ZXN0V3JpdGUiOgogICAgICAgICAgICAgICAgVGVzdEFsbHV4aW8udGVzdFdyaXRlKGFyZ3NbMV0sIGFyZ3NbMl0pOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInRlc3RSZWFkIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KCgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TG9jYWxXcml0ZShpbiwgb3V0KTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0KGFyZ3MubGVuZ3RoID49IDEpOwoKICAgICAgICBzd2l0Y2goYXJnc1swXSl7CiAgICAgICAgICAgIGNhc2UgImdlbktWIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJ0ZXN0V3JpdGUiOgogICAgICAgICAgICAgICAgVGVzdEFsbHV4aW8udGVzdFdyaXRlKGFyZ3NbMV0sIGFyZ3NbMl0pOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInRlc3RSZWFkIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KCgogICAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbi5tYXJrKDApOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0KGFyZ3MubGVuZ3RoID49IDEpOwoKICAgICAgICBzd2l0Y2goYXJnc1swXSl7CiAgICAgICAgICAgIGNhc2UgImdlbktWIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJ0ZXN0V3JpdGUiOgogICAgICAgICAgICAgICAgVGVzdEFsbHV4aW8udGVzdFdyaXRlKGFyZ3NbMV0sIGFyZ3NbMl0pOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInRlc3RSZWFkIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KCgogICAgfQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbiA9IG5ldwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgYXNzZXJ0KGFyZ3MubGVuZ3RoID49IDEpOwoKICAgICAgICBzd2l0Y2goYXJnc1swXSl7CiAgICAgICAgICAgIGNhc2UgImdlbktWIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJ0ZXN0V3JpdGUiOgogICAgICAgICAgICAgICAgVGVzdEFsbHV4aW8udGVzdFdyaXRlKGFyZ3NbMV0sIGFyZ3NbMl0pOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInRlc3RSZWFkIjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KCgogICAgfQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbi5yZXNldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvb2xzLnJ1bihuZXcgU3RyaW5nW117InJhbmRvbSIsIGFyZ3NbMV0sIGFyZ3NbMl19KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbi5tYXJrKDApOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_instance</last-search>
+      <last-search>testWriteB</last-search>
       <last-offset />
-      <last-pattern>_instance</last-pattern>
+      <last-pattern>testWriteB</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendRequest</entry>
-        <entry>fetchLocal</entry>
-        <entry>initialize</entry>
-        <entry>fetchRequests</entry>
-        <entry>localBlock</entry>
         <entry>maxBytesInFlight</entry>
         <entry>shufflePartitionIndexes</entry>
         <entry>read</entry>
@@ -284,6 +289,11 @@
         <entry encoding="base64">XDw7XD4=</entry>
         <entry>cs</entry>
         <entry>_instance</entry>
+        <entry>testAlluxio</entry>
+        <entry>testLocalWriteB</entry>
+        <entry>testLocalWrite</entry>
+        <entry>main</entry>
+        <entry>testWriteB</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
