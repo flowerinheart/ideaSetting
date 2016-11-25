@@ -76,12 +76,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480060096429">
-        <mark key="'" line="24" column="26" />
-        <mark key="[" line="201" column="47" />
-        <mark key="]" line="201" column="45" />
-        <mark key="." line="201" column="45" />
-        <mark key="^" line="201" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480061764848">
+        <mark key="'" line="118" column="51" />
+        <mark key="[" line="207" column="102" />
+        <mark key="]" line="207" column="105" />
+        <mark key="." line="207" column="105" />
+        <mark key="^" line="207" column="105" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/ByteBufferTest.java" timestamp="1480055666687" />
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479979283131">
@@ -123,11 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="7" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
-      <jump line="103" column="2" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
-      <jump line="107" column="36" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
-      <jump line="35" column="44" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
-      <jump line="37" column="10" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
       <jump line="95" column="15" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
       <jump line="96" column="70" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/ShuffledRDD.scala" />
       <jump line="146" column="33" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" />
@@ -223,16 +218,21 @@
       <jump line="201" column="21" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="108" column="18" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="109" column="28" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
+      <jump line="108" column="34" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="201" column="72" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="203" column="73" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="207" column="76" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
+      <jump line="118" column="51" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiKioqKioqKioqKioqKioqICAgIEphdmEgc3RyZWFtIHdyaXRlICVkIHRpbWVzICVkIE1CICAgICoqKioqKioqKioqKioqKioiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>outputPath2</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>testWriteBy</text>
+        <text>%l</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiKioqKioqKioqKioqKioqICAgIEphdmEgc3RyZWFtIHdyaXRlICVkIHRpbWVzICVkIE1CICAgICoqKioqKioqKioqKioqKioiKTsK</text>
@@ -269,15 +269,14 @@
       </register>
     </registers>
     <search>
-      <last-search>testWriteBy</last-search>
+      <last-search>%l</last-search>
       <last-offset />
-      <last-pattern>testWriteBy</last-pattern>
+      <last-pattern>%l</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getPartitions</entry>
         <entry>depencies</entry>
         <entry>dependencies</entry>
         <entry>compute</entry>
@@ -297,6 +296,7 @@
         <entry>testWriteB</entry>
         <entry>testAllu</entry>
         <entry>testWriteBy</entry>
+        <entry>%l</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
