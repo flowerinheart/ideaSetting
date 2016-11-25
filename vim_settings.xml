@@ -63,7 +63,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480059780363">
+      <file name="/Dummy.txt" timestamp="1480062088208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1480058619619">
@@ -73,15 +73,20 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager3/src/main/java/test/TestAlluxio.java" timestamp="1480062194388">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480061764848">
-        <mark key="'" line="118" column="51" />
-        <mark key="[" line="207" column="102" />
-        <mark key="]" line="207" column="105" />
-        <mark key="." line="207" column="105" />
-        <mark key="^" line="207" column="105" />
+        <mark key="'" line="119" column="51" />
+        <mark key="[" line="208" column="102" />
+        <mark key="]" line="208" column="105" />
+        <mark key="." line="208" column="105" />
+        <mark key="^" line="208" column="105" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/ByteBufferTest.java" timestamp="1480055666687" />
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479979283131">
@@ -225,8 +230,8 @@
       <jump line="118" column="51" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -238,31 +243,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiKioqKioqKioqKioqKioqICAgIEphdmEgc3RyZWFtIHdyaXRlICVkIHRpbWVzICVkIE1CICAgICoqKioqKioqKioqKioqKioiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiYXZnIHRpbWUgZm9yIHdyaXRlICVkIE1CIGZpbGUgIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxvY2FsIHdyaXRlIHRpbWUgOiAiICsgKGVuZCAtIGJlZ2luKSAvIDEgKyAibXMiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TY2FubmVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiYXZnIHRpbWUgZm9yIHdyaXRlICVkIE1CIGZpbGUgIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiZWdpbiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxvY2FsIHdyaXRlIHRpbWUgOiAiICsgKGVuZCAtIGJlZ2luKSAvIDEgKyAibXMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBvdXQuY2xvc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZE91dHB1dFN0cmVhbSBvdXQgPSBuZXcgQnVmZmVyZWRPdXRwdXRTdHJlYW0obmV3IEZpbGVPdXRwdXRTdHJlYW0oaW5wdXRQYXRoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZWdpbiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZElucHV0U3RyZWFtIGluID0gbmV3IEJ1ZmZlcmVkSW5wdXRTdHJlYW0obmV3IEZpbGVJbnB1dFN0cmVhbShpbnB1dFBhdGgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaQo=</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZE91dHB1dFN0cmVhbSBvdXQgPSBuZXcgQnVmZmVyZWRPdXRwdXRTdHJlYW0obmV3IEZpbGVPdXRwdXRTdHJlYW0oaW5wdXRQYXRoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSW5wdXRTdHJlYW0gaW4gPSBuZXcK</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZElucHV0U3RyZWFtIGluID0gbmV3IEJ1ZmZlcmVkSW5wdXRTdHJlYW0obmV3IEZpbGVJbnB1dFN0cmVhbShpbnB1dFBhdGgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
