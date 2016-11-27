@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
+      <mapping pattern="df" type="PLAIN_TEXT" />
+      <mapping pattern="part-r-00001" type="PLAIN_TEXT" />
       <mapping pattern="ttt" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="PR" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00009" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00004" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00003" type="PLAIN_TEXT" />
-      <mapping pattern="part-r-00002" type="PLAIN_TEXT" />
-      <mapping pattern="part-r-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern="part-r-00002" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
       <mapping pattern="LPA" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />

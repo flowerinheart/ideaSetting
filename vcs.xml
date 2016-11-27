@@ -51,7 +51,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/angelhunt/alluxio-shuffle-manager.git" />
+          <option name="url" value="http://192.168.20.14/skydiscovery/alluxio-shuffle-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.20.14/skydiscovery/alluxio-shuffle-manager" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
