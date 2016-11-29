@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1480043155150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480410124029">
-        <mark key="'" line="77" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480411679697">
+        <mark key="'" line="29" column="39" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="77" column="5" />
@@ -49,8 +49,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/pom.xml" timestamp="1480410319809">
-        <mark key="[" line="34" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/pom.xml" timestamp="1480410702084">
+        <mark key="[" line="39" column="20" />
         <mark key="]" line="34" column="17" />
         <mark key="." line="34" column="17" />
         <mark key="^" line="34" column="17" />
@@ -192,7 +192,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1480402225601">
+      <file name="/fragment.java" timestamp="1480411634927">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="22" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
-      <jump line="217" column="15" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
       <jump line="226" column="8" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
       <jump line="231" column="43" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
       <jump line="240" column="11" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
@@ -301,9 +299,11 @@
       <jump line="69" column="31" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="45" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="27" column="7" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/scala/GraphDataGen.scala" />
-      <jump line="77" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="80" column="6" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/GetSparkMetrics.java" />
       <jump line="78" column="5" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="77" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="29" column="39" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -313,7 +313,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>args</text>
+        <text>Get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFsbHV4aW88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmFsbHV4aW8tY29yZS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMy4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -350,15 +350,14 @@
       </register>
     </registers>
     <search>
-      <last-search>args</last-search>
+      <last-search>Get</last-search>
       <last-offset />
-      <last-pattern>args</last-pattern>
+      <last-pattern>Get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compute</entry>
         <entry>streamIndex</entry>
         <entry>file</entry>
         <entry>fs</entry>
@@ -378,6 +377,7 @@
         <entry>%l</entry>
         <entry>alluxio</entry>
         <entry>args</entry>
+        <entry>Get</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
