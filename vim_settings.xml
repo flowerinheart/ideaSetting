@@ -9,12 +9,12 @@
       <file name="/a.dummy" timestamp="1480043155150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480474213452">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="134" column="43" />
-        <mark key="]" line="134" column="43" />
-        <mark key="^" line="134" column="43" />
-        <mark key="." line="134" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480476193961">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/233.scala" timestamp="1480399716770">
         <mark key="[" line="4" column="0" />
@@ -99,6 +99,13 @@
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/local-1480474323033" timestamp="1480476212754">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Main.java" timestamp="1480056249471">
         <mark key="[" line="6" column="0" />
@@ -192,7 +199,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1480411634927">
+      <file name="/fragment.java" timestamp="1480475973664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
@@ -204,13 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="19" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
-      <jump line="314" column="33" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" />
-      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/java/TestAlluxio.java" />
-      <jump line="86" column="42" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Tools.java" />
-      <jump line="43" column="14" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="29" column="60" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="87" column="0" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
       <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" />
@@ -304,68 +304,67 @@
       <jump line="15" column="1" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="201" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="238" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="190" column="33" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/local-1480474323033" />
+      <jump line="71" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="109" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="49" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/local-1480474323033" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8veyBpbnB1dGJ5dGVzID0gMCwgaW5wdXRieXRlc19tZW0gPSAwLCBpbnB1dGJ5dGVzX2Rpc2s9MCwgaW5wdXRieXRlc19oYWRvb3A9MCwgaW5wdXRieXRlc19uZXR3b3JrPTB9Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyAK</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>Get</text>
+        <text>Data Read</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5wdXRieXRlc01ldHJpY3MucHV0KCJOZXR3b3JrIiwgKGxvbmcpIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8veyBpbnB1dGJ5dGVzID0gMCwgaW5wdXRieXRlc19tZW0gPSAwLCBpbnB1dGJ5dGVzX2Rpc2s9MCwgaW5wdXRieXRlc19oYWRvb3A9MCwgaW5wdXRieXRlc19uZXR3b3JrPTB9Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnB1dGJ5dGVzX25ldHdvcmsrPXZhbDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlucHV0Ynl0ZXNfZGlzays9dmFsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZihtZXRob2QuZXF1YWxzKCJOZXR3b3JrIikpewo=</text>
+        <text encoding="base64">ICAgIH1lbHNlIGlmKG1ldGhvZC5lcXVhbHMoIkRpc2siKSl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnB1dGJ5dGVzX21lbSs9dmFsOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dGJ5dGVzX2hhZG9vcCArPSB2YWw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZihtZXRob2QuZXF1YWxzKCJNZW1vcnkiKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1ldGhvZC5lcXVhbHMoIkhhZG9vcCIpZHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dGJ5dGVzTWV0cmljcy5wdXQoIkhhZG9vcCIsIChsb25nKSAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRieXRlc01ldHJpY3MucHV0KCJIYWRvb3AiLCAobG9uZykgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlucHV0Ynl0ZXNfZGlzays9dmFsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIH1lbHNlIGlmKG1ldGhvZC5lcXVhbHMoIkRpc2siKSl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Get</last-search>
+      <last-search>Data Read</last-search>
       <last-offset />
-      <last-pattern>Get</last-pattern>
+      <last-pattern>Data Read</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>streamIndex</entry>
-        <entry>file</entry>
-        <entry>fs</entry>
-        <entry>fs.li</entry>
-        <entry encoding="base64">XDw7XD4=</entry>
-        <entry>cs</entry>
-        <entry>_instance</entry>
-        <entry>testAlluxio</entry>
         <entry>testLocalWriteB</entry>
         <entry>testLocalWrite</entry>
         <entry>main</entry>
@@ -378,6 +377,14 @@
         <entry>alluxio</entry>
         <entry>args</entry>
         <entry>Get</entry>
+        <entry>StageCom</entry>
+        <entry>Stage</entry>
+        <entry>Sub</entry>
+        <entry>Task</entry>
+        <entry>Input Metrics</entry>
+        <entry>Data</entry>
+        <entry>DataRead</entry>
+        <entry>Data Read</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
