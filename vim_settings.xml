@@ -9,12 +9,12 @@
       <file name="/a.dummy" timestamp="1480043155150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480473146187">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="129" column="117" />
-        <mark key="]" line="129" column="32" />
-        <mark key="." line="129" column="32" />
-        <mark key="^" line="129" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480474213452">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="134" column="43" />
+        <mark key="]" line="134" column="43" />
+        <mark key="^" line="134" column="43" />
+        <mark key="." line="134" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/233.scala" timestamp="1480399716770">
         <mark key="[" line="4" column="0" />
@@ -307,7 +307,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZvcm1hdCA9ICIlMTBzIHwgJTEwcyB8ICUxMHMgfCAlMTBzIjsK</text>
+        <text encoding="base64">ICAgIC8veyBpbnB1dGJ5dGVzID0gMCwgaW5wdXRieXRlc19tZW0gPSAwLCBpbnB1dGJ5dGVzX2Rpc2s9MCwgaW5wdXRieXRlc19oYWRvb3A9MCwgaW5wdXRieXRlc19uZXR3b3JrPTB9Owo=</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -316,34 +316,34 @@
         <text>Get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZvcm1hdCA9ICIlMTBzIHwgJTEwcyB8ICUxMHMgfCAlMTBzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRieXRlc01ldHJpY3MucHV0KCJOZXR3b3JrIiwgKGxvbmcpIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdAo=</text>
+        <text encoding="base64">ICAgIC8veyBpbnB1dGJ5dGVzID0gMCwgaW5wdXRieXRlc19tZW0gPSAwLCBpbnB1dGJ5dGVzX2Rpc2s9MCwgaW5wdXRieXRlc19oYWRvb3A9MCwgaW5wdXRieXRlc19uZXR3b3JrPTB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvbmcgc2h1ZmZsZV90YXNrX251bT0wOwogICAgbG9uZyBzaHVmZmxlX3Rhc2tfdGltZT0wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnB1dGJ5dGVzX25ldHdvcmsrPXZhbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZihtZXRob2QuZXF1YWxzKCJOZXR3b3JrIikpewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyhzaHVmZmxlX3dyaXRlPj4zMCkrIiBHOyIrIlxuIik7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnB1dGJ5dGVzX21lbSs9dmFsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICsiIHdyaXRlICIrKHNodWZmbGVfd3JpdGU+PjIwKSsiIE07ICIK</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZihtZXRob2QuZXF1YWxzKCJNZW1vcnkiKSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyIgIisoc2h1ZmZsZV9yZWFkPj4zMCkrIiBHOyAiCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dGJ5dGVzTWV0cmljcy5wdXQoIkhhZG9vcCIsIChsb25nKSAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyIgc2h1ZmZsZSByZWFkICIrKHNodWZmbGVfcmVhZD4+MjApKyIgTTsgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRieXRlc01ldHJpY3MucHV0KCJIYWRvb3AiLCAobG9uZykgMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsiIEcsdGFza05vRW1wdHlOdW0gIit0aGlzLnRhc2tldnRfbm9uZW1wdHkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsiIEcsdGFza051bSAiK3Rhc2tldnQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
