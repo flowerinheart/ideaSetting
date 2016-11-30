@@ -121,13 +121,13 @@
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480499670396">
-        <mark key="'" line="110" column="64" />
-        <mark key="[" line="82" column="27" />
-        <mark key="]" line="82" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480501414018">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="110" column="71" />
+        <mark key="]" line="110" column="63" />
         <mark key="m" line="215" column="29" />
-        <mark key="^" line="82" column="26" />
-        <mark key="." line="82" column="26" />
+        <mark key="^" line="110" column="63" />
+        <mark key="." line="110" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/pom.xml" timestamp="1480480675030">
         <mark key="[" line="83" column="0" />
@@ -218,8 +218,8 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480495319420">
-        <mark key="'" line="1520" column="79" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480500708893">
+        <mark key="'" line="2978" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/META-INF/MANIFEST.MF" timestamp="1480062457836">
         <mark key="[" line="1" column="17" />
@@ -264,17 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="19" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="114" column="29" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="118" column="7" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
-      <jump line="120" column="16" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
-      <jump line="77" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
-      <jump line="2" column="361" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="79" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" />
-      <jump line="257" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" />
-      <jump line="85" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/GetSparkMetrics2.java" />
-      <jump line="68" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="23" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/GetSparkMetrics2.java" />
       <jump line="24" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
       <jump line="44" column="28" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
       <jump line="53" column="36" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
@@ -364,55 +353,66 @@
       <jump line="2141" column="6" filename="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" />
       <jump line="227" column="63" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" />
       <jump line="110" column="64" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="111" column="49" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="57" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="97" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="2998" column="287" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
+      <jump line="4466" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
+      <jump line="78" column="43" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
+      <jump line="3" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
+      <jump line="4464" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
+      <jump line="1494" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
+      <jump line="2978" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhcHAgdG90VGltZSAiICsgKGZ0IC0gc3QpIC8gMTAwMCAvIDYwICsgIiBtaW4gIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpICsgIiAgICBTdGFnZSBEZXRhaWwgTWV0cmljcyAgICAiICsgVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>%20s   |   %20s   |   %20s   |   %20s   |   %20s   |&quot;;</text>
       </register>
       <register name="/" type="4">
-        <text>App Me</text>
+        <text>StageCom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoaGVhZCArICJcbiIsICJBcHAgQ29zdFRpbWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpICsgIiAgICBTdGFnZSBEZXRhaWwgTWV0cmljcyAgICAiICsgVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhcHAgdG90VGltZSAiICsgKGZ0IC0gc3QpIC8gMTAwMCAvIDYwICsgIiBtaW4gIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgdG90X3RpbWUgLyAxMDAwIC8gNjAgKyAiIHNlYzptaW4gIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiB0b3RUaW1lICIgKyB0b3RfdGltZSAvIDEwMDAgKyAiIDogIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YWdlX2V2dCAiICsgdGhpcy5zdGFnZV9ldnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFnZSBpZDpleGUgIiArIGlkICsgIiA6ICIgKyAoZG91YmxlKSAoZnQgLSBzdCkgLyAxMDAwKTsvL3NlY29uZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5wcmludFZhbCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UucHJpbnRWYWwoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhcHAgdG90VGltZSAiICsgKGZ0IC0gc3QpIC8gMTAwMCAvIDYwICsgIiBtaW4gIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIFN0YWdlU3RyaW5nID0gIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyAgICAgVGFzayAlZCAgICAgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFnZSBpZDpleGUgIiArIGlkICsgIiA6ICIgKyAoZG91YmxlKSAoZnQgLSBzdCkgLyAxMDAwKTsvL3NlY29uZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>App Me</last-search>
+      <last-search>StageCom</last-search>
       <last-offset />
-      <last-pattern>App Me</last-pattern>
+      <last-pattern>StageCom</last-pattern>
       <last-replace>App</last-replace>
       <last-substitute>App2</last-substitute>
       <last-dir>1</last-dir>
@@ -420,8 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TaskEnd</entry>
-        <entry>c</entry>
         <entry>Fin</entry>
         <entry>extract</entry>
         <entry>JC</entry>
@@ -430,7 +428,6 @@
         <entry>Task2</entry>
         <entry>App2</entry>
         <entry>Stage2</entry>
-        <entry>Stage</entry>
         <entry>GC</entry>
         <entry>Task Type</entry>
         <entry>Result</entry>
@@ -440,6 +437,9 @@
         <entry>Tools</entry>
         <entry>reg</entry>
         <entry>App Me</entry>
+        <entry>Stage</entry>
+        <entry>Application</entry>
+        <entry>StageCom</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
