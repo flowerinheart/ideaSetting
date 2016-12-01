@@ -144,11 +144,10 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/pom.xml" timestamp="1480482121156">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="56" column="26" />
-        <mark key="^" line="56" column="26" />
-        <mark key="." line="56" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/pom.xml" timestamp="1480560883323">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480493110322">
         <mark key="[" line="19" column="24" />
@@ -367,7 +366,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpICsgIiAgICBTdGFnZSBEZXRhaWwgTWV0cmljcyAgICAiICsgVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="-" type="4">
         <text>%20s   |   %20s   |   %20s   |   %20s   |   %20s   |&quot;;</text>
@@ -379,31 +378,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpICsgIiAgICBTdGFnZSBEZXRhaWwgTWV0cmljcyAgICAiICsgVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgdG90X3RpbWUgLyAxMDAwIC8gNjAgKyAiIHNlYzptaW4gIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiB0b3RUaW1lICIgKyB0b3RfdGltZSAvIDEwMDAgKyAiIDogIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YWdlX2V2dCAiICsgdGhpcy5zdGFnZV9ldnQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzay5wcmludFZhbCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UucHJpbnRWYWwoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhcHAgdG90VGltZSAiICsgKGZ0IC0gc3QpIC8gMTAwMCAvIDYwICsgIiBtaW4gIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8ZXhlY3V0aW9uPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgdG90X3RpbWUgLyAxMDAwIC8gNjAgKyAiIHNlYzptaW4gIik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiB0b3RUaW1lICIgKyB0b3RfdGltZSAvIDEwMDAgKyAiIDogIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YWdlX2V2dCAiICsgdGhpcy5zdGFnZV9ldnQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5wcmludFZhbCgpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UucHJpbnRWYWwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFnZSBpZDpleGUgIiArIGlkICsgIiA6ICIgKyAoZG91YmxlKSAoZnQgLSBzdCkgLyAxMDAwKTsvL3NlY29uZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhcHAgdG90VGltZSAiICsgKGZ0IC0gc3QpIC8gMTAwMCAvIDYwICsgIiBtaW4gIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
