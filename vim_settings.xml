@@ -102,6 +102,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/Stat.java" timestamp="1480566855961">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/ttt.sc" timestamp="1480401964899">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="0" />
@@ -165,11 +171,11 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480566341041">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480567933560">
+        <mark key="[" line="28" column="78" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
         <mark key="'" line="9" column="18" />
@@ -374,43 +380,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0YXQ+IHRhYmxlID0gdGFibGVzLmdldCh0YWJsZXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>C:\\Users\\Darnell\\IdeaProjects\\spark-benchmark\\common\\src\\main\\java\\com\\skydata\\spark\\benchmark\\metrics\\spark-events\\local-1480474323033</text>
+        <text>&quot;%&quot; + String.valueOf(nameColLen) + &quot;s&quot;</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpICsgIiAgICBTdGFnZSBEZXRhaWwgTWV0cmljcyAgICAiICsgVG9vbHMuZ2VuUmVwKCIjIyMjIyIsIDIpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBMb25nPj4gICAgc3RhdEluZm8gPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0YXQ+IHRhYmxlID0gdGFibGVzLmdldCh0YWJsZXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iai4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHJvd0xlbiA9IDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlci5wYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5za3lkYXRhLnNwYXJrLmJlbmNobWFyay5tZXRyaWNzLkdldFNwYXJrTWV0cmljczI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhlYWQsIGNvbnRlbnQgPSAifCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludFRhYmxlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+PiAgc3RySW5mbyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW50ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgbmFtZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRTcGFya01ldHJpY3MucnVuKCJDOlxcVXNlcnNcXERhcm5lbGxcXElkZWFQcm9qZWN0c1xcc3BhcmstYmVuY2htYXJrXFxjb21tb25cXHNyY1xcbWFpblxcamF2YVxcY29tXFxza3lkYXRhXFxzcGFya1xcYmVuY2htYXJrXFxtZXRyaWNzXFxldmVudFxcYXBwLTIwMTYxMTMwMTUwNjU5LTAwMDEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
