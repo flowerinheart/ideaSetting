@@ -54,16 +54,16 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run.sh" timestamp="1480664593154">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run.sh" timestamp="1480664744410">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1480661393722">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1480666704035">
+        <mark key="'" line="108" column="33" />
+        <mark key="[" line="47" column="63" />
+        <mark key="]" line="47" column="72" />
+        <mark key="^" line="47" column="72" />
+        <mark key="." line="47" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" timestamp="1480661539477">
         <mark key="'" line="42" column="25" />
@@ -124,6 +124,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/trun.sh" timestamp="1480665052181">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
@@ -182,13 +188,13 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480655940353">
-        <mark key="'" line="93" column="38" />
-        <mark key="k" line="96" column="58" />
-        <mark key="[" line="70" column="61" />
-        <mark key="]" line="70" column="62" />
-        <mark key="^" line="70" column="62" />
-        <mark key="." line="70" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480665740829">
+        <mark key="'" line="94" column="38" />
+        <mark key="k" line="97" column="58" />
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="43" />
+        <mark key="^" line="54" column="43" />
+        <mark key="." line="54" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
         <mark key="'" line="9" column="18" />
@@ -245,18 +251,17 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480657871227">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="46" column="30" />
-        <mark key="]" line="47" column="68" />
-        <mark key="." line="47" column="68" />
-        <mark key="^" line="47" column="68" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480666584290">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+        <mark key="^" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/run.sh" timestamp="1480664150324">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-        <mark key="^" line="2" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/run.sh" timestamp="1480664797199">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="63" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
@@ -290,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="18" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="109" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="36" column="34" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="136" column="52" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
@@ -390,10 +394,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
       <jump line="3" column="11" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
       <jump line="4" column="4" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
+      <jump line="94" column="33" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YmluPWBkaXJuYW1lICIkMCJgCmJpbj1gY2QgIiRiaW4iOyBwd2RgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;src.main.java.MovieReviewConverter&quot;</text>
@@ -402,34 +407,34 @@
         <text>DIR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmluPWBkaXJuYW1lICIkMCJgCmJpbj1gY2QgIiRiaW4iOyBwd2RgCg==</text>
+        <text encoding="base64">T1BUPSJGQUxTRSIKQ0xBU1M9ImNvbS5za3lkYXRhLnNwYXJrLmJlbmNobWFyay5tZXRyaWNzLlNwYXJrSnNvbkVzdGltYXRvciIKSkFSPSIke0RJUn0vY29tbW9uL3RhcmdldC9jb21tb24tMS4wLWphci13aXRoLWRlcGVuZGVuY2llcy5qYXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFWRz0iVFJVRSIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVZHPSJGQUxTRSIK</text>
+        <text encoding="base64">ICAgICAgICBCaUNvbnN1bWVyPEZpbGUsIEFycmF5TGlzdDxTcGFya0pzb25Fc3RpbWF0b3I+PiBhbmFseXNpc2VyID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">T1BUPSJGQUxTRSIK</text>
+        <text encoding="base64">ICAgICAgICBCaUNvbnN1bWVyPEZpbGUsIEFycmF5TGlzdDxTcGFya0pzb25Fc3RpbWF0b3I+PiBmaW5hbEFuYWx5c2lzZXIgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbEFuYWx5c2lzZXIuYWNjZXB0KHQsIGxpc3QpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGFuYWx5c2lzZXI7CiAgICAgICAgYW5hbHlzaXNlciA9IChGaWxlIGZpbGUsIEFycmF5TGlzdDxTcGFya0pzb25Fc3RpbWF0b3I+IGxpc3QpIC0+ewogICAgICAgICAgICBpZihmaWxlLmlzRmlsZSgpKXsKICAgICAgICAgICAgICAgIFNwYXJrSnNvbkVzdGltYXRvciBlc3RpbWF0b3IgPSBuZXcgU3BhcmtKc29uRXN0aW1hdG9yKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGVzdGltYXRvci5lc3RpbWF0b3IoZmlsZSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICBmb3IgKEZpbGUgdCA6IGZpbGUubGlzdEZpbGVzKCkpIHsKICAgICAgICAgICAgICAgICAgICBmaW5hbEFuYWx5c2lzZXIuYWNjZXB0KHQsIGxpc3QpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW5ldyBGaWxlKGFyZ3NbMV0pLmlzRmlsZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlc2FjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
