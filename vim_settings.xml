@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" timestamp="1480578461151">
-        <mark key="'" line="85" column="9" />
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" timestamp="1480652772217">
+        <mark key="'" line="98" column="9" />
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
         <mark key="'" line="257" column="0" />
@@ -190,12 +190,13 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480650194275">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="95" column="126" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480652868997">
+        <mark key="'" line="69" column="26" />
+        <mark key="k" line="90" column="0" />
+        <mark key="[" line="94" column="81" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+        <mark key="^" line="95" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
         <mark key="'" line="9" column="18" />
@@ -311,9 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="6" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="2998" column="287" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="4466" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
       <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="3" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
       <jump line="1494" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
@@ -411,65 +409,65 @@
       <jump line="10" column="2997" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
       <jump line="54" column="34" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="93" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
+      <jump line="85" column="104" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
+      <jump line="86" column="63" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
+      <jump line="69" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyVG9vbHMuY2VudGVyKGVzdGltYXRvci5zdGF0TmFtZSwgbWF4TGVuLCAnKicpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXMuYXBwZW5kKFN0clRvb2xzLmdlblJlcCgiXG4iLCB2bGVuICsgMSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>StrTools.genRep(&quot;*&quot;, maxLen)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Y2FjaGUg</text>
+        <text>sepLine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyVG9vbHMuY2VudGVyKGVzdGltYXRvci5zdGF0TmFtZSwgbWF4TGVuLCAnKicpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoU3RyaW5nIGJ1aWxkIDogYXJncyl7CiAgICAgICAgICAgIHNvdXJjZS5hcHBlbmQoIlxuIikuYXBwZW5kKGJ1aWxkKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyVG9vbHMuY2VudGVyKGVzdGltYXRvci5zdGF0TmFtZSwgbWF4TGVuLCAnKicpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXMuYXBwZW5kKFN0clRvb2xzLmdlblJlcCgiXG4iLCB2bGVuICsgMSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLmFwcGVuZCgiXG4iKS5hcHBlbmQoYnVpbGQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBzdGF0TmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzdGF0TmFtZSA9ICIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LnByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1heExlbiA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0LnByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Y2FjaGUg</last-search>
+      <last-search>sepLine</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Y2FjaGUg</last-pattern>
-      <last-replace>App</last-replace>
-      <last-substitute>App2</last-substitute>
+      <last-pattern>sepLine</last-pattern>
+      <last-replace>.append</last-replace>
+      <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>App Me</entry>
-        <entry>Stage</entry>
-        <entry>Application</entry>
         <entry>Stage ID</entry>
         <entry>Tools</entry>
         <entry>main</entry>
@@ -487,12 +485,17 @@
         <entry>taskevt_</entry>
         <entry>Cache</entry>
         <entry encoding="base64">Y2FjaGUg</entry>
+        <entry>out.println</entry>
+        <entry encoding="base64">XDxTdHJUb29sc1w+</entry>
+        <entry>sepLine</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
         <entry>1,$s/Task2/Task/g</entry>
         <entry>1,$s/Stage2/Stage/g</entry>
         <entry>1,$s/App2/App/g</entry>
+        <entry>87m90s/out.println/.append/g</entry>
+        <entry>87,90s/out.println/.append/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
