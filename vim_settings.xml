@@ -190,13 +190,13 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480652868997">
-        <mark key="'" line="69" column="26" />
-        <mark key="k" line="90" column="0" />
-        <mark key="[" line="94" column="81" />
-        <mark key="]" line="95" column="31" />
-        <mark key="." line="95" column="31" />
-        <mark key="^" line="95" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480653504479">
+        <mark key="'" line="86" column="66" />
+        <mark key="k" line="93" column="0" />
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="88" column="39" />
+        <mark key="^" line="88" column="39" />
+        <mark key="." line="88" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
         <mark key="'" line="9" column="18" />
@@ -312,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="3" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
       <jump line="1494" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
       <jump line="2978" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
@@ -412,13 +411,14 @@
       <jump line="85" column="104" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="86" column="63" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="69" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
+      <jump line="87" column="66" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuYXBwZW5kKFN0clRvb2xzLmdlblJlcCgiXG4iLCB2bGVuICsgMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZEJ1aWxkZXIuYXBwZW5kKGludGVydmFsICsgIioiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>StrTools.genRep(&quot;*&quot;, maxLen)</text>
+        <text>StrTools.genRep(&quot; &quot;, maxLen - len - 2 * (vlen + 1)) + interval + &quot;*&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>sepLine</text>
@@ -427,31 +427,31 @@
         <text encoding="base64">ICAgICAgICBmb3IoU3RyaW5nIGJ1aWxkIDogYXJncyl7CiAgICAgICAgICAgIHNvdXJjZS5hcHBlbmQoIlxuIikuYXBwZW5kKGJ1aWxkKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuYXBwZW5kKFN0clRvb2xzLmdlblJlcCgiXG4iLCB2bGVuICsgMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZEJ1aWxkZXIuYXBwZW5kKGludGVydmFsICsgIioiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLmFwcGVuZCgiXG4iKS5hcHBlbmQoYnVpbGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudEJ1aWxkZXIuYXBwZW5kKGludGVydmFsICsgIioiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXMuYXBwZW5kKFN0clRvb2xzLmdlblJlcCgiXG4iLCB2bGVuICsgMSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLmFwcGVuZCgiXG4iKS5hcHBlbmQoYnVpbGQpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
