@@ -59,12 +59,15 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1480657672964">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1480661393722">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
         <mark key="^" line="25" column="45" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" timestamp="1480661539477">
+        <mark key="'" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/local-1480474323033" timestamp="1480561554896">
         <mark key="'" line="23" column="294" />
@@ -77,6 +80,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" timestamp="1480067786379">
+        <mark key="'" line="266" column="18" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
@@ -98,26 +107,17 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/test/java/com/skydata/spark/benchmark/metrics/GetSparkMetricsTest.java" timestamp="1480481058266">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/.gitignore" timestamp="1480578631100">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="37" />
-        <mark key="^" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/Test.scala" timestamp="1480401256383">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run-static-vanilla.sh" timestamp="1480661069002">
+        <mark key="k" line="23" column="26" />
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/scala/AlluxioShuffleWriteTest.scala" timestamp="1479979283131">
+        <mark key="'" line="41" column="13" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/common/src/main/java/alluxio/AbstractClient.java" timestamp="1479890228884">
         <mark key="'" line="64" column="46" />
@@ -138,17 +138,14 @@
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480563042928">
-        <mark key="'" line="78" column="78" />
-        <mark key="[" line="151" column="0" />
-        <mark key="m" line="218" column="29" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
+        <mark key="'" line="230" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" timestamp="1480409738143">
+      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" timestamp="1480660423072">
+        <mark key="'" line="57" column="37" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -161,6 +158,12 @@
         <mark key="]" line="19" column="175" />
         <mark key="." line="19" column="175" />
         <mark key="^" line="19" column="175" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/bin/run.sh" timestamp="1480661361565">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/java/TestAlluxio.java" timestamp="1479978159161">
         <mark key="'" line="37" column="0" />
@@ -209,12 +212,6 @@
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/Test/src/main/java/TestAlluxio.java" timestamp="1480062567311">
         <mark key="'" line="104" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Test/pom.xml" timestamp="1480065756005">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Main.java" timestamp="1480056249471">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -233,11 +230,12 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/test/java/com/skydata/spark/benchmark/metrics/GetSparkMetricsTest.java" timestamp="1480481352622">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1480659901265">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480561399939">
         <mark key="'" line="20" column="35" />
@@ -245,14 +243,21 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" timestamp="1480649578302">
         <mark key="'" line="10" column="2997" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/META-INF/MANIFEST.MF" timestamp="1480062457836">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="120" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/pom.xml" timestamp="1480660779634">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480657871227">
         <mark key="'" line="60" column="0" />
@@ -261,19 +266,14 @@
         <mark key="." line="47" column="68" />
         <mark key="^" line="47" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Testtt/src/test/java/Test.java" timestamp="1480481806563">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/run.sh" timestamp="1480661662523">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480570195291">
-        <mark key="'" line="2978" column="23" />
-        <mark key="[" line="44" column="10" />
-        <mark key="]" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" timestamp="1480585344171">
         <mark key="'" line="143" column="68" />
@@ -281,12 +281,6 @@
         <mark key="]" line="143" column="68" />
         <mark key="." line="143" column="68" />
         <mark key="^" line="143" column="68" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Tools.java" timestamp="1480042967885">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-        <mark key="." line="28" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/GetSparkMetrics.java" timestamp="1480410110279">
         <mark key="'" line="80" column="6" />
@@ -310,33 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" />
-      <jump line="72" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="2" column="24505" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="32" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="33" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="34" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="35" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="36" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="38" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="41" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="43" column="1356" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="1494" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="2978" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" />
-      <jump line="34" column="28" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="293" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="295" column="15" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="296" column="65" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="297" column="64" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="298" column="15" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="299" column="65" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="300" column="64" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="287" column="15" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="169" column="20" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="25" column="19" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/Stat.java" />
-      <jump line="29" column="27" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/Stat.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/Stat.java" />
       <jump line="23" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" />
       <jump line="89" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" />
       <jump line="85" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" />
@@ -410,55 +377,82 @@
       <jump line="44" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="62" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="43" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="28" column="59" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="29" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="30" column="49" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="31" column="69" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="32" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="37" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="38" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="39" column="62" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="41" column="40" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="57" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="58" column="10" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="27" column="21" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="22" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" />
+      <jump line="52" column="21" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
+      <jump line="25" column="52" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
+      <jump line="36" column="42" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
+      <jump line="55" column="42" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
+      <jump line="56" column="38" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
+      <jump line="57" column="37" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
+      <jump line="1" column="1" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
+      <jump line="230" column="0" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
+      <jump line="18" column="21" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/pom.xml" />
+      <jump line="63" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
+      <jump line="33" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" />
+      <jump line="42" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">T1BUPSIke0RBVEFfRElSfS9tb3ZpZXMudHh0ICR7REFUQV9ESVJ9L21vdmllcy1vdXQudHh0ICIK</text>
       </register>
       <register name="-" type="4">
-        <text>StrTools.genRep(&quot; &quot;, maxLen - len - 2 * (vlen + 1)) + interval + &quot;*&quot;;</text>
+        <text>&quot;src.main.java.MovieReviewConverter&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>int</text>
+        <text>assem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJUb29scy5hcHBlbmRMaW5lKHJlcywgbm9uTGluZSwgdmxlbik7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uc2t5ZGF0YS5zcGFyay5iZW5jaG1hcmsubWV0cmljczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">T1BUPSIke0RBVEFfRElSfS9tb3ZpZXMudHh0ICR7REFUQV9ESVJ9L21vdmllcy1vdXQudHh0ICIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vRGF0YUdlbi90YXJnZXQvc3BhcmtiZW5jaC1kYXRhLWdlbi1wcm9qZWN0LTEuMC5qYXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">REFUQV9ESVI9IiR7REFUQVNFVF9ESVJ9L0FtYXpvbk1vdmllUmV2aWV3Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">LiAiJHtESVJ9Ly4uL2Jpbi9jb25maWcuc2giCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">RElSPWBjZCAkYmluLy4uLzsgcHdkYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGtleS5lcXVhbHMoKSkK</text>
+        <text encoding="base64">YmluPWBjZCAiJGJpbiI7IHB3ZGAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">YmluPWBkaXJuYW1lICIkMCJgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CTxkZXBlbmRlbmN5Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUgdGZpbGUgPSBuZXcgRmlsZQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PgogICAgICAgPGdyb3VwSWQ+ZWR1LmpodS5ubHA8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+d2lraXhtbGo8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4wPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>int</last-search>
+      <last-search>assem</last-search>
       <last-offset />
-      <last-pattern>int</last-pattern>
+      <last-pattern>assem</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -466,16 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>App</entry>
-        <entry>TaskEnd</entry>
-        <entry>StageCom</entry>
-        <entry>tot_task</entry>
-        <entry>AppS</entry>
-        <entry>Input Me</entry>
-        <entry>Shuffle Read</entry>
-        <entry>Input Bytes</entry>
-        <entry>App Total</entry>
-        <entry>Task Num</entry>
         <entry>taskevt</entry>
         <entry>taskevt_</entry>
         <entry>Cache</entry>
@@ -486,6 +470,16 @@
         <entry>genPa</entry>
         <entry>init</entry>
         <entry>int</entry>
+        <entry>plug</entry>
+        <entry>assembly</entry>
+        <entry>maven</entry>
+        <entry>set</entry>
+        <entry>Setting</entry>
+        <entry>wiki</entry>
+        <entry>java</entry>
+        <entry>CP</entry>
+        <entry>cp</entry>
+        <entry>assem</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -529,6 +523,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
