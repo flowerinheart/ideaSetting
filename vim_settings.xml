@@ -236,6 +236,11 @@
       <file name="/Dummy.txt" timestamp="1480669595359">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1480745367087">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1480058619619">
         <mark key="'" line="109" column="28" />
         <mark key="[" line="220" column="80" />
@@ -304,7 +309,7 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1480656773534">
+      <file name="/fragment.java" timestamp="1480743369264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
@@ -419,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSsrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>new StringBuilder(&quot;|&quot;)</text>
@@ -431,18 +436,30 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBoZWFkQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCJ8Iik7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgY29udGVudEJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigifCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSsrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfIDogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmNoYXJzCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSsrOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gPSAwOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>if (num == 3) {
                 int len = headBuilder.length();
                 maxLen = Math.max(len, maxLen);
@@ -454,18 +471,6 @@
                 rows.add(tableLine);
                 num = 0;
             }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGxlbiA9IGhlYWRCdWlsZGVyLmxlbmd0aCgpOwogICAgICAgICAgICAgICAgbWF4TGVuID0gTWF0aC5tYXgobGVuLCBtYXhMZW4pOwogICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciB0YWJsZUxpbmUgPSBuZXcgU3RyaW5nQnVpbGRlcihTdHJUb29scy5nZW5SZXAoIi0iLCBsZW4pKTsKICAgICAgICAgICAgICAgIHJvd3MuYWRkKHRhYmxlTGluZSk7CiAgICAgICAgICAgICAgICByb3dzLmFkZChoZWFkQnVpbGRlcik7CiAgICAgICAgICAgICAgICByb3dzLmFkZCh0YWJsZUxpbmUpOwogICAgICAgICAgICAgICAgcm93cy5hZGQoY29udGVudEJ1aWxkZXIpOwogICAgICAgICAgICAgICAgcm93cy5hZGQodGFibGVMaW5lKTsKICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
