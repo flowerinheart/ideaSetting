@@ -121,6 +121,12 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/patmat/src/test/scala/patmat/Test.scala" timestamp="1480741852911">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
       </file>
@@ -141,6 +147,9 @@
         <mark key="]" line="21" column="24" />
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
+      </file>
+      <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" timestamp="1480742422336">
+        <mark key="'" line="88" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
@@ -307,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="139" column="44" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="131" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
@@ -407,6 +414,8 @@
       <jump line="272" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="89" column="17" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="47" column="16" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
+      <jump line="62" column="34" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" />
+      <jump line="88" column="6" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -416,7 +425,7 @@
         <text>new StringBuilder(&quot;|&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>DIR</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBoZWFkQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCJ8Iik7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgY29udGVudEJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigifCIpOwo=</text>
@@ -463,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DIR</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern>DIR</last-pattern>
+      <last-pattern>+</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -473,8 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>taskevt_</entry>
-        <entry>Cache</entry>
         <entry encoding="base64">Y2FjaGUg</entry>
         <entry>out.println</entry>
         <entry encoding="base64">XDxTdHJUb29sc1w+</entry>
@@ -493,6 +500,8 @@
         <entry>cp</entry>
         <entry>assem</entry>
         <entry>DIR</entry>
+        <entry>apply</entry>
+        <entry>+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
