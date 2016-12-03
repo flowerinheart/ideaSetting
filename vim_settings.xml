@@ -115,8 +115,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run-static-vanilla.sh" timestamp="1480661069002">
         <mark key="k" line="23" column="26" />
       </file>
-      <file name="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1480772616924">
-        <mark key="'" line="24" column="58" />
+      <file name="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1480774758931">
+        <mark key="'" line="24" column="98" />
+        <mark key="[" line="203" column="12" />
+        <mark key="]" line="202" column="51" />
+        <mark key="." line="202" column="51" />
+        <mark key="^" line="202" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/.gitignore" timestamp="1480669497256">
         <mark key="[" line="18" column="22" />
@@ -412,11 +416,11 @@
       <jump line="89" column="17" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="47" column="16" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="18" column="15" filename="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" />
-      <jump line="24" column="58" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="24" column="98" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSsrOwo=</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="-" type="4">
         <text>new StringBuilder(&quot;|&quot;)</text>
@@ -428,41 +432,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBoZWFkQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCJ8Iik7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgY29udGVudEJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigifCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSsrOwo=</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gPSAwOwo=</text>
+        <text encoding="base64">ICAgIEB0YWlscmVjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>if (num == 3) {
-                int len = headBuilder.length();
-                maxLen = Math.max(len, maxLen);
-                StringBuilder tableLine = new StringBuilder(StrTools.genRep(&quot;-&quot;, len));
-                rows.add(tableLine);
-                rows.add(headBuilder);
-                rows.add(tableLine);
-                rows.add(contentBuilder);
-                rows.add(tableLine);
-                num = 0;
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChiLmhlYWQgPT0gMCkgdHJhdmVyc2UobGVmdCwgYi50YWlsKTsgZWxzZSB0cmF2ZXJzZShyaWdodCwgYi50YWlsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEZvcmsobGVmdCwgcmlnaHQsIGNoYXJzLCB3ZWlnaHQpID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGxlbiA9IGhlYWRCdWlsZGVyLmxlbmd0aCgpOwogICAgICAgICAgICAgICAgbWF4TGVuID0gTWF0aC5tYXgobGVuLCBtYXhMZW4pOwogICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciB0YWJsZUxpbmUgPSBuZXcgU3RyaW5nQnVpbGRlcihTdHJUb29scy5nZW5SZXAoIi0iLCBsZW4pKTsKICAgICAgICAgICAgICAgIHJvd3MuYWRkKHRhYmxlTGluZSk7CiAgICAgICAgICAgICAgICByb3dzLmFkZChoZWFkQnVpbGRlcik7CiAgICAgICAgICAgICAgICByb3dzLmFkZCh0YWJsZUxpbmUpOwogICAgICAgICAgICAgICAgcm93cy5hZGQoY29udGVudEJ1aWxkZXIpOwogICAgICAgICAgICAgICAgcm93cy5hZGQodGFibGVMaW5lKTsKICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhdmVyc2UodHJlZSwgYikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
