@@ -58,6 +58,22 @@
           <option name="url" value="http://192.168.20.14/skydiscovery/alluxio-shuffle-manager" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.20.14/skydiscovery/spark-benchmark.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SparkTC/spark-bench.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.20.14:haojie.ma/spark-benchmark.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.20.14/haojie.ma/spark-benchmark.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Darnell\IdeaProjects" />
