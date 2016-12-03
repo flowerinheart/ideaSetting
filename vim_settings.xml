@@ -221,11 +221,11 @@
       <file name="/Dummy.txt" timestamp="1480669595359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1480749868098">
-        <mark key="[" line="79" column="55" />
-        <mark key="]" line="79" column="100" />
-        <mark key="." line="79" column="100" />
-        <mark key="^" line="79" column="100" />
+      <file name="$USER_HOME$/Desktop/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1480752802610">
+        <mark key="[" line="131" column="90" />
+        <mark key="]" line="131" column="83" />
+        <mark key="^" line="131" column="83" />
+        <mark key="." line="131" column="83" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1480058619619">
         <mark key="'" line="109" column="28" />
@@ -404,7 +404,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>new StringBuilder(&quot;|&quot;)</text>
@@ -416,31 +416,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBoZWFkQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCJ8Iik7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgY29udGVudEJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigifCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWFwLnRvTGlzdAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KGMsIG1hcC5nZXRPckVsc2UoYywgMCkgKyAxKQo=</text>
+        <text encoding="base64">ICAgICAgbWFwLnRvTGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yKGMgOiBDaGFyIDwtIGNoYXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KGMsIG1hcC5nZXRPckVsc2UoYywgMCkgKyAxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG1hcCA9IG11dGFibGUuSGFzaE1hcFtDaGFyLCBJbnRdKCkK</text>
+        <text encoding="base64">ICAgICAgZm9yKGMgOiBDaGFyIDwtIGNoYXJzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdmFyIG1hcCA9IG11dGFibGUuSGFzaE1hcFtDaGFyLCBJbnRdKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWFwID0gbXV0YWJsZS5IYXNoTWFwW0NoYXIsIEludF0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
