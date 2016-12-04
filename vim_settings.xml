@@ -109,9 +109,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run-static-vanilla.sh" timestamp="1480661069002">
-        <mark key="k" line="23" column="26" />
-      </file>
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1480822406590">
         <mark key="'" line="186" column="40" />
         <mark key="[" line="162" column="45" />
@@ -143,6 +140,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" timestamp="1480866854808">
+        <mark key="'" line="56" column="34" />
+      </file>
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
         <mark key="'" line="18" column="15" />
       </file>
@@ -168,7 +168,6 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="H:/learning/course/大四上/scala函数式/job/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1480820410201" />
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/JavaTest.java" timestamp="1480812452660">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="12" />
@@ -309,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="83" column="33" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="47" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="48" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
@@ -409,6 +407,7 @@
       <jump line="197" column="24" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="228" column="70" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="186" column="40" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
+      <jump line="56" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
