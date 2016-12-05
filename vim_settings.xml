@@ -134,6 +134,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" timestamp="1480904116259">
+        <mark key="'" line="85" column="4" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" timestamp="1480866854808">
         <mark key="'" line="56" column="34" />
       </file>
@@ -308,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="24" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="170" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="243" column="39" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="145" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
@@ -408,6 +410,7 @@
       <jump line="87" column="11" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
       <jump line="93" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" />
       <jump line="184" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
+      <jump line="85" column="4" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
