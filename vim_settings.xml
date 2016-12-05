@@ -10,6 +10,9 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" timestamp="1480899727062">
+        <mark key="'" line="87" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
         <mark key="'" line="257" column="0" />
         <mark key="[" line="131" column="4" />
@@ -56,10 +59,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="67" column="39" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run.sh" timestamp="1480664744410">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1480669393314">
         <mark key="'" line="47" column="16" />
@@ -147,10 +146,6 @@
       <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/pom.xml" timestamp="1480480675030">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1480899071333">
         <mark key="'" line="59" column="1" />
       </file>
@@ -201,8 +196,8 @@
         <mark key="." line="189" column="7" />
         <mark key="^" line="189" column="7" />
       </file>
-      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" timestamp="1480899033445">
-        <mark key="'" line="36" column="65" />
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" timestamp="1480899718950">
+        <mark key="'" line="55" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/WriteFileTest.java" timestamp="1480059882704">
         <mark key="'" line="20" column="36" />
@@ -312,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="29" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="51" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="126" column="33" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="219" column="75" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="88" column="24" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
@@ -412,6 +405,8 @@
       <jump line="64" column="26" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" />
       <jump line="36" column="65" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
       <jump line="59" column="1" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" />
+      <jump line="55" column="52" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
+      <jump line="87" column="11" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
