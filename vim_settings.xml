@@ -134,8 +134,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
-      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" timestamp="1480904116259">
-        <mark key="'" line="85" column="4" />
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" timestamp="1480905032791">
+        <mark key="'" line="63" column="32" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" timestamp="1480866854808">
         <mark key="'" line="56" column="34" />
@@ -311,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
-      <jump line="243" column="39" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="145" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" />
       <jump line="117" column="32" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="63" column="1" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
@@ -411,6 +413,8 @@
       <jump line="93" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" />
       <jump line="184" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
       <jump line="85" column="4" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
+      <jump line="58" column="30" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
+      <jump line="63" column="32" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -420,7 +424,7 @@
         <text>new StringBuilder(&quot;|&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>flatMap</text>
+        <text>mean</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnQiKTsK</text>
@@ -457,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>flatMap</last-search>
+      <last-search>mean</last-search>
       <last-offset />
-      <last-pattern>flatMap</last-pattern>
+      <last-pattern>mean</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cache</entry>
         <entry encoding="base64">Y2FjaGUg</entry>
         <entry>out.println</entry>
         <entry encoding="base64">XDxTdHJUb29sc1w+</entry>
@@ -487,6 +490,7 @@
         <entry>assem</entry>
         <entry>DIR</entry>
         <entry>flatMap</entry>
+        <entry>mean</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
