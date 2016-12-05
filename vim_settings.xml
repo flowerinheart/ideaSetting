@@ -146,6 +146,9 @@
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
         <mark key="'" line="18" column="15" />
       </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" timestamp="1480898222868">
+        <mark key="'" line="64" column="26" />
+      </file>
       <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
@@ -308,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="33" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="47" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="48" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
       <jump line="49" column="29" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
@@ -408,6 +410,7 @@
       <jump line="228" column="70" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="186" column="40" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="56" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" />
+      <jump line="64" column="26" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
