@@ -10,8 +10,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" timestamp="1480899727062">
-        <mark key="'" line="87" column="11" />
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" timestamp="1480913109739">
+        <mark key="'" line="53" column="22" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="21" />
+        <mark key="." line="99" column="21" />
+        <mark key="^" line="99" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
         <mark key="'" line="257" column="0" />
@@ -43,6 +47,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/FileScanRDD.scala" timestamp="1479971638416">
         <mark key="'" line="61" column="6" />
       </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-mean.log" timestamp="1480914338095" />
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Tools.java" timestamp="1480043440878">
         <mark key="'" line="86" column="42" />
         <mark key="[" line="62" column="51" />
@@ -118,6 +123,9 @@
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
+      </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" timestamp="1480914513953">
+        <mark key="'" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/common/src/main/java/alluxio/AbstractClient.java" timestamp="1479890228884">
         <mark key="'" line="64" column="46" />
@@ -209,10 +217,10 @@
         <mark key="." line="189" column="7" />
         <mark key="^" line="189" column="7" />
       </file>
-      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" timestamp="1480910346841">
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" timestamp="1480913634327">
         <mark key="'" line="57" column="34" />
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="73" column="34" />
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="77" column="39" />
         <mark key="." line="73" column="34" />
         <mark key="^" line="73" column="34" />
       </file>
@@ -222,14 +230,6 @@
         <mark key="]" line="20" column="36" />
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" timestamp="1480669235818">
-        <mark key="'" line="106" column="38" />
-        <mark key="k" line="109" column="58" />
-        <mark key="[" line="87" column="28" />
-        <mark key="]" line="97" column="35" />
-        <mark key="." line="97" column="35" />
-        <mark key="^" line="97" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
         <mark key="'" line="9" column="18" />
@@ -269,6 +269,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" timestamp="1480649578302">
         <mark key="'" line="10" column="2997" />
+      </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" timestamp="1480914355624">
+        <mark key="'" line="93" column="17" />
+        <mark key="[" line="93" column="48" />
+        <mark key="]" line="93" column="48" />
+        <mark key="." line="93" column="48" />
+        <mark key="^" line="93" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
@@ -310,7 +317,7 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1480656773534">
+      <file name="/fragment.java" timestamp="1480913101705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
@@ -322,16 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="1" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="148" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="143" column="68" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" />
-      <jump line="119" column="32" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="126" column="10" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="26" column="24" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="45" column="104" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="71" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="92" column="7" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
@@ -422,55 +419,65 @@
       <jump line="63" column="32" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="236" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" />
       <jump line="56" column="34" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
+      <jump line="50" column="22" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
+      <jump line="72" column="29" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="9" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="33" column="6" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="68" column="21" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="81" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="93" column="17" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="45" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
+      <jump line="0" column="102" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
+      <jump line="4" column="54" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVhbnMucHV0Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>r.getItemId()</text>
       </register>
       <register name="/" type="4">
-        <text>mean</text>
+        <text>Prov</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnQiKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZXIsIERvdWJsZT4+IHN0YXQgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIHRyeSAoT2JqZWN0U3RyZWFtPFJhdGluZz4gcmF0aW5ncyA9IGRhby5xdWVyeShSYXRpbmcuY2xhc3MpLnN0cmVhbSgpKSB7CiAgICAgICAgICAgIGZvciAoUmF0aW5nIHI6IHJhdGluZ3MpIHsKICAgICAgICAgICAgICAgIC8vIHRoaXMgbG9vcCB3aWxsIHJ1biBvbmNlIGZvciBlYWNoIHJhdGluZyBpbiB0aGUgZGF0YSBzZXQKICAgICAgICAgICAgICAgIGxvbmcgaWQgPSByLmdldEl0ZW1JZCgpOwogICAgICAgICAgICAgICAgaWYoIXN0YXQuY29udGFpbnNLZXkoaWQpKQogICAgICAgICAgICAgICAgICAgIHN0YXQucHV0KGlkLCBuZXcgTXV0YWJsZVBhaXI8SW50ZWdlciwgRG91YmxlPigwLCAwLjApKTsKICAgICAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIHBhaXIubGVmdCArPSAxOwogICAgICAgICAgICAgICAgcGFpci5yaWdodCArPSByLmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIExvbmcyRG91YmxlT3Blbkhhc2hNYXAgbWVhbnMgPSBuZXcgTG9uZzJEb3VibGVPcGVuSGFzaE1hcCgpOwogICAgICAgIGZvcihMb25nIGlkIDogc3RhdC5rZXlTZXQoKSl7CiAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgbWVhbnMucHV0KGlkLmludFZhbHVlKCksIHBhaXIucmlnaHQgLyBwYWlyLmxlZnQpOwogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oImNvbXB1dGVkIG1lYW4gcmF0aW5ncyBmb3Ige30gaXRlbXMiLCBtZWFucy5zaXplKCkpOwogICAgICAgIHJldHVybiBuZXcgSXRlbU1lYW5Nb2RlbChtZWFucyk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVhbnMucHV0Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oImRhbXBlZCBtZWFuIG5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsb2JhbENvdW50ICs9IDE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEZpbmFsaXplIG1lYW5zIHRvIHN0b3JlIHRoZW0gaW4gdGhlIG1lYW4gbW9kZWwK</text>
+        <text encoding="base64">IGVyLCBEb3VibGU+PiBzdGF0ID0gbmV3IEhhc2hNYXAoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gcHJvY2VzcyB0aGlzIHJhdGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIFNldCB1cCBkYXRhIHN0cnVjdHVyZXMgZm9yIGNvbXB1dGluZyBtZWFucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0LnB1dChuZXcgTXV0YWJsZVBhaXI8SW50ZWdlciwgRG91YmxlPigwLCAwLjApKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXQuZ2V0KGlkKS5yaWdodCArPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFzdGF0LmNvbnRhaW5zS2V5KGlkKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mean</last-search>
+      <last-search>Prov</last-search>
       <last-offset />
-      <last-pattern>mean</last-pattern>
+      <last-pattern>Prov</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -478,11 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Y2FjaGUg</entry>
-        <entry>out.println</entry>
-        <entry encoding="base64">XDxTdHJUb29sc1w+</entry>
-        <entry>sepLine</entry>
-        <entry>genPa</entry>
         <entry>init</entry>
         <entry>int</entry>
         <entry>plug</entry>
@@ -498,6 +500,11 @@
         <entry>DIR</entry>
         <entry>flatMap</entry>
         <entry>mean</entry>
+        <entry>rpo</entry>
+        <entry>pro</entry>
+        <entry>provide</entry>
+        <entry>prov</entry>
+        <entry>Prov</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
