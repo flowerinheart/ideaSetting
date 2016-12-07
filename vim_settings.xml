@@ -89,6 +89,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" timestamp="1481130009233">
         <mark key="'" line="216" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" timestamp="1481136262897">
+        <mark key="'" line="179" column="28" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
@@ -248,7 +251,8 @@
         <mark key="." line="93" column="48" />
         <mark key="^" line="93" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" timestamp="1481129210709">
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" timestamp="1481135325220">
+        <mark key="'" line="390" column="25" />
         <mark key="[" line="62" column="12" />
         <mark key="]" line="62" column="12" />
         <mark key="." line="62" column="12" />
@@ -305,10 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2997" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="54" column="34" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="85" column="104" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="69" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="87" column="66" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="80" column="72" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="90" column="80" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
@@ -405,6 +405,10 @@
       <jump line="212" column="14" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
       <jump line="216" column="10" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
       <jump line="222" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="390" column="25" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" />
+      <jump line="138" column="29" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" />
+      <jump line="180" column="28" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" />
+      <jump line="179" column="28" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -414,7 +418,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>maybeSpill</text>
+        <text>PARTITION_ID_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZXIsIERvdWJsZT4+IHN0YXQgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIHRyeSAoT2JqZWN0U3RyZWFtPFJhdGluZz4gcmF0aW5ncyA9IGRhby5xdWVyeShSYXRpbmcuY2xhc3MpLnN0cmVhbSgpKSB7CiAgICAgICAgICAgIGZvciAoUmF0aW5nIHI6IHJhdGluZ3MpIHsKICAgICAgICAgICAgICAgIC8vIHRoaXMgbG9vcCB3aWxsIHJ1biBvbmNlIGZvciBlYWNoIHJhdGluZyBpbiB0aGUgZGF0YSBzZXQKICAgICAgICAgICAgICAgIGxvbmcgaWQgPSByLmdldEl0ZW1JZCgpOwogICAgICAgICAgICAgICAgaWYoIXN0YXQuY29udGFpbnNLZXkoaWQpKQogICAgICAgICAgICAgICAgICAgIHN0YXQucHV0KGlkLCBuZXcgTXV0YWJsZVBhaXI8SW50ZWdlciwgRG91YmxlPigwLCAwLjApKTsKICAgICAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIHBhaXIubGVmdCArPSAxOwogICAgICAgICAgICAgICAgcGFpci5yaWdodCArPSByLmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIExvbmcyRG91YmxlT3Blbkhhc2hNYXAgbWVhbnMgPSBuZXcgTG9uZzJEb3VibGVPcGVuSGFzaE1hcCgpOwogICAgICAgIGZvcihMb25nIGlkIDogc3RhdC5rZXlTZXQoKSl7CiAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgbWVhbnMucHV0KGlkLmludFZhbHVlKCksIHBhaXIucmlnaHQgLyBwYWlyLmxlZnQpOwogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oImNvbXB1dGVkIG1lYW4gcmF0aW5ncyBmb3Ige30gaXRlbXMiLCBtZWFucy5zaXplKCkpOwogICAgICAgIHJldHVybiBuZXcgSXRlbU1lYW5Nb2RlbChtZWFucyk7</text>
@@ -451,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maybeSpill</last-search>
+      <last-search>PARTITION_ID_</last-search>
       <last-offset />
-      <last-pattern>maybeSpill</last-pattern>
+      <last-pattern>PARTITION_ID_</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -461,8 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plug</entry>
-        <entry>assembly</entry>
         <entry>maven</entry>
         <entry>set</entry>
         <entry>Setting</entry>
@@ -481,6 +483,8 @@
         <entry>Prov</entry>
         <entry>serOutputStream</entry>
         <entry>maybeSpill</entry>
+        <entry>PARTITION_ID_START</entry>
+        <entry>PARTITION_ID_</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
