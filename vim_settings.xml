@@ -196,6 +196,9 @@
         <mark key="." line="189" column="7" />
         <mark key="^" line="189" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" timestamp="1481345682842">
+        <mark key="'" line="37" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager-true/spark-shuffle.md" timestamp="1481249270317">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="1" column="1" />
@@ -313,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="24" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="45" column="104" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="71" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="92" column="7" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="32" column="4610" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
@@ -413,6 +414,8 @@
       <jump line="67" column="23" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
       <jump line="156" column="18" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
       <jump line="199" column="31" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/SparkLauncher.java" />
+      <jump line="34" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
+      <jump line="37" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
