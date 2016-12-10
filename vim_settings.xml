@@ -225,6 +225,9 @@
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/Test/src/main/java/TestAlluxio.java" timestamp="1480062567311">
         <mark key="'" line="104" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" timestamp="1481346985656">
+        <mark key="'" line="33" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/scala/GraphDataGen.scala" timestamp="1480409748889">
         <mark key="'" line="27" column="7" />
       </file>
@@ -316,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="92" column="7" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
       <jump line="32" column="4610" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
       <jump line="11" column="1433" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
       <jump line="1494" column="1433" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
@@ -416,6 +417,8 @@
       <jump line="199" column="31" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/SparkLauncher.java" />
       <jump line="34" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
       <jump line="37" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
