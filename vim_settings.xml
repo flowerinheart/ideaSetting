@@ -104,6 +104,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" timestamp="1481466175754">
+        <mark key="'" line="119" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="122" column="8" />
@@ -130,6 +133,13 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481466554592">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="40" />
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
@@ -304,6 +314,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" timestamp="1481466416285">
+        <mark key="'" line="120" column="15" />
+      </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
         <mark key="[" line="48" column="68" />
         <mark key="]" line="48" column="20" />
@@ -348,10 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="28" column="59" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="29" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="30" column="49" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="31" column="69" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
@@ -448,55 +457,59 @@
       <jump line="68" column="35" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
       <jump line="59" column="21" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/serializer/JavaSerializer.scala" />
       <jump line="117" column="26" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/serializer/JavaSerializer.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="119" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" />
+      <jump line="120" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihpICsgaik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQuCg==</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>SerializationStream</text>
+        <text>connect</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXIsIERvdWJsZT4+IHN0YXQgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIHRyeSAoT2JqZWN0U3RyZWFtPFJhdGluZz4gcmF0aW5ncyA9IGRhby5xdWVyeShSYXRpbmcuY2xhc3MpLnN0cmVhbSgpKSB7CiAgICAgICAgICAgIGZvciAoUmF0aW5nIHI6IHJhdGluZ3MpIHsKICAgICAgICAgICAgICAgIC8vIHRoaXMgbG9vcCB3aWxsIHJ1biBvbmNlIGZvciBlYWNoIHJhdGluZyBpbiB0aGUgZGF0YSBzZXQKICAgICAgICAgICAgICAgIGxvbmcgaWQgPSByLmdldEl0ZW1JZCgpOwogICAgICAgICAgICAgICAgaWYoIXN0YXQuY29udGFpbnNLZXkoaWQpKQogICAgICAgICAgICAgICAgICAgIHN0YXQucHV0KGlkLCBuZXcgTXV0YWJsZVBhaXI8SW50ZWdlciwgRG91YmxlPigwLCAwLjApKTsKICAgICAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIHBhaXIubGVmdCArPSAxOwogICAgICAgICAgICAgICAgcGFpci5yaWdodCArPSByLmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIExvbmcyRG91YmxlT3Blbkhhc2hNYXAgbWVhbnMgPSBuZXcgTG9uZzJEb3VibGVPcGVuSGFzaE1hcCgpOwogICAgICAgIGZvcihMb25nIGlkIDogc3RhdC5rZXlTZXQoKSl7CiAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgbWVhbnMucHV0KGlkLmludFZhbHVlKCksIHBhaXIucmlnaHQgLyBwYWlyLmxlZnQpOwogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oImNvbXB1dGVkIG1lYW4gcmF0aW5ncyBmb3Ige30gaXRlbXMiLCBtZWFucy5zaXplKCkpOwogICAgICAgIHJldHVybiBuZXcgSXRlbU1lYW5Nb2RlbChtZWFucyk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gb3BlbkZsYWdbXVtdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihpICsgaik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJjb2xhdGlvbiAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGIgPSBNYXRoLmFjb3MoMTIuMSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAwOyBpICkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZXQuCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZihyb3cgPD0wIHx8IGNvbCA8PSAwIHx8CiAgICAgICAgICAgICAgICByb3cgPiBzaXplIHx8IGNvbCA+IHNpemUpCiAgICAgICAgICAgIHRocm93IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZjlra2tra2tra2trawo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldC4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNvcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVW5pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc2Z1bGwgPSBuZXcgYm9vbGVhbltuXVtuXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SerializationStream</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>SerializationStream</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wiki</entry>
         <entry>java</entry>
         <entry>CP</entry>
         <entry>cp</entry>
@@ -524,6 +536,7 @@
         <entry>serOutputStream</entry>
         <entry>serializer</entry>
         <entry>SerializationStream</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
