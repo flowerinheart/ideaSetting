@@ -184,6 +184,12 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/example/Lists.scala" timestamp="1481423640771">
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480584782415">
         <mark key="'" line="145" column="30" />
         <mark key="[" line="189" column="0" />
@@ -279,6 +285,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
+      </file>
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
+        <mark key="[" line="48" column="68" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" timestamp="1480585344171">
         <mark key="'" line="143" column="68" />
