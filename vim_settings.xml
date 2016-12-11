@@ -165,8 +165,12 @@
         <mark key="]" line="62" column="12" />
         <mark key="." line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" timestamp="1481476990580">
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" timestamp="1481478172492">
         <mark key="'" line="16" column="13" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
