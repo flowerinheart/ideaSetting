@@ -104,8 +104,8 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" timestamp="1481466175754">
-        <mark key="'" line="119" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" timestamp="1481466619970">
+        <mark key="'" line="93" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
         <mark key="'" line="35" column="0" />
@@ -134,12 +134,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481466554592">
-        <mark key="'" line="41" column="4" />
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481467445342">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
@@ -361,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="30" column="49" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="31" column="69" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="32" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
@@ -461,10 +460,11 @@
       <jump line="119" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" />
       <jump line="120" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" />
       <jump line="40" column="4" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="93" column="19" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -473,34 +473,34 @@
         <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gb3BlbkZsYWdbXVtdOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZighY2hlY2tJbmRleChyb3csIGNvbCkpCiAgICAgICAgICAgIHRocm93IG5ldyBJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyb3cgPD0wIHx8IGNvbCA8PSAwIHx8CiAgICAgICAgICAgICAgICByb3cgPiBzaXplIHx8IGNvbCA+IHNpemUpCiAgICAgICAgICAgIHRocm93IAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IHJvdyAtIDEsIGogPSBjb2wgLSAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZjlra2tra2tra2trawo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IHJvdyAtIDEsIGogPSBjb2wgLSAxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0luZGV4KHJvdywgY29sKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNvcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnVsbEZsYWdbcm93XVtjb2xdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVW5pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3BlbkZsYWdbcm93IC0gMV1bY29sIC0gMV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc2Z1bGwgPSBuZXcgYm9vbGVhbltuXVtuXTsK</text>
+        <text encoding="base64">ICAgICAgICBmdWxsRmxhZyA9IG5ldyBib29sZWFuW25dW25dOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
