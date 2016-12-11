@@ -24,7 +24,7 @@
         <mark key="^" line="131" column="18" />
         <mark key="." line="131" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1480578151231">
+      <file name="/a.dummy" timestamp="1481463437102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/233.scala" timestamp="1480399716770">
@@ -330,7 +330,7 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1481462297676">
+      <file name="/fragment.java" timestamp="1481463545411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
@@ -340,11 +340,11 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Percolation.java" timestamp="1481461746003">
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="46" column="18" />
-        <mark key="." line="46" column="18" />
-        <mark key="^" line="46" column="18" />
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Percolation.java" timestamp="1481462871847">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="45" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -451,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJjb2xhdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihpICsgaik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -463,22 +463,22 @@
         <text encoding="base64">ZXIsIERvdWJsZT4+IHN0YXQgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIHRyeSAoT2JqZWN0U3RyZWFtPFJhdGluZz4gcmF0aW5ncyA9IGRhby5xdWVyeShSYXRpbmcuY2xhc3MpLnN0cmVhbSgpKSB7CiAgICAgICAgICAgIGZvciAoUmF0aW5nIHI6IHJhdGluZ3MpIHsKICAgICAgICAgICAgICAgIC8vIHRoaXMgbG9vcCB3aWxsIHJ1biBvbmNlIGZvciBlYWNoIHJhdGluZyBpbiB0aGUgZGF0YSBzZXQKICAgICAgICAgICAgICAgIGxvbmcgaWQgPSByLmdldEl0ZW1JZCgpOwogICAgICAgICAgICAgICAgaWYoIXN0YXQuY29udGFpbnNLZXkoaWQpKQogICAgICAgICAgICAgICAgICAgIHN0YXQucHV0KGlkLCBuZXcgTXV0YWJsZVBhaXI8SW50ZWdlciwgRG91YmxlPigwLCAwLjApKTsKICAgICAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgICAgIHBhaXIubGVmdCArPSAxOwogICAgICAgICAgICAgICAgcGFpci5yaWdodCArPSByLmdldFZhbHVlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIExvbmcyRG91YmxlT3Blbkhhc2hNYXAgbWVhbnMgPSBuZXcgTG9uZzJEb3VibGVPcGVuSGFzaE1hcCgpOwogICAgICAgIGZvcihMb25nIGlkIDogc3RhdC5rZXlTZXQoKSl7CiAgICAgICAgICAgIE11dGFibGVQYWlyPEludGVnZXIsIERvdWJsZT4gcGFpciA9IHN0YXQuZ2V0KGlkKTsKICAgICAgICAgICAgbWVhbnMucHV0KGlkLmludFZhbHVlKCksIHBhaXIucmlnaHQgLyBwYWlyLmxlZnQpOwogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oImNvbXB1dGVkIG1lYW4gcmF0aW5ncyBmb3Ige30gaXRlbXMiLCBtZWFucy5zaXplKCkpOwogICAgICAgIHJldHVybiBuZXcgSXRlbU1lYW5Nb2RlbChtZWFucyk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJjb2xhdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihpICsgaik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGIgPSBNYXRoLmFjb3MoMTIuMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQZXJjb2xhdGlvbiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAwOyBpICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGIgPSBNYXRoLmFjb3MoMTIuMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQuCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAwOyBpICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldC4K</text>
+        <text encoding="base64">ICAgICAgICBzZXQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldC4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
