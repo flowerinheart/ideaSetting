@@ -43,6 +43,13 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" timestamp="1481136262897">
         <mark key="'" line="179" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1481487964855">
+        <mark key="'" line="2290" column="0" />
+        <mark key="[" line="144" column="23" />
+        <mark key="]" line="144" column="22" />
+        <mark key="^" line="144" column="22" />
+        <mark key="." line="144" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
@@ -203,10 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" />
-      <jump line="64" column="26" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" />
-      <jump line="36" column="65" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
-      <jump line="59" column="1" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" />
       <jump line="55" column="52" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
       <jump line="87" column="11" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
       <jump line="93" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" />
@@ -303,6 +306,10 @@
       <jump line="165" column="0" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
       <jump line="44" column="65" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
       <jump line="53" column="70" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
+      <jump line="10" column="2" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="2640" column="21" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="218" column="6" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="2290" column="0" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -312,7 +319,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>File</text>
+        <text>avro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
@@ -349,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>File</last-search>
+      <last-search>avro</last-search>
       <last-offset />
-      <last-pattern>File</last-pattern>
+      <last-pattern>avro</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -359,8 +366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flatMap</entry>
-        <entry>mean</entry>
         <entry>rpo</entry>
         <entry>pro</entry>
         <entry>provide</entry>
@@ -379,6 +384,8 @@
         <entry>openFlag</entry>
         <entry>openFlag2</entry>
         <entry>File</entry>
+        <entry>avor</entry>
+        <entry>avro</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
