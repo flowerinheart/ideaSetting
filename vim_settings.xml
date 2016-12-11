@@ -24,12 +24,12 @@
       <file name="/Dummy.scala" timestamp="1480821019697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" timestamp="1481475704931">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="32" />
-        <mark key="." line="54" column="32" />
-        <mark key="^" line="54" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" timestamp="1481478954377">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="122" column="10" />
+        <mark key="]" line="122" column="10" />
+        <mark key="^" line="122" column="10" />
+        <mark key="." line="122" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1481129859250">
         <mark key="'" line="61" column="0" />
@@ -64,12 +64,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481476913555">
-        <mark key="'" line="54" column="5" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="128" column="39" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481479057145">
+        <mark key="'" line="80" column="5" />
+        <mark key="[" line="88" column="4" />
+        <mark key="]" line="88" column="38" />
+        <mark key="." line="88" column="38" />
+        <mark key="^" line="88" column="38" />
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
@@ -207,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="17" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="47" column="16" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
       <jump line="18" column="15" filename="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" />
       <jump line="24" column="98" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
       <jump line="197" column="24" filename="H:/learning/course/大四上/scala函数式/job/patmat/src/main/scala/patmat/Huffman.scala" />
@@ -307,13 +305,15 @@
       <jump line="40" column="5" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="16" column="13" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" />
       <jump line="76" column="32" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" />
+      <jump line="44" column="17" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="67" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>File</text>
@@ -322,31 +322,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHR0LnN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
