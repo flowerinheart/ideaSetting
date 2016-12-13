@@ -3,98 +3,52 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" timestamp="1480656796352">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="43" />
+      <file name="/a.dummy" timestamp="1481470233969">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/java/KmeansAppJava.java" timestamp="1481615141389">
-        <mark key="'" line="29" column="64" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/KMeans/pom.xml" timestamp="1481614966632">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="33" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
-        <mark key="'" line="257" column="0" />
-        <mark key="[" line="131" column="4" />
-        <mark key="]" line="131" column="18" />
-        <mark key="^" line="131" column="18" />
-        <mark key="." line="131" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-MKL/README.md" timestamp="1481361335006">
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="9" column="195" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" timestamp="1480499256938">
-        <mark key="'" line="222" column="63" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="223" column="88" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" timestamp="1479984445711">
-        <mark key="'" line="413" column="21" />
-        <mark key="[" line="247" column="33" />
-        <mark key="]" line="526" column="24" />
-        <mark key="." line="526" column="24" />
-        <mark key="^" line="526" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/233.scala" timestamp="1480399716770">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/FileScanRDD.scala" timestamp="1479971638416">
         <mark key="'" line="61" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Tools.java" timestamp="1480043440878">
-        <mark key="'" line="86" column="42" />
-        <mark key="[" line="62" column="51" />
-        <mark key="]" line="62" column="50" />
-        <mark key="^" line="62" column="50" />
-        <mark key="." line="62" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481164152296">
+        <mark key="'" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481013715305">
-        <mark key="'" line="195" column="6" />
-        <mark key="[" line="157" column="14" />
-        <mark key="]" line="157" column="14" />
-        <mark key="^" line="157" column="14" />
-        <mark key="." line="157" column="14" />
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Test.java" timestamp="1481458379244">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1481012743491">
-        <mark key="'" line="72" column="6" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="90" />
-        <mark key="^" line="67" column="39" />
-        <mark key="." line="16" column="0" />
+      <file name="/Dummy.scala" timestamp="1480821019697">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1481597763000">
-        <mark key="'" line="47" column="16" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" timestamp="1481481123211">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="9" />
+        <mark key="^" line="54" column="9" />
+        <mark key="." line="54" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" timestamp="1480661539477">
         <mark key="'" line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/local-1480474323033" timestamp="1480561554896">
-        <mark key="'" line="23" column="294" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="25" column="31" />
-        <mark key="^" line="25" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/spark/python/pyspark/shuffle.py" timestamp="1481129651432">
+        <mark key="'" line="460" column="32" />
       </file>
-      <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" timestamp="1480748782969">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" timestamp="1481130009233">
+        <mark key="'" line="216" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/doc/common.md" timestamp="1481010493152">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" timestamp="1481136262897">
+        <mark key="'" line="179" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1481273095425">
-        <mark key="'" line="257" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1481487964855">
+        <mark key="'" line="2290" column="0" />
+        <mark key="[" line="144" column="23" />
+        <mark key="]" line="144" column="22" />
+        <mark key="^" line="144" column="22" />
+        <mark key="." line="144" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
@@ -102,43 +56,21 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="122" column="12" />
-        <mark key="." line="122" column="12" />
-        <mark key="^" line="122" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" timestamp="1481466619970">
+        <mark key="'" line="93" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/GetSparkMetrics2.java" timestamp="1480491543684">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/.gitignore" timestamp="1480669497256">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/patmat/src/test/scala/patmat/Test.scala" timestamp="1480741852911">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481252291714">
-        <mark key="'" line="437" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/src/main/scala/org/apache/spark/benchmark/linerregression/LinearRegressionDataGen.scala" timestamp="1481614727983">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-        <mark key="^" line="35" column="35" />
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" timestamp="1481075819094">
+        <mark key="'" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio/core/common/src/main/java/alluxio/AbstractClient.java" timestamp="1479890228884">
         <mark key="'" line="64" column="46" />
@@ -146,91 +78,72 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/trun.sh" timestamp="1480665052181">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1481598882535">
-        <mark key="'" line="556" column="30" />
-      </file>
-      <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" timestamp="1480742422336">
-        <mark key="'" line="88" column="6" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481598908345">
-        <mark key="'" line="25" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" timestamp="1481486548912">
+        <mark key="'" line="53" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" timestamp="1481012648901">
-        <mark key="'" line="189" column="10" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/TopNItemBasedItemRecommender.java" timestamp="1480866854808">
+        <mark key="'" line="56" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
+        <mark key="'" line="184" column="18" />
+      </file>
+      <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
+        <mark key="'" line="18" column="15" />
+      </file>
+      <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" timestamp="1480898222868">
+        <mark key="'" line="64" column="26" />
+      </file>
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/test.sc" timestamp="1481454751703">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDecisionTreeClassificationExample.java" timestamp="1481485689835">
+        <mark key="[" line="34" column="63" />
+        <mark key="]" line="34" column="63" />
+        <mark key="^" line="34" column="63" />
+        <mark key="." line="34" column="63" />
+      </file>
+      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/pom.xml" timestamp="1481614845041" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1480899071333">
+        <mark key="'" line="59" column="1" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" timestamp="1480907389699">
+        <mark key="'" line="236" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
+      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" timestamp="1481477394101">
+        <mark key="'" line="88" column="32" />
+        <mark key="[" line="69" column="64" />
+        <mark key="]" line="69" column="59" />
+        <mark key="." line="69" column="59" />
+        <mark key="^" line="69" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480561876197">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="175" />
-        <mark key="." line="19" column="175" />
-        <mark key="^" line="19" column="175" />
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/example/Lists.scala" timestamp="1481423640771">
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="40" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/bin/run.sh" timestamp="1480661361565">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/SparkLauncher.java" timestamp="1481342381196">
-        <mark key="'" line="199" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/java/TestAlluxio.java" timestamp="1479978159161">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics.java" timestamp="1480584782415">
-        <mark key="'" line="145" column="30" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="190" column="60" />
-        <mark key="." line="189" column="7" />
-        <mark key="^" line="189" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" timestamp="1481345682842">
-        <mark key="'" line="37" column="35" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager-true/spark-shuffle.md" timestamp="1481249270317">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/WriteFileTest.java" timestamp="1480059882704">
-        <mark key="'" line="20" column="36" />
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
-        <mark key="'" line="9" column="18" />
-        <mark key="[" line="22" column="67" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/PercolationStats.java" timestamp="1481459290457">
+        <mark key="[" line="5" column="109" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1480056125263">
         <mark key="'" line="18" column="21" />
@@ -238,28 +151,11 @@
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/Test/src/main/java/TestAlluxio.java" timestamp="1480062567311">
         <mark key="'" line="104" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" timestamp="1481346985656">
-        <mark key="'" line="33" column="35" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/scala/GraphDataGen.scala" timestamp="1480409748889">
         <mark key="'" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1480058619619">
-        <mark key="'" line="109" column="28" />
-        <mark key="[" line="220" column="80" />
-        <mark key="]" line="220" column="108" />
-        <mark key="^" line="220" column="108" />
-        <mark key="." line="220" column="108" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1480659901265">
-        <mark key="'" line="28" column="21" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="39" column="20" />
-        <mark key="^" line="39" column="20" />
-        <mark key="." line="39" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" timestamp="1481341563857">
-        <mark key="'" line="156" column="18" />
+      <file name="/Dummy.txt" timestamp="1480669532554">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480561399939">
         <mark key="'" line="20" column="35" />
@@ -267,210 +163,202 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" timestamp="1480649578302">
         <mark key="'" line="10" column="2997" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481615028468">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
-        <mark key="^" line="36" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" timestamp="1481019082261">
-        <mark key="'" line="84" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" timestamp="1481478172492">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
-        <mark key="'" line="24" column="30" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="120" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/serializer/JavaSerializer.scala" timestamp="1481164274555">
+        <mark key="'" line="117" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480669140239">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="22" column="154" />
-        <mark key="]" line="22" column="61" />
-        <mark key="." line="22" column="61" />
-        <mark key="^" line="22" column="61" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaAssociationRulesExample.java" timestamp="1481482871261">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" timestamp="1480585344171">
-        <mark key="'" line="143" column="68" />
-        <mark key="[" line="143" column="61" />
-        <mark key="]" line="143" column="68" />
-        <mark key="." line="143" column="68" />
-        <mark key="^" line="143" column="68" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" timestamp="1481466416285">
+        <mark key="'" line="120" column="15" />
+      </file>
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
+        <mark key="[" line="48" column="68" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
+        <mark key="'" line="93" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/GetSparkMetrics.java" timestamp="1480410110279">
         <mark key="'" line="80" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" timestamp="1480048569439">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="/fragment.java" timestamp="1481477305652">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Percolation.java" timestamp="1481462871847">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="45" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="34" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="85" column="104" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="69" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="87" column="66" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="80" column="72" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="90" column="80" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="86" column="19" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="89" column="48" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="93" column="38" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
-      <jump line="113" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" />
-      <jump line="24" column="4" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" />
-      <jump line="28" column="28" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" />
-      <jump line="12" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="3" column="12015" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" />
-      <jump line="39" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="61" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="19" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="44" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="62" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="28" column="59" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="29" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="30" column="49" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="31" column="69" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="32" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="37" column="9" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="38" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="39" column="62" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="41" column="40" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="57" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="58" column="10" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="27" column="21" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
-      <jump line="22" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" />
-      <jump line="52" column="21" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
-      <jump line="25" column="52" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
-      <jump line="36" column="42" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
-      <jump line="55" column="42" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
-      <jump line="56" column="38" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
-      <jump line="57" column="37" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/pom.xml" />
-      <jump line="1" column="1" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
-      <jump line="230" column="0" filename="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" />
-      <jump line="18" column="21" filename="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/pom.xml" />
-      <jump line="63" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="33" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" />
-      <jump line="42" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" />
-      <jump line="32" column="12" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
-      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
-      <jump line="3" column="11" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
-      <jump line="4" column="4" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/build-all.sh" />
-      <jump line="94" column="33" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="16" column="30" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="272" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="89" column="17" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="47" column="16" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" />
-      <jump line="62" column="34" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" />
-      <jump line="88" column="6" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" />
-      <jump line="59" column="6" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" />
-      <jump line="70" column="15" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" />
-      <jump line="69" column="15" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" />
-      <jump line="25" column="0" filename="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" />
-      <jump line="189" column="10" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" />
-      <jump line="61" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="70" column="36" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="121" column="9" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="131" column="34" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="152" column="14" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="153" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="157" column="14" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="195" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
-      <jump line="84" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" />
-      <jump line="437" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
-      <jump line="257" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/clustering/KMeans.scala" />
-      <jump line="55" column="45" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="49" column="35" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="50" column="18" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="52" column="54" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="53" column="23" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="59" column="48" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="67" column="23" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="156" column="18" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" />
-      <jump line="199" column="31" filename="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/SparkLauncher.java" />
-      <jump line="34" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
-      <jump line="37" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" />
-      <jump line="33" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" />
-      <jump line="25" column="54" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" />
-      <jump line="30" column="35" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="233" column="24" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="725" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="85" column="11" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="230" column="38" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="231" column="9" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="556" column="30" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="29" column="64" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/java/KmeansAppJava.java" />
+      <jump line="55" column="52" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
+      <jump line="87" column="11" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
+      <jump line="93" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" />
+      <jump line="184" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
+      <jump line="85" column="4" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
+      <jump line="58" column="30" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
+      <jump line="63" column="32" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
+      <jump line="236" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" />
+      <jump line="56" column="34" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
+      <jump line="50" column="22" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
+      <jump line="72" column="29" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="9" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="33" column="6" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="68" column="21" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="81" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="93" column="17" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
+      <jump line="45" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
+      <jump line="0" column="102" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
+      <jump line="4" column="54" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
+      <jump line="30" column="51" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala" />
+      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="238" column="8" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="460" column="32" filename="$USER_HOME$/IdeaProjects/spark/python/pyspark/shuffle.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" />
+      <jump line="221" column="10" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
+      <jump line="194" column="8" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
+      <jump line="202" column="8" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
+      <jump line="212" column="14" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
+      <jump line="216" column="10" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" />
+      <jump line="222" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="390" column="25" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" />
+      <jump line="138" column="29" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" />
+      <jump line="180" column="28" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" />
+      <jump line="179" column="28" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" />
+      <jump line="157" column="17" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleExternalSorter.java" />
+      <jump line="94" column="25" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="79" column="36" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="89" column="30" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="205" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="236" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="237" column="4" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="106" column="9" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="119" column="26" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="197" column="22" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="390" column="57" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="46" column="24" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="47" column="24" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="68" column="35" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" />
+      <jump line="59" column="21" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/serializer/JavaSerializer.scala" />
+      <jump line="117" column="26" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/serializer/JavaSerializer.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="119" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" />
+      <jump line="120" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" />
+      <jump line="93" column="19" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" />
+      <jump line="11" column="9" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="94" column="46" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="98" column="19" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="82" column="32" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="30" column="25" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="59" column="28" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="63" column="36" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="68" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="100" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="14" column="53" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="58" column="42" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="93" column="17" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="15" column="31" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="71" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="92" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="30" column="24" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="70" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="28" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="40" column="5" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" />
+      <jump line="76" column="32" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" />
+      <jump line="44" column="17" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="67" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
+      <jump line="84" column="12" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
+      <jump line="165" column="0" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
+      <jump line="44" column="65" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
+      <jump line="53" column="70" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
+      <jump line="10" column="2" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="2640" column="21" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="218" column="6" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="2290" column="0" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmp1bml0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdW5pdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My44LjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>new StringBuilder(&quot;|&quot;)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>native</text>
+        <text>avro</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY2llcz4KCQk8ZGVwZW5kZW5jeT4gPCEtLSBTcGFyayBkZXBlbmRlbmN5IC0tPgoJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcGFyay1jb3JlXyR7c2NhbGEuYmluYXJ5LnZlcnNpb259PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke3NwYXJrLnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5zcGFyazwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3BhcmstbWxsaWJfJHtzY2FsYS5iaW5hcnkudmVyc2lvbn08L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7c3BhcmsudmVyc2lvbn08L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5PgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLmhhZG9vcDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aGFkb29wLWNsaWVudDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtoYWRvb3AubXIyLnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4KCTwvZGVwZW5kZW5jaWVzPgo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmp1bml0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdW5pdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My44LjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgICgpIC0+IEJMQVMgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgIEJMQVMK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjguMTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNoZWNrU3R5bGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWkK</text>
+        <text encoding="base64">ICAgICAgICBwZXJjb2xhdGlvbiA9IG5ldyBQZXJjb2xhdGlvbihuKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJlc2NyaWJlcyBhIHNldCBvZiBsb3ctbGV2ZWwgcm91dGluZXMgZm9yIHBlcmZvcm1pbmcgY29tbW9uIGxpbmVhciBhbGdlYnJhIG9wZXJhdGlvbnMgc3VjaCBhcyB2ZWN0b3IgYWRkaXRpb24sIHNjYWxhciBtdWx0aXBsaWNhdGlvbiwgZG90IHByb2R1Y3RzLCBsaW5lYXIgY29tYmluYXRpb25zLCBhbmQgbWF0cml4IG11bHRpcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRpb24ucmVzZXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e1xkaXNwbGF5c3R5bGUge1xib2xkc3ltYm9sIHt5fX1cbGVmdGFycm93IFxhbHBoYSBBe1xib2xkc3ltYm9sIHt4fX0rXGJldGEge1xib2xkc3ltYm9sIHt5fX1cIX0ge1xib2xkc3ltYm9sICB7eX19XGxlZnRhcnJvdyBcYWxwaGEgQXtcYm9sZHN5bWJvbCAge3h9fStcYmV0YSB7XGJvbGRzeW1ib2wgIHt5fX1cIQo=</text>
+        <text encoding="base64">Ci8qKgogKiBUaGUgdHlwZSBQYWlyLgogKgogKiBAcGFyYW0gPFQ+IHRoZSB0eXBlIHBhcmFtZXRlcgogKi8KY2xhc3MgUGFpcjxUPiB7CiAgICAvKioKICAgICAqIFRoZSBWYWx1ZSAxLgogICAgICovCiAgICBUIHZhbHVlMTsKICAgIC8qKgogICAgICogVGhlIFZhbHVlIDIuCiAgICAgKi8KICAgIFQgdmFsdWUyOwoKICAgIC8qKgogICAgICogSW5zdGFudGlhdGVzIGEgbmV3IFBhaXIuCiAgICAgKgogICAgICogQHBhcmFtIHYxIHRoZSB2IDEKICAgICAqIEBwYXJhbSB2MiB0aGUgdiAyCiAgICAgKi8KICAgIFBhaXIoZmluYWwgVCB2MSwgZmluYWwgVCB2Mil7CiAgICAgICAgdmFsdWUxID0gdjE7CiAgICAgICAgdmFsdWUyID0gdjI7CiAgICB9Cgp9CgovKioKICogVGhlIHR5cGUgUGVyY29sYXRpb24uCiAqLwpwdWJsaWMgY2xhc3MgUGVyY29sYXRpb24gewogICAgcHJpdmF0ZSBXZWlnaHRlZFF1aWNrVW5pb25VRiBzZXQgPSBudWxsOwogICAgLyoqCiAgICAgKiBUaGUgT2suCiAgICAgKi8KICAgIGJvb2xlYW4gb2sgPSBmYWxzZTsKICAgIHByaXZhdGUgSGFzaE1hcDxJbnRlZ2VyLCBQYWlyPEludGVnZXI+PiBmdWxsRmxhZyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIHByaXZhdGUgSGFzaFNldDxJbnRlZ2VyPiBvcGVuRmxhZyA9IG5ldyBIYXNoU2V0PD4oKTsKICAgIHByaXZhdGUgaW50IHNpemUgPSAwOwoKICAgIC8qKgogICAgICogSW5zdGFudGlhdGVzIGEgbmV3IFBlcmNvbGF0aW9uLgogICAgICoKICAgICAqIEBwYXJhbSBuIGRpbWVuc2lvbiBvZiAyLUQgbWF0cml4CiAgICAgKi8KICAgIHB1YmxpYyBQZXJjb2xhdGlvbihpbnQgbikgICAgICAgICAgICAgICAgLy8gY3JlYXRlIG4tYnktbiBncmlkLCB3aXRoIGFsbCBzaXRlcyBibG9ja2VkCiAgICB7CiAgICAgICAgaWYobiA8PSAwKQogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgc2l6ZSA9IG47CiAgICAgICAgc2V0ID0gbmV3IFdlaWdodGVkUXVpY2tVbmlvblVGKG4gKiBuKTsKICAgIH0KCiAgICAvKioKICAgICAqIFJlc2V0LiAgcmVzZXQgaW5uZXIgc3RhdGUgdG8gYmVnaW4KICAgICAqLwogICAgcHVibGljIHZvaWQgcmVzZXQoKXsKICAgICAgICBvayA9IGZhbHNlOwogICAgICAgIHNldCA9IG5ldyBXZWlnaHRlZFF1aWNrVW5pb25VRihzaXplICogc2l6ZSk7CiAgICAgICAgZnVsbEZsYWcuY2xlYXIoKTsKICAgICAgICBvcGVuRmxhZy5jbGVhcigpOwogICAgfQogICAgcHJpdmF0ZSBpbnQgbW92ZVtdW10gPSB7CiAgICAgICAgICAgIHsxLCAwfSwKICAgICAgICAgICAgey0xLCAwfSwKICAgICAgICAgICAgezAsIC0xfSwKICAgICAgICAgICAgezAsIDF9CiAgICB9OwoKICAgIC8qKgogICAgICogT3Blbi4gICBvcGVuIGEgY2VsbCBpbiBtYXRyaXgKICAgICAqCiAgICAgKiBAcGFyYW0gcm93IHRoZSByb3cgIHJvdyBudW1iZXIKICAgICAqIEBwYXJhbSBjb2wgdGhlIGNvbCAgY29sIG51bWJlcgogICAgICovCiAgICBwdWJsaWMgdm9pZCBvcGVuKGludCByb3csIGludCBjb2wpIHsKICAgICAgICBpZighY2hlY2tJbmRleChyb3csIGNvbCkpCiAgICAgICAgICAgIHRocm93IG5ldyBJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uKCk7CiAgICAgICAgaW50IGlkID0gY2FsSUQocm93LCBjb2wpOwogICAgICAgIGFzc2VydCghaXNPcGVuKHJvdywgY29sKSk7CiAgICAgICAgYXNzZXJ0IChpZCA9PSBzZXQuZmluZChpZCkpOwogICAgICAgIGludCByb290MSA9IGlkLCBsb2NhbE1heEhlaWdodCA9IHJvdywgbG9jYWxNaW5IZWlnaHQgPSByb3c7CiAgICAgICAgYm9vbGVhbiBzaW5nZXIgPSB0cnVlOwogICAgICAgIGZvcihpbnQgayA9IDA7IGsgPCA0OyBrKyspewogICAgICAgICAgICBpbnQgciA9IHJvdyArIG1vdmVba11bMF07CiAgICAgICAgICAgIGludCBjID0gY29sICsgbW92ZVtrXVsxXTsKICAgICAgICAgICAgaWYoIWNoZWNrSW5kZXgociwgYykgfHwgIWlzT3BlbihyLCBjKSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICBzaW5nZXIgPSBmYWxzZTsKICAgICAgICAgICAgaW50IHJvb3QyID0gc2V0LmZpbmQoY2FsSUQociwgYykpOwogICAgICAgICAgICBzZXQudW5pb24ocm9vdDEsIHJvb3QyKTsKICAgICAgICAgICAgUGFpcjxJbnRlZ2VyPiBwYWlyID0gZnVsbEZsYWcuZ2V0KHJvb3QyKTsKICAgICAgICAgICAgbG9jYWxNYXhIZWlnaHQgPSBNYXRoLm1heChwYWlyLnZhbHVlMSwgbG9jYWxNYXhIZWlnaHQpOwogICAgICAgICAgICBsb2NhbE1pbkhlaWdodCA9IE1hdGgubWluKHBhaXIudmFsdWUyLCBsb2NhbE1pbkhlaWdodCk7CiAgICAgICAgICAgIHJvb3QxID0gc2V0LmZpbmQoaWQpOwogICAgICAgICAgICBmdWxsRmxhZy5yZW1vdmUocm9vdDIpOwogICAgICAgICAgICBvcGVuRmxhZy5yZW1vdmUocm9vdDIpOwogICAgICAgICAgICBmdWxsRmxhZy5wdXQocm9vdDEsIG5ldyBQYWlyPD4obG9jYWxNYXhIZWlnaHQsIGxvY2FsTWluSGVpZ2h0KSk7CiAgICAgICAgICAgIG9wZW5GbGFnLmFkZChyb290MSk7CiAgICAgICAgfQogICAgICAgIGlmKHNpbmdlcil7CiAgICAgICAgICAgIGZ1bGxGbGFnLnB1dChyb290MSwgbmV3IFBhaXI8Pihsb2NhbE1heEhlaWdodCwgbG9jYWxNaW5IZWlnaHQpKTsKICAgICAgICAgICAgb3BlbkZsYWcuYWRkKHJvb3QxKTsKICAgICAgICB9CiAgICAgICAgb2sgPSBsb2NhbE1heEhlaWdodCA9PSBzaXplICYmIGxvY2FsTWluSGVpZ2h0ID09IDE7CiAgICB9CgogICAgcHJpdmF0ZSBpbnQgY2FsSUQoaW50IHJvdywgaW50IGNvbCl7CiAgICAgICAgcmV0dXJuIChyb3cgLSAxKSAqIHNpemUgKyBjb2wgLSAxOwogICAgfQoKCiAgICBwcml2YXRlIGJvb2xlYW4gY2hlY2tJbmRleChpbnQgcm93LCBpbnQgY29sKXsKICAgICAgICBpZihyb3cgPD0wIHx8IGNvbCA8PSAwIHx8CiAgICAgICAgICAgICAgICByb3cgPiBzaXplIHx8IGNvbCA+IHNpemUpCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvKioKICAgICAqIElzIG9wZW4gYm9vbGVhbi4KICAgICAqCiAgICAgKiBAcGFyYW0gcm93IHRoZSByb3cgICByb3cgbnVtYmVyCiAgICAgKiBAcGFyYW0gY29sIHRoZSBjb2wgICBDb2x1bW4gbnVtYmVyCiAgICAgKiBAcmV0dXJuIHRoZSBib29sZWFuICAgIGluZGljYXRlIHRoaXMgY2VsbCBvcGVuIHN0YXRlCiAgICAgKi8KICAgIHB1YmxpYyBib29sZWFuIGlzT3BlbihpbnQgcm93LCBpbnQgY29sKSAgLy8gaXMgc2l0ZSAocm93LCBjb2wpIG9wZW4/CiAgICB7CiAgICAgICAgaWYoIWNoZWNrSW5kZXgocm93LCBjb2wpKQogICAgICAgICAgICB0aHJvdyBuZXcgSW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbigpOwogICAgICAgIGludCByb290ID0gc2V0LmZpbmQoY2FsSUQocm93LCBjb2wpKTsKICAgICAgICByZXR1cm4gb3BlbkZsYWcuY29udGFpbnMocm9vdCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBJcyBmdWxsIGJvb2xlYW4uCiAgICAgKgogICAgICogQHBhcmFtIHJvdyB0aGUgcm93ICAgUm93IE51bWJlcgogICAgICogQHBhcmFtIGNvbCB0aGUgY29sICAgQ29sdW1uIE51bWJlcgogICAgICogQHJldHVybiB0aGUgYm9vbGVhbiAgICBGdWxsIHN0YXRlCiAgICAgKi8KICAgIHB1YmxpYyBib29sZWFuIGlzRnVsbChpbnQgcm93LCBpbnQgY29sKSAgLy8gaXMgc2l0ZSAocm93LCBjb2wpIGZ1bGw/CiAgICB7CiAgICAgICAgaWYoIWNoZWNrSW5kZXgocm93LCBjb2wpKQogICAgICAgICAgICB0aHJvdyBuZXcgSW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbigpOwogICAgICAgIGludCByb290ID0gc2V0LmZpbmQoY2FsSUQocm93LCBjb2wpKTsKICAgICAgICByZXR1cm4gZnVsbEZsYWcuY29udGFpbnNLZXkocm9vdCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBQZXJjb2xhdGVzIGJvb2xlYW4uCiAgICAgKgogICAgICogQHJldHVybiB0aGUgYm9vbGVhbgogICAgICovCiAgICBwdWJsaWMgYm9vbGVhbiBwZXJjb2xhdGVzKCkgICAgICAgICAgICAgIC8vIGRvZXMgdGhlIHN5c3RlbSBwZXJjb2xhdGU/CiAgICB7CiAgICAgICAgcmV0dXJuIG9rOwogICAgfQoKICAgIC8qKgogICAgICogVGhlIGVudHJ5IHBvaW50IG9mIGFwcGxpY2F0aW9uLgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzIHRoZSBpbnB1dCBhcmd1bWVudHMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgICAvLyB0ZXN0IGNsaWVudCAob3B0aW9uYWwpCiAgICB7CiAgICAgICAgUGVyY29sYXRpb24gdHR0ID0gIG5ldyBQZXJjb2xhdGlvbigxMDAwKTsKICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgMTAwMDsgaSsrKXsKICAgICAgICAgICAgdHR0Lm9wZW4oaSArIDEsIDEpOwogICAgICAgIH0KCiAgICB9Cgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e1xkaXNwbGF5c3R5bGUge1xib2xkc3ltYm9sIHt5fX1cbGVmdGFycm93IFxhbHBoYSB7XGJvbGRzeW1ib2wge3h9fSt7XGJvbGRzeW1ib2wge3l9fVwhfSB7XGJvbGRzeW1ib2wgIHt5fX1cbGVmdGFycm93IFxhbHBoYSB7XGJvbGRzeW1ib2wgIHt4fX0re1xib2xkc3ltYm9sICB7eX19XCEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3BlbkZsYWcyW3JvdyAtIDFdW2NvbCAtIDFdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>native</last-search>
+      <last-search>avro</last-search>
       <last-offset />
-      <last-pattern>native</last-pattern>
+      <last-pattern>avro</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -478,26 +366,26 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>Setting</entry>
-        <entry>wiki</entry>
-        <entry>java</entry>
-        <entry>CP</entry>
-        <entry>cp</entry>
-        <entry>assem</entry>
-        <entry>DIR</entry>
-        <entry>apply</entry>
-        <entry>+</entry>
-        <entry>toLi</entry>
-        <entry>toList</entry>
-        <entry>write</entry>
-        <entry>spill</entry>
-        <entry>net-lib</entry>
-        <entry>argsArray</entry>
-        <entry>args</entry>
-        <entry>NativeBlas</entry>
-        <entry>Native</entry>
-        <entry>native</entry>
+        <entry>rpo</entry>
+        <entry>pro</entry>
+        <entry>provide</entry>
+        <entry>prov</entry>
+        <entry>Prov</entry>
+        <entry>maybeSpill</entry>
+        <entry>PARTITION_ID_START</entry>
+        <entry>PARTITION_ID_</entry>
+        <entry>writeBuffer</entry>
+        <entry>serOutputStream</entry>
+        <entry>serializer</entry>
+        <entry>SerializationStream</entry>
+        <entry>connect</entry>
+        <entry>println</entry>
+        <entry>fullFlag</entry>
+        <entry>openFlag</entry>
+        <entry>openFlag2</entry>
+        <entry>File</entry>
+        <entry>avor</entry>
+        <entry>avro</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -545,9 +433,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
