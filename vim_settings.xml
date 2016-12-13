@@ -146,8 +146,14 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1481595991250">
+        <mark key="'" line="231" column="9" />
+      </file>
       <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" timestamp="1480742422336">
         <mark key="'" line="88" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481595788169">
+        <mark key="'" line="25" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
@@ -319,13 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4610" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="11" column="1433" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="1494" column="1433" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="1495" column="428" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="2978" column="428" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="2980" column="2997" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
-      <jump line="2981" column="428" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
       <jump line="4464" column="428" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
       <jump line="10" column="2997" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" />
       <jump line="54" column="34" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/JsonEstimator.java" />
@@ -419,6 +418,13 @@
       <jump line="37" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java" />
       <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" />
       <jump line="33" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java" />
+      <jump line="25" column="54" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" />
+      <jump line="30" column="35" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="233" column="24" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="725" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="85" column="11" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="230" column="38" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="231" column="9" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -428,7 +434,7 @@
         <text>new StringBuilder(&quot;|&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>args</text>
+        <text>native</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgc2hvdWxkQnlwYXNzTWVyZ2VTb3J0KGNvbmY6IFNwYXJrQ29uZiwgZGVwOiBTaHVmZmxlRGVwZW5kZW5jeVtfLCBfLCBfXSk6IEJvb2xlYW4gPSB7Cg==</text>
@@ -465,9 +471,9 @@
       </register>
     </registers>
     <search>
-      <last-search>args</last-search>
+      <last-search>native</last-search>
       <last-offset />
-      <last-pattern>args</last-pattern>
+      <last-pattern>native</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -475,9 +481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plug</entry>
-        <entry>assembly</entry>
-        <entry>maven</entry>
         <entry>set</entry>
         <entry>Setting</entry>
         <entry>wiki</entry>
@@ -495,6 +498,9 @@
         <entry>net-lib</entry>
         <entry>argsArray</entry>
         <entry>args</entry>
+        <entry>NativeBlas</entry>
+        <entry>Native</entry>
+        <entry>native</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -542,6 +548,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
