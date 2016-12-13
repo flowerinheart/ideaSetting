@@ -122,6 +122,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/scala/KmeansDataGen.scala" timestamp="1481616218632" />
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
@@ -338,6 +339,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-vanilla.sh" timestamp="1481616890751">
+        <mark key="'" line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" timestamp="1481012648901">
         <mark key="'" line="189" column="10" />
       </file>
@@ -486,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="52" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
       <jump line="87" column="11" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
       <jump line="93" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" />
       <jump line="184" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
@@ -586,6 +589,7 @@
       <jump line="2640" column="21" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
       <jump line="218" column="6" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
       <jump line="2290" column="0" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
+      <jump line="25" column="11" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-vanilla.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -595,7 +599,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>avro</text>
+        <text>echo_and_run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
@@ -632,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>avro</last-search>
+      <last-search>echo_and_run</last-search>
       <last-offset />
-      <last-pattern>avro</last-pattern>
+      <last-pattern>echo_and_run</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>Setting</entry>
         <entry>wiki</entry>
         <entry>java</entry>
@@ -662,6 +665,7 @@
         <entry>NativeBlas</entry>
         <entry>Native</entry>
         <entry>native</entry>
+        <entry>echo_and_run</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
