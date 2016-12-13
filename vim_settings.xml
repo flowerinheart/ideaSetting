@@ -342,6 +342,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
         <mark key="'" line="32" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481621398841">
+        <mark key="'" line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-vanilla.sh" timestamp="1481616890751">
         <mark key="'" line="25" column="11" />
       </file>
@@ -443,11 +446,11 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481615028468">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481621761247">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
         <mark key="^" line="36" column="7" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="_windows/path.macros.xml" timestamp="1481615177472">
         <mark key="[" line="0" column="0" />
@@ -481,7 +484,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1481477305652">
+      <file name="/fragment.java" timestamp="1481621625435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
@@ -493,7 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="4" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="58" column="30" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="63" column="32" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="236" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" />
@@ -593,55 +595,56 @@
       <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
       <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
+      <jump line="132" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNjLgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>set_gendata</text>
+        <text>gendata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNjLgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BhcmstY29yZV8yLjExPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgpIC0+IEJMQVMgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zcGFyazwvZ3JvdXBJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJMQVMK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNoZWNrU3R5bGUoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJjb2xhdGlvbiA9IG5ldyBQZXJjb2xhdGlvbihuKTsK</text>
+        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRpb24ucmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgICgpIC0+IEJMQVMgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set_gendata</last-search>
+      <last-search>gendata</last-search>
       <last-offset />
-      <last-pattern>set_gendata</last-pattern>
+      <last-pattern>gendata</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -649,7 +652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wiki</entry>
         <entry>java</entry>
         <entry>CP</entry>
         <entry>cp</entry>
@@ -669,6 +671,7 @@
         <entry>native</entry>
         <entry>echo_and_run</entry>
         <entry>set_gendata</entry>
+        <entry>gendata</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
