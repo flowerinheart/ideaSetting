@@ -195,6 +195,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" timestamp="1481620432436">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
         <mark key="[" line="48" column="68" />
         <mark key="]" line="48" column="20" />
@@ -490,9 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="11" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
-      <jump line="93" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" />
-      <jump line="184" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
       <jump line="85" column="4" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="58" column="30" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="63" column="32" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
@@ -590,6 +590,9 @@
       <jump line="218" column="6" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
       <jump line="2290" column="0" filename="$USER_HOME$/IdeaProjects/spark/pom.xml" />
       <jump line="25" column="11" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-vanilla.sh" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
+      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -599,7 +602,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>echo_and_run</text>
+        <text>set_gendata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
@@ -636,9 +639,9 @@
       </register>
     </registers>
     <search>
-      <last-search>echo_and_run</last-search>
+      <last-search>set_gendata</last-search>
       <last-offset />
-      <last-pattern>echo_and_run</last-pattern>
+      <last-pattern>set_gendata</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -646,7 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Setting</entry>
         <entry>wiki</entry>
         <entry>java</entry>
         <entry>CP</entry>
@@ -666,6 +668,7 @@
         <entry>Native</entry>
         <entry>native</entry>
         <entry>echo_and_run</entry>
+        <entry>set_gendata</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
