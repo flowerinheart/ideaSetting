@@ -50,6 +50,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" timestamp="1481136262897">
         <mark key="'" line="179" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/conf/env.sh.template" timestamp="1481622571464">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" timestamp="1481466619970">
         <mark key="'" line="93" column="19" />
       </file>
@@ -496,8 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="30" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
-      <jump line="63" column="32" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build.gradle" />
       <jump line="236" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" />
       <jump line="56" column="34" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
       <jump line="50" column="22" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
@@ -596,6 +597,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" />
       <jump line="132" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
+      <jump line="9" column="18" filename="$USER_HOME$/IdeaProjects/spark-bench-old/conf/env.sh.template" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/spark-bench-old/conf/env.sh.template" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -605,7 +608,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>gendata</text>
+        <text>HDFS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
@@ -642,9 +645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gendata</last-search>
+      <last-search>HDFS</last-search>
       <last-offset />
-      <last-pattern>gendata</last-pattern>
+      <last-pattern>HDFS</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -652,7 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>java</entry>
         <entry>CP</entry>
         <entry>cp</entry>
         <entry>assem</entry>
@@ -672,6 +674,7 @@
         <entry>echo_and_run</entry>
         <entry>set_gendata</entry>
         <entry>gendata</entry>
+        <entry>HDFS</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
