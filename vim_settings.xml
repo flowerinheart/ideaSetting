@@ -230,8 +230,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" timestamp="1481341563857">
         <mark key="'" line="156" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/gen_data.sh" timestamp="1481698941316">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/gen_data.sh" timestamp="1481708615329">
         <mark key="'" line="20" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/src/main/scala/org/apache/spark/benchmark/pagerank/DynamicPageRankApp.scala" timestamp="1481704391721">
         <mark key="[" line="0" column="0" />
@@ -256,9 +260,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481701135444">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481708540831">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="44" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
@@ -342,11 +346,11 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="62" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/run.sh" timestamp="1481700518787">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/run.sh" timestamp="1481708641939">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481164152296">
         <mark key="'" line="68" column="35" />
@@ -733,52 +737,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L3N2bS0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
       <register name="-" type="4">
         <text>main</text>
       </register>
       <register name="/" type="4">
-        <text>scala</text>
+        <text>INPUT_HDFS</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVwZW5kZW5jeT4gPCEtLSBTcGFyayBkZXBlbmRlbmN5IC0tPgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcGFyay1jb3JlXyR7c2NhbGEuYmluYXJ5LnZlcnNpb259PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3NwYXJrLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zcGFyazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BhcmstbWxsaWJfJHtzY2FsYS5iaW5hcnkudmVyc2lvbn08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7c3BhcmsudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcGFyay1ncmFwaHhfJHtzY2FsYS5iaW5hcnkudmVyc2lvbn08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7c3BhcmsudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L3N2bS0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L3N2bS0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBtaW5saQo=</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L3N2bS0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQGF1dGhvciBtaW5saQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSAuamF2YTsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluLmphdmE7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluLmphdmE7Cg==</text>
+        <text encoding="base64">cGFja2FnZSAuamF2YTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jaWVzPgoKICAgICAgICA8L2RlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">cGFja2FnZSBtYWluLmphdmE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBMb2dpc3RpY1JlZ3Jlc3Npb24uc3JjLm1haW4uamF2YTsK</text>
+        <text encoding="base64">cGFja2FnZSBtYWluLmphdmE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scala</last-search>
+      <last-search>INPUT_HDFS</last-search>
       <last-offset />
-      <last-pattern>scala</last-pattern>
+      <last-pattern>INPUT_HDFS</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -786,7 +790,6 @@
     </search>
     <history>
       <history-search>
-        <entry>native</entry>
         <entry>echo_and_run</entry>
         <entry>set_gendata</entry>
         <entry>gendata</entry>
@@ -806,6 +809,7 @@
         <entry>SPARK_EX</entry>
         <entry>$1</entry>
         <entry>scala</entry>
+        <entry>INPUT_HDFS</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
