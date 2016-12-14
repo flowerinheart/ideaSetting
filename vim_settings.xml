@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" timestamp="1481490145934">
-        <mark key="'" line="20" column="23" />
-        <mark key="l" line="12" column="29" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/ml/regression/LinearRegression.scala" timestamp="1481493753690">
         <mark key="'" line="49" column="0" />
       </file>
@@ -21,8 +17,8 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1481498012894">
         <mark key="'" line="73" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" timestamp="1481498708840">
-        <mark key="'" line="720" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" timestamp="1481698471839">
+        <mark key="'" line="959" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481164152296">
         <mark key="'" line="68" column="35" />
@@ -35,13 +31,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeansModel.scala" timestamp="1481494834696">
         <mark key="'" line="101" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" timestamp="1481481123211">
-        <mark key="'" line="67" column="11" />
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="9" />
-        <mark key="^" line="54" column="9" />
-        <mark key="." line="54" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" timestamp="1481496681983">
         <mark key="'" line="802" column="7" />
@@ -66,18 +55,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/ShuffleInMemorySorter.java" timestamp="1481136262897">
         <mark key="'" line="179" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1481487964855">
-        <mark key="'" line="2290" column="0" />
-        <mark key="[" line="144" column="23" />
-        <mark key="]" line="144" column="22" />
-        <mark key="^" line="144" column="22" />
-        <mark key="." line="144" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" timestamp="1481497664426">
-        <mark key="'" line="49" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" timestamp="1481698397156">
+        <mark key="'" line="153" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
@@ -87,13 +69,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/CholeskyDecomposition.scala" timestamp="1481497528203">
         <mark key="'" line="39" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="26" />
       </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
@@ -124,7 +99,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
         <mark key="'" line="184" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
+      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
         <mark key="'" line="12" column="22" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
@@ -145,7 +120,7 @@
         <mark key="^" line="34" column="63" />
         <mark key="." line="34" column="63" />
       </file>
-      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
+      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1480899071333">
@@ -154,21 +129,17 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" timestamp="1480907389699">
         <mark key="'" line="236" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/F2jBLAS.class" timestamp="1481491193346">
+      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/F2jBLAS.class" timestamp="1481491193346">
         <mark key="'" line="81" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
+      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" timestamp="1481477394101">
-        <mark key="'" line="88" column="32" />
-        <mark key="[" line="69" column="64" />
-        <mark key="]" line="69" column="59" />
-        <mark key="." line="69" column="59" />
-        <mark key="^" line="69" column="59" />
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1481698409416">
+        <mark key="'" line="208" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
@@ -197,7 +168,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/scala/GraphDataGen.scala" timestamp="1480409748889">
         <mark key="'" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" timestamp="1481497740167">
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" timestamp="1481698392211">
         <mark key="'" line="25" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/examples/src/main/java/org/apache/spark/examples/ml/JavaDecisionTreeClassificationExample.java" timestamp="1481490767969">
@@ -218,17 +189,10 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481494551266">
+      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481494551266">
         <mark key="'" line="14" column="41" />
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="205" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" timestamp="1481478172492">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
@@ -270,36 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="5" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="127" column="4" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="224" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="358" column="6" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="464" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="230" column="38" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="101" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeansModel.scala" />
-      <jump line="426" column="39" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
-      <jump line="211" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
-      <jump line="177" column="36" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="445" column="2" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
-      <jump line="304" column="14" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="343" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="32" column="13" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="85" column="12" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="87" column="43" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="89" column="17" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="91" column="30" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="499" column="11" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="501" column="30" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="844" column="15" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="214" column="10" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="216" column="29" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="842" column="15" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="71" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="212" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="497" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="840" column="37" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
       <jump line="23" column="70" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
       <jump line="628" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
       <jump line="316" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
@@ -341,8 +275,6 @@
       <jump line="49" column="41" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" />
       <jump line="440" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
       <jump line="24" column="57" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
-      <jump line="420" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
-      <jump line="25" column="53" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
       <jump line="41" column="21" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeans.scala" />
       <jump line="390" column="4" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="47" column="6" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
@@ -370,6 +302,38 @@
       <jump line="601" column="6" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
       <jump line="720" column="16" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
       <jump line="465" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeans.scala" />
+      <jump line="199" column="2" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="23" column="43" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="250" column="82" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="256" column="36" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="257" column="51" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="258" column="62" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="275" column="15" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="109" column="36" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="277" column="34" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
+      <jump line="420" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
+      <jump line="25" column="53" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" />
+      <jump line="153" column="18" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" />
+      <jump line="208" column="6" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="721" column="46" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="33" column="47" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="189" column="12" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="588" column="16" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="589" column="13" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="591" column="13" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="711" column="21" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="712" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="727" column="16" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="922" column="21" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="923" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="937" column="16" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="948" column="49" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="950" column="64" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="952" column="67" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="954" column="40" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="956" column="50" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="959" column="52" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,7 +343,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>netlib</text>
+        <text>newlinalg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVMiLCAiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUJMQVMsY29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVJlZkJMQVMsY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkYyakJMQVMiKS5zcGxpdCgiLCIpOwo=</text>
@@ -416,9 +380,9 @@
       </register>
     </registers>
     <search>
-      <last-search>netlib</last-search>
+      <last-search>newlinalg</last-search>
       <last-offset />
-      <last-pattern>netlib</last-pattern>
+      <last-pattern>newlinalg</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -426,10 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BSM</entry>
-        <entry>BM</entry>
-        <entry>BD</entry>
-        <entry>NativeBLAS</entry>
         <entry>NetLibBLAS</entry>
         <entry>NetlibBLAS</entry>
         <entry>nativeBLAS</entry>
@@ -438,7 +398,6 @@
         <entry>arpack</entry>
         <entry>BDM</entry>
         <entry>bals</entry>
-        <entry>blas</entry>
         <entry>axpy</entry>
         <entry>Vector</entry>
         <entry>WeightPoint</entry>
@@ -446,6 +405,11 @@
         <entry>scal</entry>
         <entry>Vectors</entry>
         <entry>netlib</entry>
+        <entry>iter</entry>
+        <entry>breeze</entry>
+        <entry>blas</entry>
+        <entry>colIter</entry>
+        <entry>newlinalg</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
