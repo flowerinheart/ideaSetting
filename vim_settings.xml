@@ -10,6 +10,10 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/KMeans.iml" timestamp="1481702894332">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" timestamp="1481703310039" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
         <mark key="'" line="257" column="0" />
         <mark key="[" line="131" column="4" />
@@ -26,7 +30,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" timestamp="1481701898959">
         <mark key="'" line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481702502497">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481703369022">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="2" />
       </file>
@@ -59,6 +63,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="2" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/LogisticRegression.iml" timestamp="1481702899302">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" timestamp="1481130009233">
         <mark key="'" line="216" column="10" />
@@ -211,7 +220,7 @@
         <mark key="^" line="27" column="2" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1481702306323">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1481703942317">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -262,6 +271,7 @@
         <mark key="." line="22" column="61" />
         <mark key="^" line="22" column="61" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/config.sh" timestamp="1481703477142" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaAssociationRulesExample.java" timestamp="1481482871261">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -370,6 +380,12 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run.sh" timestamp="1481703435069">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/doc/common.md" timestamp="1481010493152">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="0" />
@@ -424,7 +440,7 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481700379889">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481703035478">
         <mark key="'" line="117" column="2" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -538,6 +554,7 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481703062358" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/run.sh" timestamp="1480664797199">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="63" />
@@ -588,7 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
       <jump line="64" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
       <jump line="30" column="25" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
@@ -688,13 +704,14 @@
       <jump line="124" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" />
       <jump line="118" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/KMeans.iml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuc3Bhcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwYXJrLW1sbGliXyR7c2NhbGEuYmluYXJ5LnZlcnNpb259PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3NwYXJrLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPkxvZ2lzdGljUmVncmVzc2lvbjxvZHVsZT4K</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/fommil/netlib-java.git</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>$1</text>
@@ -703,28 +720,28 @@
         <text encoding="base64">ICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuc3Bhcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwYXJrLW1sbGliXyR7c2NhbGEuYmluYXJ5LnZlcnNpb259PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3NwYXJrLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPkxvZ2lzdGljUmVncmVzc2lvbjwvbW9kdWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPkxvZ2lzdGljUmVncmVzc2lvbjxvZHVsZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPkxvZ2lzdGljUmVncmVzc2lvbjwvbW9kdWxlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNoaWZ0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWYgWyBzZXRfTUtMICQxID09IDAgXTt0aGVuCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ZmkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHNoaWZ0Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aWYgWyBzZXRfTUtMICQxID09IDAgXTt0aGVuCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNoaWZ0Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgWyBzZXRfTUtMICQxID09IDAgXTt0aGVuCiAgICBzaGlmdApmaQo=</text>
+        <text encoding="base64">aWYgWyBzZXRfTUtMICQxID09IDAgXTt0aGVuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aWYgWyBzZXRfTUtMICQxID09IDAgXTt0aGVuCiAgICBzaGlmdApmaQo=</text>
