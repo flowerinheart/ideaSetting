@@ -198,7 +198,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" timestamp="1481620432436">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/config.sh" timestamp="1481682155467">
         <mark key="'" line="16" column="0" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
@@ -342,11 +342,11 @@
       <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481598908345">
         <mark key="'" line="25" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1480664504947">
-        <mark key="'" line="32" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481681978328">
+        <mark key="'" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481621398841">
-        <mark key="'" line="132" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481682538187">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-vanilla.sh" timestamp="1481616890751">
         <mark key="'" line="25" column="11" />
@@ -449,6 +449,9 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481682177298">
+        <mark key="'" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481621761247">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -499,10 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" />
-      <jump line="56" column="34" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/ItemMeanModelProvider.java" />
-      <jump line="50" column="22" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/MeanItemBasedItemRecommender.java" />
-      <jump line="72" column="29" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
       <jump line="9" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
       <jump line="33" column="6" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
       <jump line="68" column="21" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
@@ -599,6 +598,10 @@
       <jump line="132" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="9" column="18" filename="$USER_HOME$/IdeaProjects/spark-bench-old/conf/env.sh.template" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/spark-bench-old/conf/env.sh.template" />
+      <jump line="2" column="29" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" />
+      <jump line="24" column="27" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
+      <jump line="4" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -608,7 +611,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>HDFS</text>
+        <text>get_start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
@@ -645,9 +648,9 @@
       </register>
     </registers>
     <search>
-      <last-search>HDFS</last-search>
+      <last-search>get_start</last-search>
       <last-offset />
-      <last-pattern>HDFS</last-pattern>
+      <last-pattern>get_start</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -655,11 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CP</entry>
-        <entry>cp</entry>
-        <entry>assem</entry>
-        <entry>DIR</entry>
-        <entry>apply</entry>
         <entry>+</entry>
         <entry>toLi</entry>
         <entry>toList</entry>
@@ -675,6 +673,11 @@
         <entry>set_gendata</entry>
         <entry>gendata</entry>
         <entry>HDFS</entry>
+        <entry>this</entry>
+        <entry>THIS</entry>
+        <entry>BASH_SOURCE</entry>
+        <entry>DATA</entry>
+        <entry>get_start</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
