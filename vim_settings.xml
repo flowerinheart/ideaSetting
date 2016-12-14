@@ -28,12 +28,6 @@
       <file name="/Dummy.scala" timestamp="1480821019697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1481597763000">
-        <mark key="'" line="47" column="16" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" timestamp="1480748782969">
         <mark key="'" line="25" column="0" />
       </file>
@@ -100,6 +94,11 @@
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" timestamp="1481693117649">
+        <mark key="'" line="12606" column="0" />
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="49" column="76" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/pom.xml" timestamp="1481614845041" />
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
@@ -128,6 +127,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1480056125263">
         <mark key="'" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481693307251">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/Main.java" timestamp="1481341563857">
         <mark key="'" line="156" column="18" />
@@ -213,8 +218,8 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481598908345">
-        <mark key="'" line="25" column="54" />
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481692261918">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481681978328">
         <mark key="'" line="2" column="29" />
@@ -320,10 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
-      <jump line="33" column="6" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
-      <jump line="68" column="21" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
-      <jump line="81" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
       <jump line="93" column="17" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/mean/DampedItemMeanModelProvider.java" />
       <jump line="45" column="0" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
       <jump line="0" column="102" filename="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/build/recommend-damped-mean.log" />
@@ -420,10 +421,14 @@
       <jump line="24" column="27" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="4" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
+      <jump line="78" column="0" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
+      <jump line="12" column="0" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" />
+      <jump line="12547" column="38" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
+      <jump line="12606" column="0" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PROPERTY_KEY = &quot;com.github.fommil.netlib.BLAS&quot;;</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -431,8 +436,8 @@
       <register name="/" type="4">
         <text>get_start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+      <register name="0" type="4">
+        <text>PROPERTY_KEY = &quot;com.github.fommil.netlib.BLAS&quot;;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
