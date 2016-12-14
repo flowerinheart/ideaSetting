@@ -11,6 +11,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/functions/LU.scala" timestamp="1481707582805">
+        <mark key="'" line="61" column="6" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/FileScanRDD.scala" timestamp="1479971638416">
         <mark key="'" line="61" column="6" />
       </file>
@@ -22,12 +25,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481164152296">
         <mark key="'" line="68" column="35" />
-      </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Test.java" timestamp="1481458379244">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-        <mark key="." line="3" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeansModel.scala" timestamp="1481494834696">
         <mark key="'" line="101" column="7" />
@@ -105,20 +102,13 @@
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
         <mark key="'" line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/io/FileStreams.scala" timestamp="1481707344576">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" timestamp="1480898222868">
         <mark key="'" line="64" column="26" />
-      </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/test.sc" timestamp="1481454751703">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/ml/JavaDecisionTreeClassificationExample.java" timestamp="1481485689835">
-        <mark key="[" line="34" column="63" />
-        <mark key="]" line="34" column="63" />
-        <mark key="^" line="34" column="63" />
-        <mark key="." line="34" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
@@ -144,20 +134,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/example/Lists.scala" timestamp="1481423640771">
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" timestamp="1481707518721">
+        <mark key="'" line="328" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeans.scala" timestamp="1481696585367">
         <mark key="'" line="465" column="0" />
-      </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/PercolationStats.java" timestamp="1481459290457">
-        <mark key="[" line="5" column="109" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/scala/org/apache/spark/shuffle/alluxio/AlluxioShuffleWriter.scala" timestamp="1480056125263">
         <mark key="'" line="18" column="21" />
@@ -170,12 +151,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Matrices.scala" timestamp="1481698392211">
         <mark key="'" line="25" column="53" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/examples/src/main/java/org/apache/spark/examples/ml/JavaDecisionTreeClassificationExample.java" timestamp="1481490767969">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="64" />
-        <mark key="^" line="34" column="63" />
-        <mark key="." line="34" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480561399939">
         <mark key="'" line="20" column="35" />
@@ -194,6 +169,14 @@
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="205" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/Axis.scala" timestamp="1481707171597">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/DenseMatrix.scala" timestamp="1481707406530">
+        <mark key="'" line="51" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
       </file>
@@ -208,14 +191,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
       </file>
+      <file name="D:/sbt/.ivy2/cache/com.github.fommil.netlib/core/jars/core-1.1.2.jar!/com/github/fommil/netlib/LAPACK.class" timestamp="1481707593997">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" timestamp="1481466416285">
         <mark key="'" line="120" column="15" />
-      </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
-        <mark key="[" line="48" column="68" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="20" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
@@ -223,23 +203,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/GetSparkMetrics.java" timestamp="1480410110279">
         <mark key="'" line="80" column="6" />
       </file>
-      <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Percolation.java" timestamp="1481462871847">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="45" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481496006194">
         <mark key="'" line="25" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="70" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="628" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="316" column="8" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="446" column="6" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="24" column="53" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Matrices.scala" />
-      <jump line="723" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
       <jump line="447" column="6" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
       <jump line="542" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
       <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" />
@@ -334,55 +302,61 @@
       <jump line="954" column="40" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
       <jump line="956" column="50" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
       <jump line="959" column="52" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" />
+      <jump line="51" column="12" filename="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/DenseMatrix.scala" />
+      <jump line="328" column="7" filename="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" />
+      <jump line="3" column="53" filename="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/functions/LU.scala" />
+      <jump line="30" column="6" filename="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/functions/LU.scala" />
+      <jump line="61" column="6" filename="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/functions/LU.scala" />
+      <jump line="46" column="0" filename="D:/sbt/.ivy2/cache/com.github.fommil.netlib/core/jars/core-1.1.2.jar!/com/github/fommil/netlib/LAPACK.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsaW5hbGcuCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>newlinalg</text>
+        <text>lapack</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVMiLCAiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUJMQVMsY29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVJlZkJMQVMsY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkYyakJMQVMiKS5zcGxpdCgiLCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi4K</text>
+        <text encoding="base64">ICBsaW5hbGcuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmdldFAK</text>
+        <text encoding="base64">bGluYWxnLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgS01lYW5zLgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYkxBUzogQkxBUy4K</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmdldFAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgS01lYW5zLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYkxBUzogQkxBUy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgpIC0+IEJMQVMgICAgCg==</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJMQVMK</text>
+        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICgpIC0+IEJMQVMgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>newlinalg</last-search>
+      <last-search>lapack</last-search>
       <last-offset />
-      <last-pattern>newlinalg</last-pattern>
+      <last-pattern>lapack</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +367,6 @@
         <entry>NetLibBLAS</entry>
         <entry>NetlibBLAS</entry>
         <entry>nativeBLAS</entry>
-        <entry>lapack</entry>
         <entry>ARPACK</entry>
         <entry>arpack</entry>
         <entry>BDM</entry>
@@ -410,6 +383,7 @@
         <entry>blas</entry>
         <entry>colIter</entry>
         <entry>newlinalg</entry>
+        <entry>lapack</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
