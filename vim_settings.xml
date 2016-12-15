@@ -23,10 +23,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481773446364">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481777307650">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/conf/env.sh" timestamp="1481773607553">
         <mark key="[" line="5" column="17" />
@@ -178,12 +178,12 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481773455705">
-        <mark key="'" line="35" column="108" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="28" column="2" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481777316791">
+        <mark key="'" line="32" column="108" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="25" column="2" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1481709965289">
         <mark key="'" line="62" column="8" />
@@ -385,12 +385,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481773409443">
-        <mark key="'" line="156" column="1" />
-        <mark key="[" line="156" column="3" />
-        <mark key="]" line="156" column="1" />
-        <mark key="^" line="156" column="1" />
-        <mark key="." line="156" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481776980119">
+        <mark key="'" line="143" column="1" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="123" column="16" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/test.sc" timestamp="1481454751703">
         <mark key="[" line="0" column="9" />
@@ -467,11 +467,12 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481772884196">
-        <mark key="[" line="66" column="4" />
-        <mark key="]" line="66" column="2" />
-        <mark key="^" line="66" column="2" />
-        <mark key="." line="66" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481777162442">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481704583660">
         <mark key="'" line="28" column="38" />
@@ -514,11 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="58" column="42" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="62" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="93" column="17" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="15" column="31" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="71" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="92" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
@@ -614,55 +610,60 @@
       <jump line="62" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
       <jump line="49" column="46" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
       <jump line="156" column="1" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
+      <jump line="64" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
+      <jump line="40" column="1" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
+      <jump line="12" column="2" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>DATA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgZWNobyAkU1BBUktfT1BUCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgU1BBUktfT1BUPSIke1NQQVJLX09QVH0gLS1jb25mICRKYXZhQkxBU09wdCIK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RHJpdmVySmF2YUJMQVNPcHQ9JyJzcGFyay5kcml2ZXIuZXh0cmFKYXZhT3B0aW9ucz0tRGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5CTEFTPWNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5GMmpTeXN0ZW1CTEFTIC1EY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkxBUEFDSz1jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuRjJqU3lzdGVtTEFQQUNLIC1EY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVM9Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLkYyalN5c3RlbUFSUEFDSyInCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RHJpdmVyTmF0aXZlQkxBU09wdD0nInNwYXJrLmRyaXZlci5leHRyYUphdmFPcHRpb25zPS1EY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVM9Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUJMQVMgLURjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTEFQQUNLPWNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5OYXRpdmVTeXN0ZW1MQVBBQ0sgLURjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuQkxBUz1jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTmF0aXZlU3lzdGVtQVJQQUNLIicK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L0xvZ2lzdGljUmVncmVzc2lvbkFwcC0xLjAuamFyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgZWNobyAkU1BBUktfT1BUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgU1BBUktfT1BUPSIke1NQQVJLX09QVH0gLS1jb25mICROYXRpdmVCTEFTT3B0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>DATA</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>DATA</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +677,6 @@
         <entry>this</entry>
         <entry>THIS</entry>
         <entry>BASH_SOURCE</entry>
-        <entry>DATA</entry>
         <entry>get_start</entry>
         <entry>SPARK_</entry>
         <entry encoding="base64">XDxTUEFSS19IQURPT1BfRlNfTE9DQUxfQkxPQ0tfU0laRVw+</entry>
@@ -690,6 +690,7 @@
         <entry>INPUT_HDFS</entry>
         <entry>SPARK_OPT</entry>
         <entry>setup</entry>
+        <entry>DATA</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
