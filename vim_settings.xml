@@ -59,6 +59,12 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1481597763000">
+        <mark key="'" line="47" column="16" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-cache.sh" timestamp="1481773471519">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="12" />
@@ -133,6 +139,12 @@
         <mark key="]" line="66" column="231" />
         <mark key="." line="66" column="231" />
         <mark key="^" line="66" column="231" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/config.sh" timestamp="1481698724014">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-mkl.sh" timestamp="1481700727884">
         <mark key="[" line="8" column="0" />
@@ -219,7 +231,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481773466330">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481782649244">
+        <mark key="'" line="43" column="94" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="0" />
@@ -244,6 +257,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/config.sh" timestamp="1481782561346" />
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/test/scala/example/ListsSuite.scala" timestamp="1481424090026">
         <mark key="[" line="48" column="68" />
         <mark key="]" line="48" column="20" />
@@ -386,13 +400,19 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionApp.java" timestamp="1481704932325">
+        <mark key="'" line="47" column="26" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/KMeans/bin/gen_data.sh" timestamp="1481709293619">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481776980119">
-        <mark key="'" line="143" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481782707616">
+        <mark key="'" line="107" column="0" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="^" line="123" column="16" />
@@ -507,6 +527,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run-static-with-alluxio.sh" timestamp="1481701186055">
+        <mark key="'" line="29" column="27" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
         <mark key="'" line="35" column="29" />
         <mark key="[" line="8" column="37" />
@@ -522,10 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="32" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" />
-      <jump line="44" column="17" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
-      <jump line="67" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="84" column="12" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
       <jump line="165" column="0" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
       <jump line="44" column="65" filename="$USER_HOME$/IdeaProjects/spark/external/flume-sink/src/main/scala/org/apache/spark/streaming/flume/sink/SparkAvroCallbackHandler.scala" />
@@ -573,7 +595,6 @@
       <jump line="103" column="2" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="104" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="105" column="59" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
-      <jump line="107" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="30" column="2" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" />
       <jump line="36" column="108" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/config.sh" />
@@ -622,6 +643,11 @@
       <jump line="47" column="60" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
       <jump line="55" column="45" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
       <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="9" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
+      <jump line="13" column="54" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
+      <jump line="41" column="144" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
+      <jump line="43" column="94" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
+      <jump line="107" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -631,7 +657,7 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>LOCAL_REPORT</text>
+        <text>MEMORY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
@@ -668,9 +694,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LOCAL_REPORT</last-search>
+      <last-search>MEMORY</last-search>
       <last-offset />
-      <last-pattern>LOCAL_REPORT</last-pattern>
+      <last-pattern>MEMORY</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -678,7 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
         <entry>THIS</entry>
         <entry>BASH_SOURCE</entry>
         <entry>get_start</entry>
@@ -698,6 +723,7 @@
         <entry>REAL_Time</entry>
         <entry>LOCAL_</entry>
         <entry>LOCAL_REPORT</entry>
+        <entry>MEMORY</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
