@@ -23,16 +23,17 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481777307650">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481779329342">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="20" column="68" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/conf/env.sh" timestamp="1481773607553">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/conf/env.sh" timestamp="1481780266736">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Test.java" timestamp="1481458379244">
         <mark key="[" line="6" column="43" />
@@ -467,12 +468,12 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481777162442">
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481779529932">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="40" column="1" />
+        <mark key="[" line="73" column="68" />
+        <mark key="]" line="73" column="34" />
+        <mark key="^" line="73" column="34" />
+        <mark key="." line="73" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481704583660">
         <mark key="'" line="28" column="38" />
@@ -617,53 +618,53 @@
       <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>DATA</text>
+        <text>REAL_Time</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaW50X2NvbmZpZyAgJHtBUFB9ICR7U1RBUlRfVElNRX0gJHtFTkRfVElNRX0gJHtTSVpFfSAke1NUQVJUX1RTfSAke3Jlc30+PiAke0JFTkNIX1JFUE9SVH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdldF9jb25maWdfZmllbGRzID4+ICR7QkVOQ0hfUkVQT1JUfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CVNUQVJUX1RTPWBnZXRfc3RhcnRfdHNgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CUVORF9USU1FPWB0aW1lc3RhbXBgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CVNUQVJUX1RJTUU9YHRpbWVzdGFtcGAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RVZFTlRfTE9HX0JBQ0tVUF9ESVJfT05fSERGUz0iL3NwYXJrL2JhY2t1cC9ldmVudCIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgZWNobyAkU1BBUktfT1BUCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgU1BBUktfT1BUPSIke1NQQVJLX09QVH0gLS1jb25mICROYXRpdmVCTEFTT3B0Igo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DATA</last-search>
+      <last-search>REAL_Time</last-search>
       <last-offset />
-      <last-pattern>DATA</last-pattern>
+      <last-pattern>REAL_Time</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_gendata</entry>
         <entry>gendata</entry>
         <entry>HDFS</entry>
         <entry>this</entry>
@@ -691,6 +691,7 @@
         <entry>SPARK_OPT</entry>
         <entry>setup</entry>
         <entry>DATA</entry>
+        <entry>REAL_Time</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
