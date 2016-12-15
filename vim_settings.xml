@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" timestamp="1481703310039" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/java/KmeansAppJava.java" timestamp="1481704371754">
+        <mark key="'" line="29" column="64" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
         <mark key="'" line="257" column="0" />
         <mark key="[" line="131" column="4" />
@@ -17,16 +23,16 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481709567771">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run.sh" timestamp="1481773446364">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/conf/env.sh" timestamp="1481709594030">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="55" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/conf/env.sh" timestamp="1481773607553">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/Algorithm1/src/Test.java" timestamp="1481458379244">
         <mark key="[" line="6" column="43" />
@@ -39,26 +45,20 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-input-cache.sh" timestamp="1481701150153">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-input-cache.sh" timestamp="1481773480319">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla-alluxio-input.sh" timestamp="1481701157480">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla-alluxio-input.sh" timestamp="1481773493641">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/SparkJsonEstimator.java" timestamp="1481597763000">
-        <mark key="'" line="47" column="16" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-cache.sh" timestamp="1481701141048">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-cache.sh" timestamp="1481773471519">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/LogisticRegression.iml" timestamp="1481702899302">
         <mark key="[" line="3" column="21" />
@@ -113,10 +113,10 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-input.sh" timestamp="1481701145130">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized-alluxio-input.sh" timestamp="1481773474895">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/conf/env.sh" timestamp="1481709585608">
         <mark key="[" line="2" column="0" />
@@ -130,12 +130,6 @@
         <mark key="." line="66" column="231" />
         <mark key="^" line="66" column="231" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/config.sh" timestamp="1481698724014">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="19" column="2" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-mkl.sh" timestamp="1481700727884">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="2" />
@@ -147,13 +141,10 @@
         <mark key="^" line="34" column="63" />
         <mark key="." line="34" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" timestamp="1481717034875">
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" timestamp="1481772859760">
+        <mark key="'" line="49" column="46" />
         <mark key="[" line="49" column="46" />
         <mark key="]" line="49" column="75" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/pom.xml" timestamp="1481704506970">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/KMeans/conf/env.sh" timestamp="1481709354242">
         <mark key="[" line="1" column="37" />
@@ -182,17 +173,17 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla.sh" timestamp="1481701152465">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla.sh" timestamp="1481773483557">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481702504206">
-        <mark key="'" line="34" column="108" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="^" line="27" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481773455705">
+        <mark key="'" line="35" column="108" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="28" column="2" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1481709965289">
         <mark key="'" line="62" column="8" />
@@ -224,10 +215,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481708540831">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481773466330">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
         <mark key="'" line="24" column="30" />
@@ -243,7 +234,6 @@
         <mark key="." line="22" column="61" />
         <mark key="^" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/config.sh" timestamp="1481703477142" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaAssociationRulesExample.java" timestamp="1481482871261">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -255,10 +245,10 @@
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla-alluxio-cache.sh" timestamp="1481701154801">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla-alluxio-cache.sh" timestamp="1481773488081">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" timestamp="1480048569439">
         <mark key="'" line="11" column="22" />
@@ -307,11 +297,11 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="62" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/run.sh" timestamp="1481711600851">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/run.sh" timestamp="1481773435927">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481164152296">
         <mark key="'" line="68" column="35" />
@@ -334,10 +324,10 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla-alluxio-input-cache.sh" timestamp="1481701160063">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-vanilla-alluxio-input-cache.sh" timestamp="1481773497405">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/KMeans/src/main/scala/kmeans.scala" timestamp="1481716026454">
         <mark key="[" line="27" column="90" />
@@ -378,7 +368,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/java/KmeansDataGenJava.java" timestamp="1481704872143" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionDataGen.java" timestamp="1481704845724">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -391,22 +380,17 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionApp.java" timestamp="1481704932325">
-        <mark key="'" line="47" column="26" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/KMeans/bin/gen_data.sh" timestamp="1481709293619">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481703035478">
-        <mark key="'" line="117" column="2" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481773409443">
+        <mark key="'" line="156" column="1" />
+        <mark key="[" line="156" column="3" />
+        <mark key="]" line="156" column="1" />
+        <mark key="^" line="156" column="1" />
+        <mark key="." line="156" column="1" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/函数式/lab/example/src/main/scala/test.sc" timestamp="1481454751703">
         <mark key="[" line="0" column="9" />
@@ -483,7 +467,12 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481703062358" />
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481772884196">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="2" />
+        <mark key="^" line="66" column="2" />
+        <mark key="." line="66" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481704583660">
         <mark key="'" line="28" column="38" />
       </file>
@@ -510,12 +499,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run-static-with-alluxio.sh" timestamp="1481701186055">
-        <mark key="'" line="29" column="27" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
         <mark key="'" line="35" column="29" />
         <mark key="[" line="8" column="37" />
@@ -531,8 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="14" column="53" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="33" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="58" column="42" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
       <jump line="62" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
@@ -631,55 +612,57 @@
       <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionApp.java" />
       <jump line="47" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionApp.java" />
       <jump line="62" column="8" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" />
+      <jump line="49" column="46" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
+      <jump line="156" column="1" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.github.fommil.netlib.BLAS&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>INPUT_HDFS</text>
+        <text>setup</text>
       </register>
-      <register name="0" type="4">
-        <text>com.github.fommil.netlib.BLAS&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L0xvZ2lzdGljUmVncmVzc2lvbkFwcC0xLjAuamFyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgZWNobyAkU1BBUktfT1BUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L2xpbmVhci1yZWdyZXNzaW9uLSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgU1BBUktfT1BUPSIke1NQQVJLX09QVH0gLS1jb25mICRKYXZhQkxBU09wdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L2xpbmVhci1yZWdyZXNzaW9uLSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">RHJpdmVySmF2YUJMQVNPcHQ9JyJzcGFyay5kcml2ZXIuZXh0cmFKYXZhT3B0aW9ucz0tRGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5CTEFTPWNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5GMmpTeXN0ZW1CTEFTIC1EY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkxBUEFDSz1jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuRjJqU3lzdGVtTEFQQUNLIC1EY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVM9Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLkYyalN5c3RlbUFSUEFDSyInCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L0tNZWFucy0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
+        <text encoding="base64">RHJpdmVyTmF0aXZlQkxBU09wdD0nInNwYXJrLmRyaXZlci5leHRyYUphdmFPcHRpb25zPS1EY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVM9Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUJMQVMgLURjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTEFQQUNLPWNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5OYXRpdmVTeXN0ZW1MQVBBQ0sgLURjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuQkxBUz1jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTmF0aXZlU3lzdGVtQVJQQUNLIicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L0xvZ2lzdGljUmVncmVzc2lvbkFwcC0xLjAuamFyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L0tNZWFuc0FwcC0xLjAuamFyIgo=</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0L0tNZWFuc0FwcC0xLjAuamFyIgo=</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vdGFyZ2V0LyR7TU9EVUxFX05BTUV9LSR7QkVOQ0hfVkVSU0lPTn0uamFyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>INPUT_HDFS</last-search>
+      <last-search>setup</last-search>
       <last-offset />
-      <last-pattern>INPUT_HDFS</last-pattern>
+      <last-pattern>setup</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -687,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>echo_and_run</entry>
         <entry>set_gendata</entry>
         <entry>gendata</entry>
         <entry>HDFS</entry>
@@ -696,7 +678,6 @@
         <entry>BASH_SOURCE</entry>
         <entry>DATA</entry>
         <entry>get_start</entry>
-        <entry>SPARK_OPT</entry>
         <entry>SPARK_</entry>
         <entry encoding="base64">XDxTUEFSS19IQURPT1BfRlNfTE9DQUxfQkxPQ0tfU0laRVw+</entry>
         <entry>set_gen</entry>
@@ -707,6 +688,8 @@
         <entry>$1</entry>
         <entry>scala</entry>
         <entry>INPUT_HDFS</entry>
+        <entry>SPARK_OPT</entry>
+        <entry>setup</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
