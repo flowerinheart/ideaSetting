@@ -10,6 +10,9 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" timestamp="1481781961951">
+        <mark key="'" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/GetSparkMetrics.java" timestamp="1480491342450">
         <mark key="'" line="257" column="0" />
         <mark key="[" line="131" column="4" />
@@ -235,6 +238,7 @@
         <mark key="." line="22" column="61" />
         <mark key="^" line="22" column="61" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/config.sh" timestamp="1481703477142" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaAssociationRulesExample.java" timestamp="1481482871261">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -369,6 +373,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/java/KmeansDataGenJava.java" timestamp="1481704872143" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionDataGen.java" timestamp="1481704845724">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -399,6 +404,7 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/backup-on-hdfs.sh" timestamp="1481781145035" />
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" timestamp="1481477394101">
         <mark key="'" line="88" column="32" />
         <mark key="[" line="69" column="64" />
@@ -516,18 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="31" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="71" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="92" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="16" column="20" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="25" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="30" column="24" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="70" column="8" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
-      <jump line="28" column="12" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
-      <jump line="40" column="5" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" />
       <jump line="76" column="32" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" />
       <jump line="44" column="17" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
       <jump line="67" column="11" filename="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" />
@@ -616,6 +610,18 @@
       <jump line="12" column="2" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
       <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
       <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="21" column="21" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="23" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="24" column="58" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="27" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="29" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="30" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="40" column="76" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="45" column="27" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="47" column="60" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="55" column="45" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -625,7 +631,7 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>REAL_Time</text>
+        <text>LOCAL_REPORT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0X0phdmFfT1BUCg==</text>
@@ -662,9 +668,9 @@
       </register>
     </registers>
     <search>
-      <last-search>REAL_Time</last-search>
+      <last-search>LOCAL_REPORT</last-search>
       <last-offset />
-      <last-pattern>REAL_Time</last-pattern>
+      <last-pattern>LOCAL_REPORT</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -672,8 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gendata</entry>
-        <entry>HDFS</entry>
         <entry>this</entry>
         <entry>THIS</entry>
         <entry>BASH_SOURCE</entry>
@@ -692,6 +696,8 @@
         <entry>setup</entry>
         <entry>DATA</entry>
         <entry>REAL_Time</entry>
+        <entry>LOCAL_</entry>
+        <entry>LOCAL_REPORT</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
