@@ -295,10 +295,10 @@
         <mark key="'" line="63" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481782649244">
-        <mark key="'" line="43" column="94" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="0" />
+        <mark key="'" line="39" column="94" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
         <mark key="'" line="24" column="30" />
@@ -440,10 +440,10 @@
         <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run.sh" timestamp="1481703435069">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/doc/common.md" timestamp="1481010493152">
         <mark key="[" line="5" column="17" />
@@ -515,12 +515,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" timestamp="1481782707616">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="119" column="16" />
-        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/run-vanilla.sh" timestamp="1481616890751">
         <mark key="'" line="25" column="11" />
@@ -637,12 +631,6 @@
         <mark key="]" line="73" column="34" />
         <mark key="^" line="73" column="34" />
         <mark key="." line="73" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/conf/env.sh" timestamp="1481709988483">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/run.sh" timestamp="1480664797199">
         <mark key="[" line="2" column="0" />
