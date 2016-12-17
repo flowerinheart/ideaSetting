@@ -20,6 +20,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1481498012894">
         <mark key="'" line="73" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
+        <mark key="'" line="225" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" timestamp="1481698471839">
         <mark key="'" line="959" column="52" />
       </file>
@@ -67,6 +70,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/CholeskyDecomposition.scala" timestamp="1481497528203">
         <mark key="'" line="39" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
+        <mark key="'" line="377" column="111" />
+      </file>
       <file name="C:/Program Files (x86)/Java/jdk1.8.0_111/src.zip!/java/util/Formatter.java" timestamp="1480499159986">
         <mark key="'" line="2141" column="6" />
       </file>
@@ -96,7 +102,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
         <mark key="'" line="184" column="18" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
         <mark key="'" line="12" column="22" />
       </file>
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
@@ -110,7 +116,7 @@
       <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" timestamp="1480898222868">
         <mark key="'" line="64" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
+      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1480899071333">
@@ -119,23 +125,33 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/data/entities/Entities.java" timestamp="1480907389699">
         <mark key="'" line="236" column="4" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/F2jBLAS.class" timestamp="1481491193346">
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/F2jBLAS.class" timestamp="1481491193346">
         <mark key="'" line="81" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
+      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1481698409416">
         <mark key="'" line="208" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/ttt.sc" timestamp="1481976751401">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" timestamp="1481707518721">
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" timestamp="1481976761959">
         <mark key="'" line="328" column="7" />
+        <mark key="[" line="147" column="89" />
+        <mark key="]" line="147" column="3" />
+        <mark key="^" line="147" column="3" />
+        <mark key="." line="147" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/clustering/KMeans.scala" timestamp="1481696585367">
         <mark key="'" line="465" column="0" />
@@ -164,7 +180,7 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481494551266">
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481494551266">
         <mark key="'" line="14" column="41" />
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="205" />
@@ -174,8 +190,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/DenseMatrix.scala" timestamp="1481707406530">
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/DenseMatrix.scala" timestamp="1481976543743">
         <mark key="'" line="51" column="12" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/storage/BlockId.scala" timestamp="1479965821666">
         <mark key="'" line="63" column="46" />
@@ -311,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsaW5hbGcuCg==</text>
+        <text encoding="base64">dmFsIGIgPSBEbmUK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -320,34 +339,34 @@
         <text>lapack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gZSA9IFN5c3RlbS5nZXRQcm9wZXJ0eSgiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVMiLCAiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUJMQVMsY29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVJlZkJMQVMsY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkYyakJMQVMiKS5zcGxpdCgiLCIpOwo=</text>
+        <text encoding="base64">dmFsIGEgPSBEZW5zZU1hdHJpeC5yYW5kW0RvdWJsZV0oMTAsIDEwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsaW5hbGcuCg==</text>
+        <text encoding="base64">dmFsIGIgPSBEbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGluYWxnLgo=</text>
+        <text encoding="base64">dmFsIGEgPSBEZW5zZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi4K</text>
+        <text encoding="base64">ICBsaW5hbGcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmdldFAK</text>
+        <text encoding="base64">bGluYWxnLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgS01lYW5zLgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYkxBUzogQkxBUy4K</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmdldFAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgS01lYW5zLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3BhcmtDb25mLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYkxBUzogQkxBUy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgpIC0+IEJMQVMgICAgCg==</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
