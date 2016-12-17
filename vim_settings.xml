@@ -517,11 +517,11 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/PCA/src/main/scala/PCADataGen.scala" timestamp="1481961101135">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark-bench-old/PCA/src/main/scala/PCADataGen.scala" timestamp="1481961780615">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionApp.java" timestamp="1481704932325">
         <mark key="'" line="47" column="26" />
@@ -706,8 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="7" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
-      <jump line="103" column="2" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="104" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="105" column="59" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="30" column="2" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" />
@@ -806,6 +804,8 @@
       <jump line="217" column="38" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
       <jump line="225" column="38" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
       <jump line="64" column="57" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
+      <jump line="23" column="25" filename="$USER_HOME$/IdeaProjects/spark-bench-old/PCA/src/main/scala/PCADataGen.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/spark-bench-old/PCA/src/main/scala/PCADataGen.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -824,28 +824,28 @@
         <text encoding="base64">b2JqZWN0IFBDQURhdGFHZW4gewogICAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsKICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJvcmcuZWNsaXBzZS5qZXR0eS5zZXJ2ZXIiKS5zZXRMZXZlbChMZXZlbC5PRkYpOwogICAgICAgIGlmIChhcmdzLmxlbmd0aCA8IDMpIHsKICAgICAgICAgICAgcHJpbnRsbigidXNhZ2U6IDxvdXRwdXQ+IDxudW1FeGFtcGxlcz4gPG51bUZlYXR1cmVzPiBbbnVtcGFyXSIpCiAgICAgICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKQogICAgICAgIH0KICAgICAgICB2YWwgY29uZiA9IG5ldyBTcGFya0NvbmYKICAgICAgICAgICAgY29uZi5zZXRBcHBOYW1lKCJTcGFyayBQQ0EgRGF0YUdlbiIpCiAgICAgICAgICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKCiAgICAgICAgICAgIHZhbCBvdXRwdXQgPSBhcmdzKDApCiAgICAgICAgICAgIHZhbCBudW1FeGFtcGxlcyA9IGFyZ3MoMSkudG9JbnQKICAgICAgICAgICAgdmFsIG51bUZlYXR1cmVzID0gYXJncygyKS50b0ludAogICAgICAgICAgICB2YWwgZXBzaWxvbiA9IDEwMAogICAgICAgICAgICB2YWwgZGVmUGFyID0gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgic3BhcmsuZGVmYXVsdC5wYXJhbGxlbGlzbSIpID09IG51bGwpIDIgZWxzZSBTeXN0ZW0uZ2V0UHJvcGVydHkoInNwYXJrLmRlZmF1bHQucGFyYWxsZWxpc20iKS50b0ludAogICAgICAgICAgICB2YWwgbnVtUGFyID0gaWYgKGFyZ3MubGVuZ3RoID4gMykgYXJncygzKS50b0ludCBlbHNlIGRlZlBhcgoKICAgICAgICAgICAgdmFsIGRhdGE9IExpbmVhckRhdGFHZW5lcmF0b3IuZ2VuZXJhdGVMaW5lYXJSREQoc2MsbnVtRXhhbXBsZXMsbnVtRmVhdHVyZXMsZXBzaWxvbixudW1QYXIpCiAgICAgICAgICAgIGRhdGEuc2F2ZUFzVGV4dEZpbGUob3V0cHV0KQoKICAgICAgICAgICAgc2Muc3RvcCgpOwogICAgfQoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50X2NvbmZpZyAgJHtBUFB9ICR7U1RBUlRfVElNRX0gJHtFTkRfVElNRX0gJHtTSVpFfSAke1NUQVJUX1RTfSAke3Jlc30+PiAke0JFTkNIX1JFUE9SVH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29udGV4dCxTcGFya0NvbmZ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldF9jb25maWdfZmllbGRzID4+ICR7QkVOQ0hfUkVQT1JUfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIudXRpbC5MaW5lYXJEYXRhR2VuZXJhdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVNUQVJUX1RTPWBnZXRfc3RhcnRfdHNgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTGV2ZWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUVORF9USU1FPWB0aW1lc3RhbXBgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVNUQVJUX1RJTUU9YHRpbWVzdGFtcGAK</text>
+        <text encoding="base64">cGFja2FnZSBQQ0Euc3JjLm1haW4uc2NhbGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RVZFTlRfTE9HX0JBQ0tVUF9ESVJfT05fSERGUz0iL3NwYXJrL2JhY2t1cC9ldmVudCIK</text>
+        <text encoding="base64">b2JqZWN0IFBDQURhdGFHZW4gewogICAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsKICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJvcmcuZWNsaXBzZS5qZXR0eS5zZXJ2ZXIiKS5zZXRMZXZlbChMZXZlbC5PRkYpOwogICAgICAgIGlmIChhcmdzLmxlbmd0aCA8IDMpIHsKICAgICAgICAgICAgcHJpbnRsbigidXNhZ2U6IDxvdXRwdXQ+IDxudW1FeGFtcGxlcz4gPG51bUZlYXR1cmVzPiBbbnVtcGFyXSIpCiAgICAgICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKQogICAgICAgIH0KICAgICAgICB2YWwgY29uZiA9IG5ldyBTcGFya0NvbmYKICAgICAgICAgICAgY29uZi5zZXRBcHBOYW1lKCJTcGFyayBQQ0EgRGF0YUdlbiIpCiAgICAgICAgICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKCiAgICAgICAgICAgIHZhbCBvdXRwdXQgPSBhcmdzKDApCiAgICAgICAgICAgIHZhbCBudW1FeGFtcGxlcyA9IGFyZ3MoMSkudG9JbnQKICAgICAgICAgICAgdmFsIG51bUZlYXR1cmVzID0gYXJncygyKS50b0ludAogICAgICAgICAgICB2YWwgZXBzaWxvbiA9IDEwMAogICAgICAgICAgICB2YWwgZGVmUGFyID0gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgic3BhcmsuZGVmYXVsdC5wYXJhbGxlbGlzbSIpID09IG51bGwpIDIgZWxzZSBTeXN0ZW0uZ2V0UHJvcGVydHkoInNwYXJrLmRlZmF1bHQucGFyYWxsZWxpc20iKS50b0ludAogICAgICAgICAgICB2YWwgbnVtUGFyID0gaWYgKGFyZ3MubGVuZ3RoID4gMykgYXJncygzKS50b0ludCBlbHNlIGRlZlBhcgoKICAgICAgICAgICAgdmFsIGRhdGE9IExpbmVhckRhdGFHZW5lcmF0b3IuZ2VuZXJhdGVMaW5lYXJSREQoc2MsbnVtRXhhbXBsZXMsbnVtRmVhdHVyZXMsZXBzaWxvbixudW1QYXIpCiAgICAgICAgICAgIGRhdGEuc2F2ZUFzVGV4dEZpbGUob3V0cHV0KQoKICAgICAgICAgICAgc2Muc3RvcCgpOwogICAgfQoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYzliYmQxZTRmYTg3MzIzZjQzM2FjMDcyMGY5NmYwODQzN2I0MTc3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
