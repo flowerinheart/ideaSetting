@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" timestamp="1481781961951">
         <mark key="'" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" timestamp="1482300689976">
+        <mark key="'" line="19" column="53" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/Recommendation/src/main/scala/RecommanderDataGen.scala" timestamp="1482290320251">
         <mark key="[" line="6" column="58" />
         <mark key="]" line="6" column="43" />
@@ -160,6 +163,12 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/RecommendationExample.scala" timestamp="1482287479237">
+        <mark key="[" line="33" column="54" />
+        <mark key="]" line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
         <mark key="'" line="184" column="18" />
       </file>
@@ -233,11 +242,6 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/SVM/src/main/scala/DocToTFIDF.scala" timestamp="1481868465829">
         <mark key="'" line="66" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/bin/gen_data.sh" timestamp="1482289696641">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/event/app-20161130150659-0001" timestamp="1480561399939">
         <mark key="'" line="20" column="35" />
       </file>
@@ -260,6 +264,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" timestamp="1481782649244">
         <mark key="'" line="43" column="94" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/KernelDensityEstimationExample.scala" timestamp="1482302499334">
+        <mark key="[" line="35" column="129" />
+        <mark key="]" line="35" column="129" />
+        <mark key="^" line="35" column="129" />
+        <mark key="." line="35" column="129" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/java/org/apache/spark/examples/mllib/JavaAssociationRulesExample.java" timestamp="1481482871261">
         <mark key="[" line="35" column="0" />
@@ -463,6 +473,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="25" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1482302099013">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1482290427151" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481704583660">
         <mark key="'" line="28" column="38" />
@@ -493,7 +506,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1482289899860">
+      <file name="/fragment.java" timestamp="1482302889372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/pom.xml" timestamp="1481702615338">
@@ -504,12 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
-      <jump line="21" column="21" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
-      <jump line="23" column="14" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
-      <jump line="24" column="58" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
-      <jump line="27" column="23" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
       <jump line="29" column="25" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
       <jump line="30" column="22" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
       <jump line="40" column="76" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
@@ -604,6 +611,12 @@
       <jump line="232" column="8" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="233" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="235" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="82" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
+      <jump line="101" column="8" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
+      <jump line="103" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
+      <jump line="104" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
+      <jump line="19" column="53" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -613,7 +626,7 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>_nativeBLAS</text>
+        <text>blas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYXJncy5sZW5ndGggPCAzKSB7CiAgICAgICAgICAgIHByaW50bG4oInVzYWdlOiA8b3V0cHV0PiA8bnVtRXhhbXBsZXM+IDxudW1GZWF0dXJlcz4gW251bXBhcl0iKQogICAgICAgICAgICAgICAgU3lzdGVtLmV4aXQoMCkKICAgICAgICB9Cg==</text>
@@ -650,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_nativeBLAS</last-search>
+      <last-search>blas</last-search>
       <last-offset />
-      <last-pattern>_nativeBLAS</last-pattern>
+      <last-pattern>blas</last-pattern>
       <last-replace>.append</last-replace>
       <last-substitute>out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -676,10 +689,10 @@
         <entry>apply</entry>
         <entry>df</entry>
         <entry>scala</entry>
-        <entry>blas</entry>
         <entry>BLAS</entry>
         <entry>NetlibBLAS</entry>
         <entry>_nativeBLAS</entry>
+        <entry>blas</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
