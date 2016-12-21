@@ -515,12 +515,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482315751223">
-        <mark key="'" line="46" column="15" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="48" column="30" />
-        <mark key="^" line="48" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482320259539">
+        <mark key="'" line="49" column="23" />
+        <mark key="[" line="61" column="14" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+        <mark key="^" line="61" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
@@ -695,7 +695,7 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482307415872">
+      <file name="/Dummy.txt" timestamp="1482319692128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -779,7 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="94" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
       <jump line="107" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="68" column="46" filename="$USER_HOME$/IdeaProjects/spark-bench-old/SVDPlusPlus/src/main/scala/SVDPlusPlusApp.scala" />
       <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/spark-bench-old/SVM/src/main/scala/DocToTFIDF.scala" />
@@ -879,63 +878,63 @@
       <jump line="30" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
       <jump line="31" column="32" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
       <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
+      <jump line="47" column="23" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9iago=</text>
+        <text encoding="base64">ICAgICAgICAiZmRmIi5tYXAoY2hhciA9PiBjaGFyLnRvVXBwZXIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>blas</text>
+        <text>val</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvYmouYWRkUHJvcGVydHkoIkl0ZXIgVGltZXMiLCBzdGF0VGltZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBrQmVnaW4gPSBhcmdzKDApLnRvSW50OwogICAgICAgIGtFbmQgPSBhcmdzKDEpLnRvSW50OwogICAgICAgIGtHYXAgPSBhcmdzKDIpLnRvSW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9iago=</text>
+        <text encoding="base64">ICAgICAgICAiZmRmIi5tYXAoY2hhciA9PiBjaGFyLnRvVXBwZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb3J0YmF5LmpldHR5LkFic3RyYWN0R2VuZXJhdG9yLk91dHB1dFdyaXRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMuSnNvbldyaXRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdzb24udG9Kc29uKHRoaXMsIHdyaXRlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB0IDogY29tLmdvb2dsZS5nc29uLkdzb24K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgeWllbGQgKGssIGl0ZXJUaW1lLCB0cmFpblRpbWUgLyAxZTYpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICB2YWwgb2JqID0gR3Nvbi5mcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iago=</text>
+        <text encoding="base64">ICAgIC8vIE91dHB1dCB0b3BpY3MuIEVhY2ggaXMgYSBkaXN0cmlidXRpb24gb3ZlciB3b3JkcyAobWF0Y2hpbmcgd29yZCBjb3VudCB2ZWN0b3JzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blas</last-search>
+      <last-search>val</last-search>
       <last-offset />
-      <last-pattern>blas</last-pattern>
-      <last-replace>.append</last-replace>
-      <last-substitute>out.println</last-substitute>
+      <last-pattern>val</last-pattern>
+      <last-replace>var</last-replace>
+      <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SPARK</entry>
         <entry>SPARK_EX</entry>
         <entry>$1</entry>
         <entry>INPUT_HDFS</entry>
@@ -955,6 +954,7 @@
         <entry>NetlibBLAS</entry>
         <entry>_nativeBLAS</entry>
         <entry>blas</entry>
+        <entry>val</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -964,6 +964,7 @@
         <entry>87,90s/out.println/.append/g</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>47,50s/val/var/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
