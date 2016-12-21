@@ -258,6 +258,13 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" timestamp="1482316860281">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager-true/spark-shuffle.md" timestamp="1481249270317">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="1" column="1" />
@@ -508,12 +515,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482313923323">
-        <mark key="'" line="48" column="15" />
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-        <mark key="^" line="32" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482315751223">
+        <mark key="'" line="46" column="15" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="30" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
@@ -772,10 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" />
-      <jump line="9" column="26" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
-      <jump line="13" column="54" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
-      <jump line="41" column="144" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
       <jump line="43" column="94" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVM/bin/run-optimized.sh" />
       <jump line="107" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
       <jump line="68" column="46" filename="$USER_HOME$/IdeaProjects/spark-bench-old/SVDPlusPlus/src/main/scala/SVDPlusPlusApp.scala" />
@@ -872,46 +875,50 @@
       <jump line="50" column="22" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
       <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
       <jump line="124" column="2" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/feature/PCA.scala" />
+      <jump line="16" column="18" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
+      <jump line="30" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
+      <jump line="31" column="32" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHQuYWRkCg==</text>
+        <text encoding="base64">ICAgIG9iago=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHA=</text>
+        <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
         <text>blas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiKioqKioqKioqKioqIiArIEJMQVMuZ2V0SW5zdGFuY2UoKS5nZXRDbGFzcy5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICBvYmouYWRkUHJvcGVydHkoIkl0ZXIgVGltZXMiLCBzdGF0VGltZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHQuYWRkCg==</text>
+        <text encoding="base64">ICAgIG9iago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBLZXJuZWxEZW5zaXR5KCkuc2V0ZGQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb3J0YmF5LmpldHR5LkFic3RyYWN0R2VuZXJhdG9yLk91dHB1dFdyaXRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEtlcm5lbERlbnNpdHkoZGQpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMuSnNvbldyaXRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0cyA9IG5ldyBKc29uKCkK</text>
+        <text encoding="base64">ICAgIGdzb24udG9Kc29uKHRoaXMsIHdyaXRlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIHQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uNHMuamFja3Nvbi5Kc29uCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0IDogY29tLmdvb2dsZS5nc29uLkdzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCi8vIHNjYWxhc3R5bGU6b2ZmIHByaW50bG4KcGFja2FnZSBvcmcuYXBhY2hlLnNwYXJrLmV4YW1wbGVzLm1sbGliCgppbXBvcnQgY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVMKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQppbXBvcnQgb3JnLmpzb240cy5qYWNrc29uLkpzb24KLy8gJGV4YW1wbGUgb24kCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLmNsdXN0ZXJpbmcue0Rpc3RyaWJ1dGVkTERBTW9kZWwsIExEQX0KaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIubGluYWxnLlZlY3RvcnMKLy8gJGV4YW1wbGUgb2ZmJAoKb2JqZWN0IExhdGVudERpcmljaGxldEFsbG9jYXRpb25FeGFtcGxlIHsKCiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgdmFsIHN0YXRzID0gbmV3IEpzb24oKQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEpzb24uc2kK</text>
+        <text encoding="base64">ICAgICB2YWwgb2JqID0gR3Nvbi5mcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKQo=</text>
+        <text encoding="base64">ICAgIG9iago=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
