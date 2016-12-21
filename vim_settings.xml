@@ -504,6 +504,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482307726900">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="29" column="0" />
@@ -678,8 +684,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482303453331">
+      <file name="/Dummy.txt" timestamp="1482307415872">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/TestAlluxio.java" timestamp="1480058619619">
         <mark key="'" line="109" column="28" />
@@ -731,7 +739,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1482306024462">
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1482307269238">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="79" />
         <mark key="." line="41" column="42" />
@@ -862,17 +870,17 @@
       <jump line="42" column="10" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgZml0KHNvdXJjZXM6IFJERFtWZWN0b3JdKTogUENBTW9kZWwgPSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">IHA=</text>
       </register>
       <register name="/" type="4">
         <text>blas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZml0KHNvdXJjZXM6IFJERFtWZWN0b3JdKTogUENBTW9kZWwgPSB7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiKioqKioqKioqKioqIiArIEJMQVMuZ2V0SW5zdGFuY2UoKS5nZXRDbGFzcy5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5ldyBHYXVzc2lhbk1peHR1cmUoKQo=</text>
