@@ -139,10 +139,11 @@
         <mark key="]" line="11" column="2" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/KernelDensityEstimationExample2.scala" timestamp="1482313037359">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/KernelDensityEstimationExample2.scala" timestamp="1482387580004">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/.gitignore" timestamp="1480669497256">
         <mark key="[" line="18" column="22" />
@@ -178,6 +179,13 @@
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1482298766867">
         <mark key="'" line="235" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" timestamp="1482387488476">
+        <mark key="'" line="51" column="59" />
+        <mark key="[" line="55" column="115" />
+        <mark key="]" line="55" column="117" />
+        <mark key="." line="55" column="117" />
+        <mark key="^" line="55" column="117" />
+      </file>
       <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/mutable/HashMap.scala" timestamp="1480742422336">
         <mark key="'" line="88" column="6" />
       </file>
@@ -198,11 +206,11 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/RecommendationExample.scala" timestamp="1482287479237">
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="34" column="13" />
-        <mark key="^" line="34" column="13" />
-        <mark key="." line="34" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/RecommendationExample.scala" timestamp="1482389406710">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+        <mark key="^" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/ml/PCAExample.scala" timestamp="1482306088473">
         <mark key="[" line="46" column="13" />
@@ -464,12 +472,12 @@
         <mark key="^" line="54" column="9" />
         <mark key="." line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" timestamp="1482312182522">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="60" column="71" />
-        <mark key="]" line="61" column="15" />
-        <mark key="^" line="61" column="15" />
-        <mark key="." line="61" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" timestamp="1482390251515">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1481012743491">
         <mark key="'" line="72" column="6" />
@@ -508,6 +516,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1481273095425">
         <mark key="'" line="257" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/RankingMetricsExample.scala" timestamp="1482388611175">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="97" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/pom.xml" timestamp="1481487964855">
         <mark key="'" line="2290" column="0" />
         <mark key="[" line="144" column="23" />
@@ -521,12 +534,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482382600970">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="34" />
-        <mark key="." line="50" column="34" />
-        <mark key="^" line="50" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482387885727">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
@@ -619,15 +631,25 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" timestamp="1482373915501">
-        <mark key="'" line="2" column="44" />
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-        <mark key="^" line="2" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" timestamp="1482383578999">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/Word2VecExample.scala" timestamp="1482296737273">
-        <mark key="'" line="36" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/Word2VecExample.scala" timestamp="1482389860814">
+        <mark key="'" line="41" column="30" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/optimization/LBFGS.scala" timestamp="1482388449310">
+        <mark key="'" line="212" column="4" />
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" timestamp="1481477394101">
         <mark key="'" line="88" column="32" />
@@ -635,6 +657,13 @@
         <mark key="]" line="69" column="59" />
         <mark key="." line="69" column="59" />
         <mark key="^" line="69" column="59" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/TFIDFExample.scala" timestamp="1482390162952">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="41" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
@@ -726,6 +755,13 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1482389420268">
+        <mark key="'" line="58" column="6" />
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="30" />
+        <mark key="." line="71" column="30" />
+        <mark key="^" line="71" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/PCAOnSourceVectorExample.scala" timestamp="1482306325498">
         <mark key="[" line="45" column="25" />
         <mark key="]" line="45" column="22" />
@@ -738,6 +774,13 @@
         <mark key="]" line="73" column="34" />
         <mark key="^" line="73" column="34" />
         <mark key="." line="73" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/CorrelationsExample.scala" timestamp="1482386744421">
+        <mark key="'" line="31" column="38" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="97" />
+        <mark key="^" line="31" column="57" />
+        <mark key="." line="31" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481704583660">
         <mark key="'" line="28" column="38" />
@@ -769,19 +812,21 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1482313129495">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="79" />
-        <mark key="." line="41" column="42" />
-        <mark key="^" line="41" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1482385845173">
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/MulticlassMetricsExample.scala" timestamp="1482390276160">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/scala/kmeans.scala" timestamp="1482312071647">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1482303442888">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
         <mark key="'" line="35" column="29" />
@@ -798,29 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="12" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="282" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="289" column="10" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="299" column="19" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="101" column="14" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="103" column="14" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="119" column="12" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="120" column="21" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="122" column="22" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="131" column="9" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="135" column="14" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="148" column="12" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="149" column="41" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="162" column="52" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="176" column="43" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="177" column="70" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="187" column="57" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="205" column="13" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="209" column="17" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="217" column="38" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="225" column="38" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="64" column="57" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/com/github/fommil/netlib/BLAS.java" />
-      <jump line="23" column="25" filename="$USER_HOME$/IdeaProjects/spark-bench-old/PCA/src/main/scala/PCADataGen.scala" />
       <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/spark-bench-old/PCA/src/main/scala/PCADataGen.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/PCA.iml" />
       <jump line="2" column="74" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/PCA.iml" />
@@ -898,55 +920,78 @@
       <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeRegressionExample.scala" />
       <jump line="100" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="33" column="31" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
+      <jump line="81" column="5" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="80" column="39" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="84" column="25" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="52" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="58" column="27" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="87" column="38" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="53" column="41" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="49" column="33" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="31" column="38" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/CorrelationsExample.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="89" column="23" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" />
+      <jump line="91" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" />
+      <jump line="44" column="28" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" />
+      <jump line="51" column="59" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" />
+      <jump line="212" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/optimization/LBFGS.scala" />
+      <jump line="50" column="32" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" />
+      <jump line="58" column="6" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" />
+      <jump line="41" column="30" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/Word2VecExample.scala" />
+      <jump line="47" column="30" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/TFIDFExample.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>mode</text>
+        <text>train</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">d3JpdGVyLnByaW50bG4oCiAgICAgIHsKICAgICAgICB2YWwgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCkKICAgICAgICB2YXIgZmlyc3QgPSB0cnVlCiAgICAgICAgb3V0LmZvcmVhY2godHVwbGUgPT4gewogICAgICAgICAgaWYoZmlyc3QpCiAgICAgICAgICAgIGZpcnN0ID0gZmFsc2UKICAgICAgICAgIGVsc2UKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIlxuIikKICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKExpc3QodHVwbGUpLm1rU3RyaW5nKCIsIikpCiAgICAgICAgfSkKICAgICAgICBidWlsZGVyCiAgICAgIH0KICAgICk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCB0cmFpblRpbWUgPSAoU3lzdGVtLm5hbm9UaW1lKCkgLSBiZWdpbikgLyAxZTYKICAgIHByaW50bG4oIlN0YXQ6IiArIHRyYWluVGltZS50b1N0cmluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNjLnN0b3AoKQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKG1vZGUgPT0gMCkK</text>
+        <text encoding="base64">ICAgIHZhbCB0cmFpblRpbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiXG4iKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGRhdGEuY29wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBSYW5nZSgxLCAyMCkubWFwKF8gPT4gZGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGRhdGEuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mode</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>mode</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -954,11 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>INPUT_HDFS</entry>
-        <entry>SPARK_OPT</entry>
-        <entry>setup</entry>
-        <entry>DATA</entry>
-        <entry>REAL_Time</entry>
         <entry>LOCAL_</entry>
         <entry>LOCAL_REPORT</entry>
         <entry>MEMORY</entry>
@@ -974,6 +1014,11 @@
         <entry>val</entry>
         <entry>mirrors</entry>
         <entry>mode</entry>
+        <entry>writer</entry>
+        <entry>header</entry>
+        <entry>Param</entry>
+        <entry>begin</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -984,6 +1029,7 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>47,50s/val/var/g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
