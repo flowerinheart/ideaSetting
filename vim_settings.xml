@@ -156,6 +156,9 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
+      <file name="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" timestamp="1482374123567">
+        <mark key="'" line="152" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LinearRegression/src/main/scala/org/apache/spark/benchmark/linerregression/LinearRegressionDataGen.scala" timestamp="1482289807345">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -515,12 +518,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482372416147">
-        <mark key="'" line="49" column="23" />
-        <mark key="[" line="48" column="3" />
-        <mark key="]" line="76" column="4" />
-        <mark key="." line="57" column="12" />
-        <mark key="^" line="57" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482374558187">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="51" column="39" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+        <mark key="^" line="51" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
@@ -551,6 +554,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
+      </file>
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482374244402">
+        <mark key="'" line="177" column="9" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/SVDPlusPlus/src/main/scala/SVDPlusPlusApp.scala" timestamp="1481862677822">
         <mark key="'" line="68" column="46" />
@@ -607,11 +616,12 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" timestamp="1482372418574">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="29" column="5" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" timestamp="1482373915501">
+        <mark key="'" line="2" column="44" />
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="2" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/Word2VecExample.scala" timestamp="1482296737273">
         <mark key="'" line="36" column="30" />
@@ -785,21 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/funcs.sh" />
-      <jump line="68" column="46" filename="$USER_HOME$/IdeaProjects/spark-bench-old/SVDPlusPlus/src/main/scala/SVDPlusPlusApp.scala" />
-      <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/spark-bench-old/SVM/src/main/scala/DocToTFIDF.scala" />
-      <jump line="66" column="16" filename="$USER_HOME$/IdeaProjects/spark-bench-old/SVM/src/main/scala/DocToTFIDF.scala" />
-      <jump line="23" column="25" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="553" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="58" column="0" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="570" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="583" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="600" column="6" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="28" column="38" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
-      <jump line="25" column="53" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="523" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="535" column="6" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
       <jump line="552" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
       <jump line="63" column="3" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
@@ -885,55 +880,70 @@
       <jump line="31" column="32" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
       <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" />
       <jump line="47" column="23" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="6" column="14" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
+      <jump line="48" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
+      <jump line="8" column="12" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
+      <jump line="2" column="44" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
+      <jump line="204" column="43" filename="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" />
+      <jump line="151" column="7" filename="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" />
+      <jump line="152" column="23" filename="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" />
+      <jump line="15" column="46" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="151" column="7" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="152" column="23" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="162" column="3" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="181" column="10" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="177" column="9" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="78" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHZhciBhcmdOdW0gPSBhcmdzLmxlbmd0aAogICAgdmFyIGtCZWdpbiA9IDEwMDsgdmFyIGtFbmQgPSAxMDE7IHZhciBrR2FwID0gMQogICAgdmFyIGl0QmVnaW4gPSAxMDA7IHZhciBpdEVuZCA9IDEwMTsgdmFyIGl0R2FwID0gMQogICAgdmFyIHdyaXRlciA9IG5ldyBQcmludFdyaXRlcihhcmdzKDMpKQogICAgYXJncygwKSBtYXRjaCB7CiAgICAgIGNhc2UgIi1rIiA9PgogICAgICAgIGtCZWdpbiA9IGFyZ3MoMCkudG9JbnQ7CiAgICAgICAga0VuZCA9IGFyZ3MoMSkudG9JbnQ7CiAgICAgICAga0dhcCA9IGFyZ3MoMikudG9JbnQKICAgICAgY2FzZSAiLWl0ZXIiID0+CiAgICAgICAgaXRCZWdpbiA9IGFyZ3MoMCkudG9JbnQ7CiAgICAgICAgaXRFbmQgPSBhcmdzKDEpLnRvSW50OwogICAgICAgIGl0R2FwID0gYXJncygyKS50b0ludAogICAgICBjYXNlIF8gPT4KICAgICAgICBwcmludGxuKCJVc2FnZTogLWsvLWl0ZXIgIGJlZ2luLCBlbmQsIHRhZywgb3V0cHV0IikKICAgIH0KICAgIHZhbCBvdXQgPSBmb3IgewogICAgICBrIDwtIFJhbmdlKGtCZWdpbiwga0VuZCwga0dhcCkKICAgICAgaXRlclRpbWUgPC0gUmFuZ2UoaXRCZWdpbiwgaXRFbmQsIGl0R2FwKQogICAgfSB5aWVsZCB7CiAgICAgIHZhciBsZGEgPSBuZXcgTERBKCkKICAgICAgICAuc2V0SygxMDApCiAgICAgICAgLnNldE1heEl0ZXJhdGlvbnMoMjAwKQogICAgICAgIC5zZXRUb3BpY0NvbmNlbnRyYXRpb24oMjApCiAgICAgIHZhciBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKQogICAgICB2YXIgbGRhTW9kZWwgPSBsZGEucnVuKGNvcnB1cykKICAgICAgdmFyIHRyYWluVGltZSA9IFN5c3RlbS5uYW5vVGltZSgpIC0gc3RhcnRUaW1lCiAgICAgIChrLCBpdGVyVGltZSwgdHJhaW5UaW1lIC8gMWU2KQogICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxtaXJyb3JPZj5jZW50cmFsPC9taXJyb3JPZj4K</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>val</text>
+        <text>mirrors</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHZhciBhcmdOdW0gPSBhcmdzLmxlbmd0aAogICAgdmFyIGtCZWdpbiA9IDEwMDsgdmFyIGtFbmQgPSAxMDE7IHZhciBrR2FwID0gMQogICAgdmFyIGl0QmVnaW4gPSAxMDA7IHZhciBpdEVuZCA9IDEwMTsgdmFyIGl0R2FwID0gMQogICAgdmFyIHdyaXRlciA9IG5ldyBQcmludFdyaXRlcihhcmdzKDMpKQogICAgYXJncygwKSBtYXRjaCB7CiAgICAgIGNhc2UgIi1rIiA9PgogICAgICAgIGtCZWdpbiA9IGFyZ3MoMCkudG9JbnQ7CiAgICAgICAga0VuZCA9IGFyZ3MoMSkudG9JbnQ7CiAgICAgICAga0dhcCA9IGFyZ3MoMikudG9JbnQKICAgICAgY2FzZSAiLWl0ZXIiID0+CiAgICAgICAgaXRCZWdpbiA9IGFyZ3MoMCkudG9JbnQ7CiAgICAgICAgaXRFbmQgPSBhcmdzKDEpLnRvSW50OwogICAgICAgIGl0R2FwID0gYXJncygyKS50b0ludAogICAgICBjYXNlIF8gPT4KICAgICAgICBwcmludGxuKCJVc2FnZTogLWsvLWl0ZXIgIGJlZ2luLCBlbmQsIHRhZywgb3V0cHV0IikKICAgIH0KICAgIHZhbCBvdXQgPSBmb3IgewogICAgICBrIDwtIFJhbmdlKGtCZWdpbiwga0VuZCwga0dhcCkKICAgICAgaXRlclRpbWUgPC0gUmFuZ2UoaXRCZWdpbiwgaXRFbmQsIGl0R2FwKQogICAgfSB5aWVsZCB7CiAgICAgIHZhciBsZGEgPSBuZXcgTERBKCkKICAgICAgICAuc2V0SygxMDApCiAgICAgICAgLnNldE1heEl0ZXJhdGlvbnMoMjAwKQogICAgICAgIC5zZXRUb3BpY0NvbmNlbnRyYXRpb24oMjApCiAgICAgIHZhciBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKQogICAgICB2YXIgbGRhTW9kZWwgPSBsZGEucnVuKGNvcnB1cykKICAgICAgdmFyIHRyYWluVGltZSA9IFN5c3RlbS5uYW5vVGltZSgpIC0gc3RhcnRUaW1lCiAgICAgIChrLCBpdGVyVGltZSwgdHJhaW5UaW1lIC8gMWU2KQogICAgfQ==</text>
+        <text encoding="base64">d3JpdGVyLnByaW50bG4oCiAgICAgIHsKICAgICAgICB2YWwgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCkKICAgICAgICB2YXIgZmlyc3QgPSB0cnVlCiAgICAgICAgb3V0LmZvcmVhY2godHVwbGUgPT4gewogICAgICAgICAgaWYoZmlyc3QpCiAgICAgICAgICAgIGZpcnN0ID0gZmFsc2UKICAgICAgICAgIGVsc2UKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIlxuIikKICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKExpc3QodHVwbGUpLm1rU3RyaW5nKCIsIikpCiAgICAgICAgfSkKICAgICAgICBidWlsZGVyCiAgICAgIH0KICAgICk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiZmRmIi5tYXAoY2hhciA9PiBjaGFyLnRvVXBwZXIpCg==</text>
+        <text encoding="base64">ICAgIDxtaXJyb3JPZj5jZW50cmFsPC9taXJyb3JPZj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXQubWtTdHJpbmcoIlxuIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgKGssIGl0ZXJUaW1lLCB0cmFpblRpbWUgLyAxZTYpCg==</text>
+        <text encoding="base64">ICAgIHN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJpY2hTdHJpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIE91dHB1dCB0b3BpY3MuIEVhY2ggaXMgYSBkaXN0cmlidXRpb24gb3ZlciB3b3JkcyAobWF0Y2hpbmcgd29yZCBjb3VudCB2ZWN0b3JzKQo=</text>
+        <text encoding="base64">ICAgIFJpY2hJbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>val</last-search>
+      <last-search>mirrors</last-search>
       <last-offset />
-      <last-pattern>val</last-pattern>
+      <last-pattern>mirrors</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +951,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SPARK_EX</entry>
         <entry>$1</entry>
         <entry>INPUT_HDFS</entry>
         <entry>SPARK_OPT</entry>
@@ -961,6 +970,7 @@
         <entry>_nativeBLAS</entry>
         <entry>blas</entry>
         <entry>val</entry>
+        <entry>mirrors</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
