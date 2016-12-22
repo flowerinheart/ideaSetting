@@ -521,12 +521,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482381021193">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="87" column="38" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482382600970">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="34" />
+        <mark key="." line="50" column="34" />
+        <mark key="^" line="50" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
@@ -901,7 +901,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNjLnN0b3AoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
@@ -913,31 +913,31 @@
         <text encoding="base64">d3JpdGVyLnByaW50bG4oCiAgICAgIHsKICAgICAgICB2YWwgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCkKICAgICAgICB2YXIgZmlyc3QgPSB0cnVlCiAgICAgICAgb3V0LmZvcmVhY2godHVwbGUgPT4gewogICAgICAgICAgaWYoZmlyc3QpCiAgICAgICAgICAgIGZpcnN0ID0gZmFsc2UKICAgICAgICAgIGVsc2UKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIlxuIikKICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKExpc3QodHVwbGUpLm1rU3RyaW5nKCIsIikpCiAgICAgICAgfSkKICAgICAgICBidWlsZGVyCiAgICAgIH0KICAgICk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNjLnN0b3AoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjLnN0b3AoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKG1vZGUgPT0gMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKG1vZGUgPT0gMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiXG4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiXG4iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKGZpcnN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
