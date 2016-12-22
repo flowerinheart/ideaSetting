@@ -576,14 +576,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482374244402">
-        <mark key="'" line="177" column="9" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/SVDPlusPlus/src/main/scala/SVDPlusPlusApp.scala" timestamp="1481862677822">
         <mark key="'" line="68" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1482395060118">
+        <mark key="'" line="1102" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" timestamp="1481692261918">
         <mark key="'" line="12" column="0" />
@@ -848,8 +845,8 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1482393197746">
-        <mark key="'" line="221" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1482394753325">
+        <mark key="'" line="93" column="6" />
         <mark key="[" line="122" column="8" />
         <mark key="]" line="122" column="7" />
         <mark key="^" line="122" column="7" />
@@ -857,16 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="59" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/PCA.iml" />
-      <jump line="93" column="58" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/PCA.iml" />
-      <jump line="94" column="67" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/PCA.iml" />
-      <jump line="24" column="38" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/pom.xml" />
-      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/PCA/src/main/scala/PCADataGen.scala" />
-      <jump line="16" column="37" filename="$USER_HOME$/IdeaProjects/spark/data/mllib/sample_linear_regression_data.txt" />
-      <jump line="8" column="25" filename="$USER_HOME$/IdeaProjects/spark/data/mllib/gmm_data.txt" />
-      <jump line="83" column="61" filename="$USER_HOME$/IdeaProjects/spark-benchmark-true/DecisionTree/src/main/java/DecisionTreeApp.java" />
-      <jump line="36" column="30" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/Word2VecExample.scala" />
-      <jump line="360" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
       <jump line="24" column="53" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
       <jump line="381" column="30" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
       <jump line="386" column="24" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
@@ -957,6 +944,16 @@
       <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" />
       <jump line="48" column="47" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
       <jump line="57" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
+      <jump line="122" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="340" column="27" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="121" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="93" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="1117" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1124" column="37" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1093" column="23" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1096" column="12" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1099" column="43" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1102" column="30" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -966,7 +963,7 @@
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>seqOp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhdDoiICsgY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkxBUEFDSy5nZXRJbnN0YW5jZSgpLmdldENsYXNzLmdldE5hbWUoKSk7Cg==</text>
@@ -1003,9 +1000,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>seqOp</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>seqOp</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1013,7 +1010,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IDF</entry>
         <entry>BDV</entry>
         <entry>apply</entry>
         <entry>df</entry>
@@ -1033,6 +1029,7 @@
         <entry>brzSvd</entry>
         <entry>lapack</entry>
         <entry>data</entry>
+        <entry>seqOp</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
