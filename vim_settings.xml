@@ -53,6 +53,12 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/util/MLUtils.scala" timestamp="1482396714760">
+        <mark key="[" line="84" column="40" />
+        <mark key="]" line="84" column="39" />
+        <mark key="^" line="84" column="39" />
+        <mark key="." line="84" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/SVD/src/main/scala/SVDPlusPlusApp.scala" timestamp="1482295540019">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -142,7 +148,7 @@
         <mark key="]" line="11" column="2" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/KernelDensityEstimationExample2.scala" timestamp="1482387580004">
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/KernelDensityEstimationExample2.scala" timestamp="1482396591613">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="40" column="31" />
         <mark key="." line="40" column="31" />
@@ -263,6 +269,11 @@
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/PCAExample.scala" timestamp="1482396512563">
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/config.sh" timestamp="1481711179865">
         <mark key="'" line="17" column="13" />
       </file>
@@ -336,6 +347,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/event/app-20161130150659-0001" timestamp="1480649578302">
         <mark key="'" line="10" column="2997" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" timestamp="1482395938104" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/DecisionTree/src/main/java/DecisionTreeApp.java" timestamp="1482296425519">
         <mark key="'" line="83" column="61" />
       </file>
@@ -816,7 +828,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1482385845173">
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1482396989665">
         <mark key="[" line="41" column="45" />
         <mark key="]" line="41" column="43" />
         <mark key="." line="41" column="43" />
@@ -845,8 +857,8 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1482394753325">
-        <mark key="'" line="93" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1482396303245">
+        <mark key="'" line="120" column="27" />
         <mark key="[" line="122" column="8" />
         <mark key="]" line="122" column="7" />
         <mark key="^" line="122" column="7" />
@@ -854,11 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="53" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
-      <jump line="381" column="30" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
-      <jump line="386" column="24" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
-      <jump line="387" column="24" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
-      <jump line="392" column="26" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
       <jump line="305" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
       <jump line="141" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/clustering/BisectingKMeans.scala" />
       <jump line="27" column="40" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/clustering/BisectingKMeans.scala" />
@@ -935,7 +942,6 @@
       <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
       <jump line="192" column="29" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="385" column="58" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="112" column="0" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
       <jump line="2" column="26" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
       <jump line="3" column="53" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
@@ -954,6 +960,12 @@
       <jump line="1096" column="12" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1099" column="43" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1102" column="30" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="249" column="23" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="258" column="61" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="269" column="16" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="385" column="38" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="442" column="16" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="120" column="27" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -963,7 +975,7 @@
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>seqOp</text>
+        <text>BDV</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhdDoiICsgY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkxBUEFDSy5nZXRJbnN0YW5jZSgpLmdldENsYXNzLmdldE5hbWUoKSk7Cg==</text>
@@ -1000,9 +1012,9 @@
       </register>
     </registers>
     <search>
-      <last-search>seqOp</last-search>
+      <last-search>BDV</last-search>
       <last-offset />
-      <last-pattern>seqOp</last-pattern>
+      <last-pattern>BDV</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1022,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BDV</entry>
         <entry>apply</entry>
         <entry>df</entry>
         <entry>scala</entry>
@@ -1030,6 +1041,7 @@
         <entry>lapack</entry>
         <entry>data</entry>
         <entry>seqOp</entry>
+        <entry>BDV</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
