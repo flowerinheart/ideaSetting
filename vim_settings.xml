@@ -518,12 +518,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/resources/local-1480474323033" timestamp="1480657097688">
         <mark key="'" line="3" column="12015" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482374558187">
-        <mark key="'" line="78" column="4" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" timestamp="1482376522133">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="86" column="84" />
+        <mark key="]" line="87" column="73" />
+        <mark key="^" line="87" column="73" />
+        <mark key="." line="87" column="73" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
@@ -795,8 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="8" filename="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" />
-      <jump line="63" column="3" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
       <jump line="19" column="37" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
       <jump line="78" column="20" filename="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" />
@@ -895,55 +893,57 @@
       <jump line="181" column="10" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="177" column="9" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="78" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="92" column="22" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxtaXJyb3JPZj5jZW50cmFsPC9taXJyb3JPZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>mirrors</text>
+        <text>mode</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">d3JpdGVyLnByaW50bG4oCiAgICAgIHsKICAgICAgICB2YWwgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCkKICAgICAgICB2YXIgZmlyc3QgPSB0cnVlCiAgICAgICAgb3V0LmZvcmVhY2godHVwbGUgPT4gewogICAgICAgICAgaWYoZmlyc3QpCiAgICAgICAgICAgIGZpcnN0ID0gZmFsc2UKICAgICAgICAgIGVsc2UKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIlxuIikKICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKExpc3QodHVwbGUpLm1rU3RyaW5nKCIsIikpCiAgICAgICAgfSkKICAgICAgICBidWlsZGVyCiAgICAgIH0KICAgICk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtaXJyb3JPZj5jZW50cmFsPC9taXJyb3JPZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKG1vZGUgPT0gMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoKQogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiXG4iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQubWtTdHJpbmcoIlxuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3QgPSBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJpY2hTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKGZpcnN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJpY2hJbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobW9kZSApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mirrors</last-search>
+      <last-search>mode</last-search>
       <last-offset />
-      <last-pattern>mirrors</last-pattern>
+      <last-pattern>mode</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -951,7 +951,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$1</entry>
         <entry>INPUT_HDFS</entry>
         <entry>SPARK_OPT</entry>
         <entry>setup</entry>
@@ -971,6 +970,7 @@
         <entry>blas</entry>
         <entry>val</entry>
         <entry>mirrors</entry>
+        <entry>mode</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
