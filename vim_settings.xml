@@ -75,7 +75,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/CholeskyDecomposition.scala" timestamp="1481497528203">
         <mark key="'" line="39" column="24" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
+      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/PageRank/bin/run-static-vanilla.sh" timestamp="1481701179700">
@@ -224,7 +224,7 @@
         <mark key="." line="526" column="24" />
         <mark key="^" line="526" column="24" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
+      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/conf/env.sh" timestamp="1481709944347">
@@ -330,7 +330,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
         <mark key="'" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/feature/PCA.scala" timestamp="1482391909775">
@@ -367,6 +367,9 @@
         <mark key="]" line="19" column="175" />
         <mark key="." line="19" column="175" />
         <mark key="^" line="19" column="175" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" timestamp="1482410912037">
+        <mark key="'" line="130" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/SparkLauncher.java" timestamp="1481342381196">
         <mark key="'" line="199" column="31" />
@@ -633,7 +636,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
+      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/KMeans/conf/env.sh" timestamp="1481709354242">
@@ -642,7 +645,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
+      <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/ttt.sc" timestamp="1481976751401">
@@ -842,7 +845,7 @@
       <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" timestamp="1480898222868">
         <mark key="'" line="64" column="26" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/F2jBLAS.class" timestamp="1481491193346">
+      <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/F2jBLAS.class" timestamp="1481491193346">
         <mark key="'" line="81" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" timestamp="1482306435310">
@@ -904,7 +907,7 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="D:/software/apache-maven-3.3.9/respostories/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" timestamp="1482392798512">
+      <file name="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" timestamp="1482392798512">
         <mark key="'" line="101" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/Test/src/main/java/TestAlluxio.java" timestamp="1480062567311">
@@ -914,6 +917,9 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="79" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" timestamp="1482411066005">
+        <mark key="'" line="193" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/sample_linear_regression_data.txt" timestamp="1482290231190">
         <mark key="'" line="16" column="37" />
@@ -955,8 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" />
-      <jump line="141" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/clustering/BisectingKMeans.scala" />
       <jump line="27" column="40" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/clustering/BisectingKMeans.scala" />
       <jump line="281" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/clustering/BisectingKMeans.scala" />
       <jump line="353" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
@@ -1031,10 +1035,10 @@
       <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
       <jump line="192" column="29" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="112" column="0" filename="D:/software/apache-maven-3.3.9/respostories/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
-      <jump line="2" column="26" filename="D:/software/apache-maven-3.3.9/respostories/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
-      <jump line="3" column="53" filename="D:/software/apache-maven-3.3.9/respostories/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
-      <jump line="101" column="4" filename="D:/software/apache-maven-3.3.9/respostories/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
+      <jump line="112" column="0" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
+      <jump line="2" column="26" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
+      <jump line="3" column="53" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
+      <jump line="101" column="4" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.12/breeze_2.11-0.12-sources.jar!/breeze/linalg/functions/svd.scala" />
       <jump line="221" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" />
       <jump line="48" column="47" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
@@ -1055,6 +1059,8 @@
       <jump line="385" column="38" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="442" column="16" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="120" column="27" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="130" column="19" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" />
+      <jump line="193" column="45" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
