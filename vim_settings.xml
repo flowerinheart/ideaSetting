@@ -786,6 +786,12 @@
       <file name="$USER_HOME$/.ideaLibSources/breeze_2.10-0.11.2-sources.jar!/breeze/linalg/DenseVector.scala" timestamp="1481868739345">
         <mark key="'" line="299" column="19" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1482575141814">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/python/pyspark/shuffle.py" timestamp="1481129651432">
         <mark key="'" line="460" column="32" />
       </file>
@@ -1067,7 +1073,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS50YWtlKDEpWzBdLmZlYXR1cmVzKCkuCg==</text>
+        <text encoding="base64">ICAgIGZpbmRNaW4oaW5zZXJ0KG0sIGgpKSA9PSBtCg==</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
@@ -1076,34 +1082,34 @@
         <text>BDV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU3RhdDoiICsgY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkxBUEFDSy5nZXRJbnN0YW5jZSgpLmdldENsYXNzLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICBwcm9wZXJ0eSgiZ2VuMSIpID0gZm9yQWxsIHsgKGg6IEgpID0+CiAgICB2YWwgbSA9IGlmIChpc0VtcHR5KGgpKSAwIGVsc2UgZmluZE1pbihoKQogICAgZmluZE1pbihpbnNlcnQobSwgaCkpID09IG0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS50YWtlKDEpWzBdLmZlYXR1cmVzKCkuCg==</text>
+        <text encoding="base64">ICAgIGZpbmRNaW4oaW5zZXJ0KG0sIGgpKSA9PSBtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZWREYXRhLmdldAo=</text>
+        <text encoding="base64">ICAgIHZhbCBtID0gaWYgKGlzRW1wdHkoaCkpIDAgZWxzZSBmaW5kTWluKGgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhID0gUmFuZ2UoMSwgNTApLmZsYXRNYXAoXyA9PiBzYW1wbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS50YWtlKDEpWzBdLmZlYXR1cmVzKCkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdHMoMCkuCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWREYXRhLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhID0gUmFuZ2UoMSwgNTApLmZsYXRNYXAoXyA9PiBzYW1wbGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
+        <text encoding="base64">ICAgIG1hdHMoMCkuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFpblRpbQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
