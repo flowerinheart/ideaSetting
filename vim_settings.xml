@@ -665,12 +665,12 @@
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" timestamp="1482658636565">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="151" column="26" />
-        <mark key="]" line="151" column="52" />
-        <mark key="." line="151" column="52" />
-        <mark key="^" line="151" column="52" />
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" timestamp="1482659627114">
+        <mark key="'" line="113" column="30" />
+        <mark key="[" line="141" column="86" />
+        <mark key="]" line="141" column="74" />
+        <mark key="." line="141" column="74" />
+        <mark key="^" line="141" column="74" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" timestamp="1481868812171">
         <mark key="'" line="225" column="38" />
@@ -989,7 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="10" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" />
       <jump line="44" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
       <jump line="37" column="13" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
       <jump line="50" column="22" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
@@ -1089,10 +1088,11 @@
       <jump line="10" column="36" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
       <jump line="11" column="23" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
       <jump line="69" column="11" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="113" column="30" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBVcCA9PiAodXAsIFVwKQo=</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
@@ -1104,31 +1104,31 @@
         <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBVcCA9PiAodXAsIFVwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXyA9PiBfLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHQgOiBzY2FsYS5jb2xsZWN0aW9uLk1hcC50eXBlID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBEb3duIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdC5hcHAK</text>
+        <text encoding="base64">ICAgIExpc3QoMSwyLDMpLm1hcCgoaSA6IEludCkgPT4gaSAqIDIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdC5hCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdC5hcHAK</text>
+        <text encoding="base64">ICAgICAgXyA9PiBfLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdC5kZWYgYXBwbHk6IFN0cmluZ1BhcnNlclRlcnJhaW4gPSBuZXcgU3RyaW5nUGFyc2VyVGVycmFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHQgOiBzY2FsYS5jb2xsZWN0aW9uLk1hcC50eXBlID0gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgdC5hcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlcnJhaW5GdW5jdGlvbihsZXZlbFZlY3RvcjogVmVjdG9yW1ZlY3RvcltDaGFyXV0pOiBQb3MgPT4gQm9vbGVhbiA9IHsKICAocG9zIDogUG9zKSA9PiBsZXZlbFZlY3Rvci4KICAgIGxpZnQocG9zLmMpLmdldE9yRWxzZShWZWN0b3IuZW1wdHkpLgogICAgbGlmdChwb3Mucm93KS5nZXRPckVsc2UoJy0nKSAhPSAnLScKfQo=</text>
+        <text encoding="base64">ICAgICAgdC5hCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
