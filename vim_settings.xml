@@ -437,6 +437,13 @@
         <mark key="^" line="45" column="22" />
         <mark key="." line="45" column="22" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/ttt.sc" timestamp="1482656284925">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/env.sh" timestamp="1481779529932">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="73" column="68" />
@@ -658,6 +665,12 @@
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" timestamp="1482655537738">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" timestamp="1481868812171">
         <mark key="'" line="225" column="38" />
       </file>
@@ -835,11 +848,13 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1482395536534">
         <mark key="'" line="1102" column="30" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1482653930514">
-        <mark key="'" line="47" column="3" />
-        <mark key="[" line="56" column="76" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1482657338660">
+        <mark key="'" line="69" column="11" />
+        <mark key="[" line="73" column="6" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="11" />
+        <mark key="n" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481697588023">
         <mark key="'" line="29" column="73" />
@@ -973,17 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="23" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="30" column="25" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="232" column="8" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="233" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="235" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="82" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
-      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
-      <jump line="101" column="8" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
-      <jump line="103" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
-      <jump line="104" column="4" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
-      <jump line="19" column="53" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" />
       <jump line="42" column="10" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" />
       <jump line="44" column="15" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
       <jump line="37" column="13" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
@@ -1073,55 +1077,66 @@
       <jump line="40" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" />
       <jump line="82" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala" />
       <jump line="47" column="3" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="76" column="9" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
+      <jump line="7" column="6" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
+      <jump line="10" column="21" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
+      <jump line="22" column="37" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
+      <jump line="30" column="13" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
+      <jump line="61" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="20" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/ttt.sc" />
+      <jump line="83" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="10" column="36" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="11" column="23" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="69" column="11" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsaWZ0KCkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
       </register>
       <register name="/" type="4">
-        <text>BDV</text>
+        <text>level</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB0bWFwID0gbmV3IE1hcFtQb3MsIEJvb2xlYW5dLndpdGhEZWZhdWx0KF8gPT4gZmFsc2UpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsaWZ0KCkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgXyA9PiBfLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHQgOiBzY2FsYS5jb2xsZWN0aW9uLk1hcC50eXBlID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdC5hcHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgdC5hCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdC5hcHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdC5kZWYgYXBwbHk6IFN0cmluZ1BhcnNlclRlcnJhaW4gPSBuZXcgU3RyaW5nUGFyc2VyVGVycmFpbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdC5hcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlcnJhaW5GdW5jdGlvbihsZXZlbFZlY3RvcjogVmVjdG9yW1ZlY3RvcltDaGFyXV0pOiBQb3MgPT4gQm9vbGVhbiA9IHsKICAocG9zIDogUG9zKSA9PiBsZXZlbFZlY3Rvci4KICAgIGxpZnQocG9zLmMpLmdldE9yRWxzZShWZWN0b3IuZW1wdHkpLgogICAgbGlmdChwb3Mucm93KS5nZXRPckVsc2UoJy0nKSAhPSAnLScKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BDV</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern>BDV</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1129,8 +1144,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NetLibBLAS</entry>
-        <entry>NetlibBLAS</entry>
         <entry>nativeBLAS</entry>
         <entry>ARPACK</entry>
         <entry>arpack</entry>
@@ -1149,6 +1162,8 @@
         <entry>colIter</entry>
         <entry>newlinalg</entry>
         <entry>lapack</entry>
+        <entry>Pos</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -1158,6 +1173,7 @@
         <entry>87,90s/out.println/.append/g</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
