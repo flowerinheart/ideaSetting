@@ -665,11 +665,12 @@
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" timestamp="1482655537738">
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" timestamp="1482658636565">
         <mark key="'" line="31" column="13" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="151" column="26" />
+        <mark key="]" line="151" column="52" />
+        <mark key="." line="151" column="52" />
+        <mark key="^" line="151" column="52" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" timestamp="1481868812171">
         <mark key="'" line="225" column="38" />
