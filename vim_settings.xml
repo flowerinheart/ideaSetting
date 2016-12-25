@@ -835,6 +835,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1482395536534">
         <mark key="'" line="1102" column="30" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1482653930514">
+        <mark key="'" line="47" column="3" />
+        <mark key="[" line="56" column="76" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481697588023">
         <mark key="'" line="29" column="73" />
         <mark key="[" line="32" column="55" />
@@ -967,7 +973,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="35" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="33" column="23" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="30" column="25" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="232" column="8" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" />
@@ -1067,10 +1072,11 @@
       <jump line="1" column="4" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" />
       <jump line="40" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" />
       <jump line="82" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala" />
+      <jump line="47" column="3" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBsYXp5IHZhbCBhcmJIZWFwOiBBcmJpdHJhcnlbSF0gPSBBcmJpdHJhcnkoZ2VuSGVhcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsaWZ0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>statTimes : Int, trainTime: Int</text>
@@ -1079,34 +1085,34 @@
         <text>BDV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9wZXJ0eSgiZ2VuMSIpID0gZm9yQWxsIHsgKGg6IEgpID0+CiAgICB2YWwgbSA9IGlmIChpc0VtcHR5KGgpKSAwIGVsc2UgZmluZE1pbihoKQogICAgZmluZE1pbihpbnNlcnQobSwgaCkpID09IG0KICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0bWFwID0gbmV3IE1hcFtQb3MsIEJvb2xlYW5dLndpdGhEZWZhdWx0KF8gPT4gZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBsYXp5IHZhbCBhcmJIZWFwOiBBcmJpdHJhcnlbSF0gPSBBcmJpdHJhcnkoZ2VuSGVhcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsaWZ0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc0VtcHR5KGgpCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGguCg==</text>
+        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
