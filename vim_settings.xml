@@ -722,7 +722,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/SVM/src/main/scala/DocToTFIDF.scala" timestamp="1481868465829">
         <mark key="'" line="66" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-bench/LinearRegression/src/main/java/LinearRegressionDataGen.java" timestamp="1482409518830">
+      <file name="$USER_HOME$/IdeaProjects/spark-bench/LinearRegression/src/main/java/LinearRegressionDataGen.java" timestamp="1482734748216">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -1103,7 +1103,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>val t = pathsFromStart</text>
@@ -1115,34 +1115,34 @@
         <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNvbHV0aW9uICIgKyBwYXRoLmxlbmd0aCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3RhcnRQb3MgKyAiICAgICIgKyBnb2FsKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oInNvbHV0aW9uICIgKyBwYXRoLmxlbmd0aCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oc3RhcnRQb3MgKyAiICAgICIgKyBnb2FsKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImxlbmd0aCIgKyBwYXRoLmxlbmd0aClkZAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImxlbmd0aCIgKyByZXMubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImxlbmd0aCIgKyBwYXRoLmxlbmd0aClkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1188,6 +1188,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>we</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
