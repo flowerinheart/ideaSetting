@@ -98,8 +98,8 @@
       <file name="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" timestamp="1482374123567">
         <mark key="'" line="152" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482852845542">
-        <mark key="'" line="53" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482858028919">
+        <mark key="'" line="288" column="0" />
         <mark key="[" line="242" column="31" />
         <mark key="]" line="242" column="32" />
         <mark key="^" line="242" column="32" />
@@ -1046,9 +1046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1117" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1124" column="37" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1093" column="23" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1096" column="12" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1099" column="43" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1102" column="30" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
@@ -1146,6 +1143,9 @@
       <jump line="16" column="20" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" />
       <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" />
       <jump line="9" column="51" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" />
+      <jump line="59" column="25" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="107" column="5" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="288" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1155,7 +1155,7 @@
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>py4j</text>
+        <text>module</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
@@ -1192,9 +1192,9 @@
       </register>
     </registers>
     <search>
-      <last-search>py4j</last-search>
+      <last-search>module</last-search>
       <last-offset />
-      <last-pattern>py4j</last-pattern>
+      <last-pattern>module</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1202,7 +1202,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iter</entry>
         <entry>breeze</entry>
         <entry>blas</entry>
         <entry>colIter</entry>
@@ -1215,13 +1214,14 @@
         <entry>println</entry>
         <entry>print</entry>
         <entry>jTemplates</entry>
-        <entry>module</entry>
         <entry>generator</entry>
         <entry>project-version</entry>
         <entry>netlib</entry>
         <entry>4j</entry>
         <entry>py</entry>
         <entry>py4j</entry>
+        <entry>v4</entry>
+        <entry>module</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
