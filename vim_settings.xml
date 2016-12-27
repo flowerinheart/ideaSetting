@@ -99,11 +99,11 @@
         <mark key="'" line="152" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482858028919">
-        <mark key="'" line="288" column="0" />
-        <mark key="[" line="242" column="31" />
-        <mark key="]" line="242" column="32" />
-        <mark key="^" line="242" column="32" />
-        <mark key="." line="242" column="32" />
+        <mark key="'" line="293" column="0" />
+        <mark key="[" line="247" column="31" />
+        <mark key="]" line="247" column="32" />
+        <mark key="^" line="247" column="32" />
+        <mark key="." line="247" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/trun.sh" timestamp="1480665052181">
         <mark key="[" line="21" column="4" />
@@ -293,10 +293,12 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" timestamp="1482849152859">
-        <mark key="[" line="36" column="56" />
-        <mark key="]" line="36" column="56" />
-        <mark key="." line="36" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" timestamp="1482860330255">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="36" column="64" />
+        <mark key="]" line="36" column="64" />
+        <mark key="." line="36" column="64" />
+        <mark key="^" line="36" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" timestamp="1480661539477">
         <mark key="'" line="42" column="25" />
@@ -340,6 +342,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/gmm_data.txt" timestamp="1482291791714">
         <mark key="'" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" timestamp="1482860564289">
+        <mark key="'" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/src/main/java/LogisticRegressionDataGen.java" timestamp="1482289426533">
         <mark key="[" line="13" column="0" />
@@ -526,6 +531,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1482860595044">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481496006194">
         <mark key="'" line="25" column="37" />
       </file>
@@ -697,12 +705,6 @@
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" timestamp="1482666419923">
-        <mark key="'" line="148" column="22" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" timestamp="1481868812171">
         <mark key="'" line="225" column="38" />
       </file>
@@ -862,7 +864,7 @@
         <mark key="]" line="28" column="97" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/AbstractJavaGenerator.java" timestamp="1482859189647" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/AbstractJavaGenerator.java" timestamp="1482861069210" />
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
@@ -885,9 +887,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482859077986">
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482860853102">
         <mark key="'" line="86" column="87" />
-        <mark key="^" line="175" column="14" />
+        <mark key="[" line="112" column="72" />
+        <mark key="]" line="112" column="70" />
+        <mark key="^" line="112" column="70" />
+        <mark key="." line="112" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1482395536534">
         <mark key="'" line="1102" column="30" />
@@ -1017,6 +1022,9 @@
         <mark key="." line="143" column="68" />
         <mark key="^" line="143" column="68" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JarMethodScanner.java" timestamp="1482860599027">
+        <mark key="." line="51" column="40" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
         <mark key="'" line="35" column="29" />
         <mark key="[" line="8" column="37" />
@@ -1039,16 +1047,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="23" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="258" column="61" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="269" column="16" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="385" column="38" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="442" column="16" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="120" column="27" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="130" column="19" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" />
-      <jump line="193" column="45" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" />
-      <jump line="19" column="32" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" />
-      <jump line="1" column="4" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" />
       <jump line="40" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" />
       <jump line="82" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala" />
       <jump line="47" column="3" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" />
@@ -1138,11 +1136,21 @@
       <jump line="288" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="182" column="2" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="183" column="2" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="61" column="0" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="90" column="9" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="91" column="29" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="277" column="17" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="181" column="0" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="86" column="87" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="93" column="64" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bm9uUHJveHlIb3N0cz53d3cubWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvKjwvbm9uUHJveHlIb3N0cz4K</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
@@ -1151,34 +1159,34 @@
         <text>proxy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
+        <text encoding="base64">ICAgICAgICA8bm9uUHJveHlIb3N0cz53d3cubWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvKjwvbm9uUHJveHlIb3N0cz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0+Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAtLT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LS0+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LS0+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgU3RyaW5nIGdlbmVyYXRlKExpc3Q8TWV0aG9kPiBtZXRob2RzKSB0aHJvd3MgRXhjZXB0aW9uIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
+        <text encoding="base64">Y2xhc3MgU0IgZXh0ZW5kcyBBYnN0cmFjdEphdmFHZW5lcmF0b3J7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
+        <text encoding="base64">cHVibGljIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1195,7 +1203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blas</entry>
         <entry>colIter</entry>
         <entry>newlinalg</entry>
         <entry>lapack</entry>
@@ -1214,6 +1221,7 @@
         <entry>py4j</entry>
         <entry>v4</entry>
         <entry>module</entry>
+        <entry>proxys</entry>
         <entry>proxy</entry>
       </history-search>
       <history-cmd>
