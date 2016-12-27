@@ -98,12 +98,12 @@
       <file name="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" timestamp="1482374123567">
         <mark key="'" line="152" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482850143409">
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482850870455">
         <mark key="'" line="191" column="23" />
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="15" />
-        <mark key="^" line="59" column="15" />
-        <mark key="." line="59" column="15" />
+        <mark key="[" line="242" column="31" />
+        <mark key="]" line="242" column="32" />
+        <mark key="^" line="242" column="32" />
+        <mark key="." line="242" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/trun.sh" timestamp="1480665052181">
         <mark key="[" line="21" column="4" />
