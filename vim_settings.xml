@@ -98,8 +98,8 @@
       <file name="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" timestamp="1482374123567">
         <mark key="'" line="152" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482850870455">
-        <mark key="'" line="191" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482852845542">
+        <mark key="'" line="53" column="13" />
         <mark key="[" line="242" column="31" />
         <mark key="]" line="242" column="32" />
         <mark key="^" line="242" column="32" />
@@ -734,6 +734,9 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" timestamp="1482852992253">
+        <mark key="'" line="124" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/Word2Vec.scala" timestamp="1482296779298">
         <mark key="'" line="305" column="0" />
       </file>
@@ -805,6 +808,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/ml/regression/LinearRegression.scala" timestamp="1481493753690">
         <mark key="'" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" timestamp="1482853026267">
+        <mark key="'" line="32" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/GetSparkMetrics2.java" timestamp="1480499256938">
         <mark key="'" line="222" column="63" />
         <mark key="[" line="222" column="0" />
@@ -866,7 +872,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1481490358131">
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482851913408">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="3" />
         <mark key="." line="119" column="0" />
@@ -1028,10 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="3" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="181" column="10" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="177" column="9" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="78" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
       <jump line="92" column="22" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
       <jump line="86" column="83" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" />
@@ -1128,55 +1130,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="7" column="10" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="191" column="23" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="99" column="39" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="53" column="13" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="124" column="27" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" />
+      <jump line="32" column="11" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>G</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>project-version</text>
+        <text>netlib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNvbHV0aW9uICIgKyBwYXRoLmxlbmd0aCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3RhcnRQb3MgKyAiICAgICIgKyBnb2FsKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oInNvbHV0aW9uICIgKyBwYXRoLmxlbmd0aCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImxlbmd0aCIgKyBwYXRoLmxlbmd0aClkZAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc3RhcnRQb3MgKyAiICAgICIgKyBnb2FsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>project-version</last-search>
+      <last-search>netlib</last-search>
       <last-offset />
-      <last-pattern>project-version</last-pattern>
+      <last-pattern>netlib</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1187,7 +1193,6 @@
         <entry>WeightedPoint</entry>
         <entry>scal</entry>
         <entry>Vectors</entry>
-        <entry>netlib</entry>
         <entry>iter</entry>
         <entry>breeze</entry>
         <entry>blas</entry>
@@ -1204,6 +1209,7 @@
         <entry>module</entry>
         <entry>generator</entry>
         <entry>project-version</entry>
+        <entry>netlib</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
