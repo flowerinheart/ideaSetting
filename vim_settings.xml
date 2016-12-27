@@ -208,6 +208,9 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" timestamp="1482857004245">
+        <mark key="'" line="9" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" timestamp="1480048569439">
         <mark key="'" line="11" column="22" />
         <mark key="[" line="16" column="27" />
@@ -279,6 +282,9 @@
         <mark key="]" line="42" column="21" />
         <mark key="." line="42" column="21" />
         <mark key="^" line="42" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/python/run-tests.py" timestamp="1482856829982">
+        <mark key="'" line="151" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1481012743491">
         <mark key="'" line="72" column="6" />
@@ -834,6 +840,9 @@
         <mark key="^" line="50" column="42" />
         <mark key="." line="50" column="42" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/python/pyspark/mllib/util.py" timestamp="1482856957485">
+        <mark key="'" line="434" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/python/pyspark/shuffle.py" timestamp="1481129651432">
         <mark key="'" line="460" column="32" />
       </file>
@@ -1037,11 +1046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="35" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" />
-      <jump line="122" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="340" column="27" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="121" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="93" column="6" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="1117" column="6" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1124" column="37" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1093" column="23" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
@@ -1137,6 +1141,11 @@
       <jump line="23" column="2" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/pylintrc" />
       <jump line="31" column="7" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/pylintrc" />
       <jump line="36" column="48" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/pylintrc" />
+      <jump line="151" column="10" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/run-tests.py" />
+      <jump line="434" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/pyspark/mllib/util.py" />
+      <jump line="16" column="20" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" />
+      <jump line="9" column="51" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
