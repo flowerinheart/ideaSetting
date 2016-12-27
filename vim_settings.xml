@@ -78,10 +78,10 @@
       <file name="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" timestamp="1482374123567">
         <mark key="'" line="152" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482867341065">
-        <mark key="'" line="18" column="51" />
-        <mark key="[" line="87" column="38" />
-        <mark key="]" line="88" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482870439515">
+        <mark key="'" line="184" column="25" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="191" column="25" />
         <mark key="^" line="88" column="24" />
         <mark key="." line="88" column="24" />
       </file>
@@ -242,11 +242,12 @@
         <mark key="^" line="157" column="14" />
         <mark key="." line="157" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/CallCount.java" timestamp="1482868801000">
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="9" column="63" />
-        <mark key="." line="9" column="63" />
-        <mark key="^" line="9" column="63" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/CallCount.java" timestamp="1482869615451">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="52" />
+        <mark key="^" line="0" column="52" />
+        <mark key="." line="0" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationStats.java" timestamp="1481481123211">
         <mark key="'" line="67" column="11" />
@@ -317,8 +318,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/gmm_data.txt" timestamp="1482291791714">
         <mark key="'" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" timestamp="1482860564289">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" timestamp="1482870152544">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" timestamp="1482572407598">
         <mark key="'" line="40" column="0" />
@@ -457,6 +461,12 @@
       <file name="D:/sbt/.ivy2/cache/com.github.fommil.netlib/core/jars/core-1.1.2.jar!/com/github/fommil/netlib/LAPACK.class" timestamp="1481707593997">
         <mark key="'" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_ref/pom.xml" timestamp="1482870474323">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
       </file>
@@ -465,9 +475,6 @@
         <mark key="]" line="41" column="43" />
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
-      </file>
-      <file name="/fragment.java" timestamp="1482860595044">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481496006194">
         <mark key="'" line="25" column="37" />
@@ -546,11 +553,8 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482867628380">
-        <mark key="'" line="82" column="10" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482869710463">
+        <mark key="'" line="39" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1482298766867">
         <mark key="'" line="235" column="4" />
@@ -588,6 +592,11 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/core/pom.xml" timestamp="1482870454089">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
@@ -677,8 +686,8 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJniGenerator.java" timestamp="1482868234134">
-        <mark key="'" line="39" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJniGenerator.java" timestamp="1482869437147">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -781,8 +790,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" timestamp="1481012648901">
         <mark key="'" line="189" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482868072524">
-        <mark key="'" line="124" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482870487232">
+        <mark key="'" line="129" column="56" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="H:/learning/course/大四上/推荐系统/lab1/nonpers-assignment/src/main/java/org/lenskit/mooc/nonpers/assoc/BasicAssociationModelProvider.java" timestamp="1480898222868">
         <mark key="'" line="64" column="26" />
@@ -846,6 +858,13 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/pom.xml" timestamp="1482870168166">
+        <mark key="'" line="93" column="25" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/WriteFileTest.java" timestamp="1480059882704">
         <mark key="'" line="20" column="36" />
         <mark key="[" line="20" column="28" />
@@ -869,12 +888,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" timestamp="1482411066005">
         <mark key="'" line="193" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1482868697161">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="128" column="8" />
-        <mark key="]" line="128" column="1" />
-        <mark key="." line="128" column="1" />
-        <mark key="^" line="128" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1482869635664">
+        <mark key="'" line="103" column="2" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/sample_linear_regression_data.txt" timestamp="1482290231190">
         <mark key="'" line="16" column="37" />
@@ -914,23 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="11" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jImplGenerator.java" />
-      <jump line="236" column="10" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="83" column="5" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="263" column="28" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="7" column="10" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="191" column="23" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="99" column="39" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="53" column="13" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="124" column="27" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" />
-      <jump line="32" column="11" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="221" column="23" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="1216" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="1217" column="27" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="1220" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="1221" column="33" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="1224" column="24" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
-      <jump line="1225" column="27" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
       <jump line="1272" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
       <jump line="1273" column="27" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
       <jump line="1276" column="28" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/pom.xml" />
@@ -1014,55 +1016,72 @@
       <jump line="124" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="124" column="56" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
       <jump line="40" column="40" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJniGenerator.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJniGenerator.java" />
+      <jump line="101" column="2" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="10" column="23" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/CallCount.java" />
+      <jump line="39" column="63" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
+      <jump line="127" column="30" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" />
+      <jump line="66" column="18" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/pom.xml" />
+      <jump line="88" column="25" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/pom.xml" />
+      <jump line="93" column="25" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/pom.xml" />
+      <jump line="247" column="18" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="188" column="29" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="193" column="29" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="235" column="25" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="236" column="24" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="48" column="104" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="184" column="25" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="12" column="9" filename="$USER_HOME$/IdeaProjects/netlib-java/native_ref/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0TlNlYyArPSBTeXN0ZW0ubmFub1RpbWUoKSAtIHN0YXJ0OwogICAgICAgIGNhbGxDb3VudCArPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xNS4wPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>module</text>
+        <text>dep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0TlNlYyArPSBTeXN0ZW0ubmFub1RpbWUoKSAtIHN0YXJ0OwogICAgICAgIGNhbGxDb3VudCArPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xNS4wPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb25nIHN0YXJ0ID0gU3lzdGVtLm5hbm90aQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLm5hbm9UaW1lKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5BdG9taWNEb3VibGUKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmF0b21pYy5BdG9taWNJbnRlZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGRvdWJsZSBjb3N0TVNlYyA9IDAuMDsKICBwdWJsaWMgc3RhdGljIGludCBjYWxsQ291bnQgPSAwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5BdG9taWNEb3VibGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGRvdWJsZSBjb3N0TVNlYyA9IDAuMDsKICBwdWJsaWMgc3RhdGljIGludCBjYWxsQ291bnQgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIGNvc3RNU2VjID0gMC4wOwogICAgcHVibGljIHN0YXRpYyBpbnQgY2FsbENvdW50ID0gMDsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGRvdWJsZSBjb3N0TVNlYyA9IDAuMDsKICBwdWJsaWMgc3RhdGljIGludCBjYWxsQ291bnQgPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5DYWxsQ291bnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIGNvc3RNU2VjID0gMC4wOwogICAgcHVibGljIHN0YXRpYyBpbnQgY2FsbENvdW50ID0gMDsK</text>
+        <text encoding="base64">ICByZXR1cm4gaW5uZXJfJG1ldGhvZCRfb2Zmc2V0cygK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Pj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>module</last-search>
+      <last-search>dep</last-search>
       <last-offset />
-      <last-pattern>module</last-pattern>
+      <last-pattern>dep</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1070,9 +1089,6 @@
     </search>
     <history>
       <history-search>
-        <entry>project-version</entry>
-        <entry>netlib</entry>
-        <entry>4j</entry>
         <entry>py</entry>
         <entry>py4j</entry>
         <entry>v4</entry>
@@ -1090,6 +1106,9 @@
         <entry>Support</entry>
         <entry>sup</entry>
         <entry>module</entry>
+        <entry>1.1.2</entry>
+        <entry>google</entry>
+        <entry>dep</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
