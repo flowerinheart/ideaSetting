@@ -98,6 +98,13 @@
       <file name="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" timestamp="1482374123567">
         <mark key="'" line="152" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482850143409">
+        <mark key="'" line="191" column="23" />
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="15" />
+        <mark key="^" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/trun.sh" timestamp="1480665052181">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="24" />
@@ -136,6 +143,12 @@
         <mark key="]" line="34" column="63" />
         <mark key="^" line="34" column="63" />
         <mark key="." line="34" column="63" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/bin/fix.sh" timestamp="1482850244870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="71" />
+        <mark key="^" line="1" column="71" />
+        <mark key="." line="1" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
@@ -273,6 +286,11 @@
         <mark key="]" line="105" column="90" />
         <mark key="^" line="67" column="39" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" timestamp="1482849152859">
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="36" column="56" />
+        <mark key="." line="36" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/pom.xml" timestamp="1480661539477">
         <mark key="'" line="42" column="25" />
@@ -829,6 +847,9 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jImplGenerator.java" timestamp="1482849121639">
+        <mark key="'" line="53" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="29" column="0" />
@@ -900,6 +921,12 @@
         <mark key="." line="41" column="30" />
         <mark key="^" line="41" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/legacy/pom.xml" timestamp="1482850202448">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/optimization/LBFGS.scala" timestamp="1482388449310">
         <mark key="'" line="212" column="4" />
         <mark key="[" line="43" column="34" />
@@ -907,6 +934,7 @@
         <mark key="^" line="43" column="33" />
         <mark key="." line="43" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/legacy/src/main/java/org/netlib/arpack/ARPACK.java" timestamp="1482849496827" />
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1481698409416">
         <mark key="'" line="208" column="6" />
       </file>
@@ -1000,17 +1028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
-      <jump line="48" column="4" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
-      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
-      <jump line="8" column="12" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
-      <jump line="2" column="44" filename="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/ttt.sc" />
-      <jump line="204" column="43" filename="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" />
-      <jump line="151" column="7" filename="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" />
-      <jump line="152" column="23" filename="C:/software/dev/apache-maven-3.3.9/conf/settings.xml" />
-      <jump line="15" column="46" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="151" column="7" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="152" column="23" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="162" column="3" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="181" column="10" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="177" column="9" filename="$USER_HOME$/.m2/settings.xml" />
@@ -1100,16 +1117,27 @@
       <jump line="5" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/Solver.scala" />
       <jump line="148" column="22" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/GameDef.scala" />
       <jump line="17" column="20" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/Solver.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jImplGenerator.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jImplGenerator.java" />
+      <jump line="53" column="11" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jImplGenerator.java" />
+      <jump line="236" column="10" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="9" column="45" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="18" column="51" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="83" column="5" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="263" column="28" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="7" column="10" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="191" column="23" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>G</text>
       </register>
       <register name="-" type="4">
-        <text>val t = pathsFromStart</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>project-version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
@@ -1142,13 +1170,13 @@
         <text encoding="base64">ICAgIHByaW50bG4oImxlbmd0aCIgKyBwYXRoLmxlbmd0aClkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>project-version</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>project-version</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,10 +1184,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bals</entry>
-        <entry>axpy</entry>
-        <entry>Vector</entry>
-        <entry>WeightPoint</entry>
         <entry>WeightedPoint</entry>
         <entry>scal</entry>
         <entry>Vectors</entry>
@@ -1176,6 +1200,10 @@
         <entry>?</entry>
         <entry>println</entry>
         <entry>print</entry>
+        <entry>jTemplates</entry>
+        <entry>module</entry>
+        <entry>generator</entry>
+        <entry>project-version</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -1186,9 +1214,9 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
