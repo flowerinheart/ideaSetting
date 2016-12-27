@@ -862,6 +862,7 @@
         <mark key="]" line="28" column="97" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/AbstractJavaGenerator.java" timestamp="1482859189647" />
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/MapOutputTracker.scala" timestamp="1479971101411">
         <mark key="'" line="146" column="33" />
       </file>
@@ -884,21 +885,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala" timestamp="1479971628668">
         <mark key="'" line="67" column="6" />
       </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482851913408">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="3" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1482859077986">
+        <mark key="'" line="86" column="87" />
+        <mark key="^" line="175" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1482395536534">
         <mark key="'" line="1102" column="30" />
-      </file>
-      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1482657338660">
-        <mark key="'" line="69" column="11" />
-        <mark key="[" line="73" column="6" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="74" column="11" />
-        <mark key="n" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481697588023">
         <mark key="'" line="29" column="73" />
@@ -956,6 +948,7 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1481698409416">
         <mark key="'" line="208" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/AbstractNetlibGenerator.java" timestamp="1482859017227" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/TFIDFExample.scala" timestamp="1482390162952">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="49" column="0" />
@@ -1046,9 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1096" column="12" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1099" column="43" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1102" column="30" filename="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="249" column="23" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="258" column="61" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="269" column="16" filename="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
@@ -1146,6 +1136,9 @@
       <jump line="59" column="25" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="107" column="5" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="288" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
+      <jump line="182" column="2" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/.m2/settings.xml" />
+      <jump line="86" column="87" filename="$USER_HOME$/.m2/settings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1155,7 +1148,7 @@
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>module</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbW1vbi5fCg==</text>
@@ -1164,37 +1157,37 @@
         <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtKGRhdGEudGFrZSgwKS5nZXRDbGFzcygpLmdldE5hbWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNvbHV0aW9uICIgKyBwYXRoLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgIHZhbCBwYXRoID0gcGF0aHNUb0dvYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3RhcnRQb3MgKyAiICAgICIgKyBnb2FsKQo=</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>module</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>module</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1202,7 +1195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>breeze</entry>
         <entry>blas</entry>
         <entry>colIter</entry>
         <entry>newlinalg</entry>
@@ -1222,6 +1214,7 @@
         <entry>py4j</entry>
         <entry>v4</entry>
         <entry>module</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
