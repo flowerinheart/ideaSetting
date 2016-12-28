@@ -91,11 +91,6 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJavaGenerator.java" timestamp="1482894641139">
-        <mark key="]" line="113" column="1" />
-        <mark key="^" line="113" column="1" />
-        <mark key="." line="113" column="1" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" timestamp="1482387488476">
         <mark key="'" line="51" column="59" />
         <mark key="[" line="55" column="115" />
@@ -558,8 +553,12 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482877744382">
-        <mark key="'" line="385" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482895566398">
+        <mark key="'" line="388" column="9" />
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1482298766867">
         <mark key="'" line="235" column="4" />
@@ -909,11 +908,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" timestamp="1482411066005">
         <mark key="'" line="193" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1482894774438">
-        <mark key="'" line="103" column="2" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1482895571470">
+        <mark key="'" line="38" column="2" />
+        <mark key="[" line="177" column="6" />
+        <mark key="]" line="177" column="12" />
+        <mark key="^" line="177" column="12" />
+        <mark key="." line="177" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/sample_linear_regression_data.txt" timestamp="1482290231190">
         <mark key="'" line="16" column="37" />
@@ -955,12 +955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="86" column="87" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="93" column="64" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JavaInterfaceGenerator.java" />
-      <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" />
       <jump line="314" column="0" filename="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/BLAS.class" />
       <jump line="98" column="1" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
       <jump line="718" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
@@ -1055,55 +1049,61 @@
       <jump line="17" column="8" filename="$USER_HOME$/IdeaProjects/netlib-java-1.1.1/pom.xml" />
       <jump line="64" column="19" filename="$USER_HOME$/IdeaProjects/netlib-java-1.1.1/pom.xml" />
       <jump line="46" column="36" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/pom.xml" />
+      <jump line="175" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="38" column="2" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>generator</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xNS4wPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBuYXRpdmUgdm9pZCB0ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICogJGRvY3MkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKXsK</text>
+        <text encoding="base64">cGFja2FnZSAkcGFja2FnZSQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4K</text>
+        <text encoding="base64">JGNvcHlyaWdodCgpJAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmF0b21pYy5BdG9taWNJbnRlZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkcmV0dXJuJAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5BdG9taWNEb3VibGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYWxsQ291bnQuYWRkQW5kR2V0KDEpOwo=</text>
+        <text encoding="base64">ICAkcmV0dXJuJAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>generator</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern>generator</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -1111,7 +1111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>native</entry>
         <entry>unsu</entry>
         <entry>unsupported</entry>
         <entry>off</entry>
@@ -1131,6 +1130,7 @@
         <entry>_off</entry>
         <entry>version</entry>
         <entry>generator</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
