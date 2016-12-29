@@ -532,11 +532,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala" timestamp="1481012648901">
         <mark key="'" line="189" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482894044198">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482987966198">
+        <mark key="'" line="54" column="19" />
+        <mark key="[" line="151" column="87" />
+        <mark key="]" line="151" column="93" />
+        <mark key="." line="151" column="93" />
+        <mark key="^" line="151" column="93" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java-1.1.1/pom.xml" timestamp="1482878731919">
         <mark key="'" line="64" column="19" />
@@ -771,10 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="10" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" />
-      <jump line="122" column="37" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" />
-      <jump line="124" column="21" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" />
-      <jump line="123" column="22" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/pom.xml" />
       <jump line="40" column="45" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
       <jump line="380" column="27" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
       <jump line="383" column="14" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
@@ -871,19 +868,23 @@
       <jump line="85" column="8" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="87" column="7" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="108" column="18" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="259" column="48" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
+      <jump line="266" column="45" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
+      <jump line="40" column="17" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
+      <jump line="54" column="19" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFuY2UuZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxqYXZhaENsYXNzTmFtZT5jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTmF0aXZlU3lzdGVtQkxBUzwvamF2YWhDbGFzc05hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8amF2YWhDbGFzc05hbWU+Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUxBUEFDSzwvamF2YWhDbGFzc05hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8amF2YWhDbGFzc05hbWU+Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUFSUEFDSzwvamF2YWhDbGFzc05hbWU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>BLAS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC5hZGQoImluc3RhbmNlIiwgU3RyaW5nLmZvcm1hdChpbnN0YW50aWF0aW9uLCAiQkxBUyIsICJCTEFTIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxqYXZhaENsYXNzTmFtZT5jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTmF0aXZlU3lzdGVtQkxBUzwvamF2YWhDbGFzc05hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8amF2YWhDbGFzc05hbWU+Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUxBUEFDSzwvamF2YWhDbGFzc05hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8amF2YWhDbGFzc05hbWU+Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLk5hdGl2ZVN5c3RlbUFSUEFDSzwvamF2YWhDbGFzc05hbWU+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaW5zdGFuY2UuZGIK</text>
@@ -917,9 +918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>BLAS</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>BLAS</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -927,10 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>netlib</entry>
-        <entry>dspr</entry>
-        <entry>_off</entry>
         <entry>version</entry>
         <entry>generator</entry>
         <entry>import</entry>
@@ -947,6 +944,10 @@
         <entry>load</entry>
         <entry>debe</entry>
         <entry>name</entry>
+        <entry>native-native</entry>
+        <entry>netlib-native</entry>
+        <entry>blas</entry>
+        <entry>BLAS</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
