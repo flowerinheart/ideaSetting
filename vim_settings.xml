@@ -112,8 +112,8 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482897765609">
-        <mark key="'" line="42" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482977584710">
+        <mark key="'" line="610" column="2" />
         <mark key="[" line="49" column="9" />
         <mark key="]" line="49" column="15" />
         <mark key="^" line="49" column="15" />
@@ -753,9 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJniGenerator.java" />
-      <jump line="101" column="2" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="10" column="23" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/CallCount.java" />
       <jump line="39" column="63" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
       <jump line="127" column="30" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/F2jJavadocExtractor.java" />
@@ -853,6 +850,9 @@
       <jump line="106" column="2" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="124" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="125" column="7" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="679" column="35" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
+      <jump line="75" column="68" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
+      <jump line="610" column="2" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -862,7 +862,7 @@
         <text>offsets ? &quot;_offsets&quot; : &quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>rap</text>
+        <text>static</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgICAgICAgICAgICAgICAgSEFDSzogdGhlc2Ugb3ZlcnJpZGUgdGhlIHBhcmVudCBleGVjdXRpb25zIG9mIHRoZSBzYW1lIG5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgYW5kIHN0b3AgaXQgZnJvbSBydW5uaW5nLgogICAgICAgICAgICAgICAgICAgICAgICAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmJsYXM8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5uYXRpdmUtamF2YTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3V0cHV0TmFtZT5jb20vZ2l0aHViL2ZvbW1pbC9uZXRsaWIvTmF0aXZlU3lzdGVtQkxBUy5qYXZhPC9vdXRwdXROYW1lPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNjYW4+b3JnLm5ldGxpYi5ibGFzPC9zY2FuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltcGxlbWVudGluZz5jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuQkxBUzwvaW1wbGVtZW50aW5nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4dGVuZGluZz5jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuRjJqQkxBUzwvZXh0ZW5kaW5nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVuc3VwcG9ydGVkPiR7cHJlZmVyLmYyan08L3Vuc3VwcG9ydGVkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG5hdGl2ZXM+JHtuYXRpdmVzfTwvbmF0aXZlcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5sYXBhY2s8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5uYXRpdmUtamF2YTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3V0cHV0TmFtZT5jb20vZ2l0aHViL2ZvbW1pbC9uZXRsaWIvTmF0aXZlU3lzdGVtTEFQQUNLLmphdmE8L291dHB1dE5hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2Nhbj5vcmcubmV0bGliLmxhcGFjazwvc2Nhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbXBsZW1lbnRpbmc+Y29tLmdpdGh1Yi5mb21taWwubmV0bGliLkxBUEFDSzwvaW1wbGVtZW50aW5nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4dGVuZGluZz5jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuRjJqTEFQQUNLPC9leHRlbmRpbmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dW5zdXBwb3J0ZWQ+JHtwcmVmZXIuZjJqfTwvdW5zdXBwb3J0ZWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bmF0aXZlcz4ke25hdGl2ZXN9PC9uYXRpdmVzPgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmFycGFjazwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPm5hdGl2ZS1qYXZhPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvdXRwdXROYW1lPmNvbS9naXRodWIvZm9tbWlsL25ldGxpYi9OYXRpdmVTeXN0ZW1BUlBBQ0suamF2YTwvb3V0cHV0TmFtZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzY2FuPm9yZy5uZXRsaWIuYXJwYWNrPC9zY2FuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltcGxlbWVudGluZz5jb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuQVJQQUNLPC9pbXBsZW1lbnRpbmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXh0ZW5kaW5nPmNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5GMmpBUlBBQ0s8L2V4dGVuZGluZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bnN1cHBvcnRlZD4ke3ByZWZlci5mMmp9PC91bnN1cHBvcnRlZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxuYXRpdmVzPiR7bmF0aXZlc308L25hdGl2ZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4=</text>
@@ -899,9 +899,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rap</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>rap</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -909,7 +909,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sup</entry>
         <entry>module</entry>
         <entry>1.1.2</entry>
         <entry>google</entry>
@@ -929,6 +928,7 @@
         <entry>wraper</entry>
         <entry>Wrap</entry>
         <entry>rap</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
