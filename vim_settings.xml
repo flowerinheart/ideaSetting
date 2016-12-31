@@ -16,6 +16,9 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/test/scala/streams/BloxorzSuite.scala" timestamp="1483176170917">
+        <mark key="'" line="69" column="34" />
+      </file>
       <file name="$USER_HOME$/Desktop/forcomp/src/main/scala/common/package.scala" timestamp="1483085869741">
         <mark key="'" line="1" column="0" />
       </file>
@@ -59,6 +62,7 @@
       <jump line="176" column="0" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab4-calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala" />
       <jump line="88" column="68" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/Solver.scala" />
       <jump line="30" column="42" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/Solver.scala" />
+      <jump line="69" column="34" filename="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/test/scala/streams/BloxorzSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
