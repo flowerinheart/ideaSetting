@@ -176,11 +176,6 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/core/pom.xml" timestamp="1482870454089">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
@@ -193,11 +188,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/bin/config.sh" timestamp="1481711179865">
         <mark key="'" line="17" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_ref/java/target/netlib-native/com/github/fommil/netlib/NativeRefARPACK.java" timestamp="1482899296806">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/IDF.scala" timestamp="1481868812171">
         <mark key="'" line="225" column="38" />
@@ -638,6 +628,9 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1483411584040">
+        <mark key="'" line="1029" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/WriteFileTest.java" timestamp="1480059882704">
         <mark key="'" line="20" column="36" />
         <mark key="[" line="20" column="28" />
@@ -715,20 +708,20 @@
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/pom.xml" timestamp="1481704583660">
         <mark key="'" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" timestamp="1483411083644">
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" timestamp="1483411626261">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="54" />
         <mark key="." line="84" column="32" />
         <mark key="^" line="84" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1483411101240">
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1483411700990">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="147" column="31" />
+        <mark key="[" line="54" column="44" />
         <mark key="m" line="154" column="5" />
-        <mark key="]" line="147" column="32" />
-        <mark key="^" line="147" column="32" />
-        <mark key="." line="147" column="32" />
+        <mark key="]" line="54" column="43" />
+        <mark key="^" line="54" column="43" />
+        <mark key="." line="54" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/sample_linear_regression_data.txt" timestamp="1482290231190">
         <mark key="'" line="16" column="37" />
@@ -761,11 +754,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/JarMethodScanner.java" timestamp="1482894948892">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481496006194">
         <mark key="'" line="25" column="37" />
       </file>
@@ -785,7 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="679" column="35" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
       <jump line="610" column="2" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" />
       <jump line="77" column="34" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJavaGenerator.java" />
       <jump line="110" column="15" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJavaGenerator.java" />
@@ -885,6 +872,7 @@
       <jump line="62" column="1" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="158" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="1029" column="15" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -894,7 +882,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>wrapper</text>
+        <text>onlyIf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVjb3Jkcy5wdXRJZkFic2VudCgiZG5ldXBkIiwgbmV3IFJlY29yZCgwLCAwKSk7Cg==</text>
@@ -931,9 +919,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wrapper</last-search>
+      <last-search>onlyIf</last-search>
       <last-offset />
-      <last-pattern>wrapper</last-pattern>
+      <last-pattern>onlyIf</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +929,6 @@
     </search>
     <history>
       <history-search>
-        <entry>native-native</entry>
         <entry>netlib-native</entry>
         <entry>blas</entry>
         <entry>Native</entry>
@@ -961,6 +948,7 @@
         <entry>instance</entry>
         <entry>package</entry>
         <entry>wrapper</entry>
+        <entry>onlyIf</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
