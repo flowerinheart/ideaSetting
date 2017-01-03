@@ -9,6 +9,13 @@
       <file name="H:/Desktop/project/netlib-java/generator/pom.xml" timestamp="1483432888292">
         <mark key="v" line="20" column="24" />
       </file>
+      <file name="H:/Desktop/project/netlib-java/bin/install.sh" timestamp="1483440598926">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="114" />
+        <mark key="^" line="12" column="114" />
+        <mark key="." line="12" column="114" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/linalg/EigenValueDecomposition.scala" timestamp="1482393434872">
         <mark key="'" line="52" column="0" />
       </file>
@@ -37,6 +44,12 @@
       </file>
       <file name="/a.dummy" timestamp="1483430495988">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="H:/Desktop/project/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483439329674">
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="69" column="25" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" timestamp="1481701898959">
         <mark key="'" line="118" column="0" />
@@ -141,12 +154,13 @@
         <mark key="." line="94" column="57" />
         <mark key="^" line="94" column="57" />
       </file>
-      <file name="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" timestamp="1483438044027">
-        <mark key="'" line="101" column="47" />
-        <mark key="[" line="80" column="35" />
-        <mark key="]" line="80" column="35" />
-        <mark key="." line="80" column="35" />
-        <mark key="^" line="80" column="35" />
+      <file name="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" timestamp="1483440201847">
+        <mark key="v" line="33" column="28" />
+        <mark key="'" line="115" column="38" />
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="54" column="10" />
+        <mark key="." line="54" column="10" />
+        <mark key="^" line="54" column="10" />
       </file>
       <file name="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/App.java" timestamp="1483430475359">
         <mark key="[" line="6" column="17" />
@@ -304,8 +318,10 @@
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeRegressionExample.scala" timestamp="1482381016458">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" timestamp="1483437795352">
-        <mark key="'" line="0" column="0" />
+      <file name="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" timestamp="1483438867296">
+        <mark key="'" line="330" column="55" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/python/docs/Makefile" timestamp="1482857004245">
         <mark key="'" line="9" column="51" />
@@ -437,7 +453,7 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
       </file>
-      <file name="H:/Desktop/project/netlib-java/core/pom.xml" timestamp="1483431320050">
+      <file name="H:/Desktop/project/netlib-java/core/pom.xml" timestamp="1483440393509">
         <mark key="'" line="89" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_ref/java/target/netlib-native/com/github/fommil/netlib/NativeRefBLAS.java" timestamp="1482991608021">
@@ -742,12 +758,12 @@
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" timestamp="1483412893808">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1483432436391">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
+      <file name="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1483439193531">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="171" column="28" />
+        <mark key="]" line="171" column="13" />
+        <mark key="." line="171" column="13" />
+        <mark key="^" line="171" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" timestamp="1483411700990">
         <mark key="'" line="34" column="0" />
@@ -812,33 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="42" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="269" column="45" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="40" column="17" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="123" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="143" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="163" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="187" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="230" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="333" column="45" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="55" column="17" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="79" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="99" column="70" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="335" column="35" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="98" column="71" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="100" column="69" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="162" column="71" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="164" column="69" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="210" column="69" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="211" column="69" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="213" column="69" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="214" column="69" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
-      <jump line="253" column="15" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="274" column="32" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="29" column="7" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
-      <jump line="34" column="7" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="86" column="16" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="87" column="16" filename="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" />
       <jump line="216" column="41" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" />
@@ -912,68 +901,91 @@
       <jump line="13" column="32" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
       <jump line="15" column="32" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
       <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
+      <jump line="67" column="32" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="87" column="18" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="98" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="109" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="117" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="125" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="133" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="141" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="149" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="157" column="5" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="54" column="30" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="115" column="38" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
+      <jump line="21" column="27" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
+      <jump line="27" column="15" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
+      <jump line="329" column="12" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
+      <jump line="330" column="55" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
+      <jump line="70" column="3" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="61" column="15" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="32" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="208" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="34" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="47" column="80" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="171" column="13" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
+      <jump line="12" column="57" filename="H:/Desktop/project/netlib-java/bin/install.sh" />
+      <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/bin/install.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBUlBBQ0sgdCA9IChBUlBBQ0spQ2xhc3MuZm9yTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5hZGQoImluc3RhbmNlIiwgU3RyaW5nLmZvcm1hdChpbnN0YW50aWF0aW9uLCAiQVJQQUNLIiwgIkFSUEFDSyIsICJBUlBBQ0siKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>com.github.fommil.netlib.F2jBLAS&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>face</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9ybWF0ID0gIiVzLCVzLCVzXG4iOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEJMQVMgSU5TVEFOQ0U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBUlBBQ0sgdCA9IChBUlBBQ0spQ2xhc3MuZm9yTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5hZGQoImluc3RhbmNlIiwgU3RyaW5nLmZvcm1hdChpbnN0YW50aWF0aW9uLCAiQVJQQUNLIiwgIkFSUEFDSyIsICJBUlBBQ0siKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzcy5mbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5hZGQoImluc3RhbmNlIiwgU3RyaW5nLmZvcm1hdChpbnN0YW50aWF0aW9uLCAiTEFQQUNLIiwgIkxBUEFDSyIsICJMQVBBQ0siKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQUk9QRVJUWV9LRVkgPSAiY29tLmdpdGh1Yi5mb21taWwubmV0bGliLkJMQVMiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5hZGQoImluc3RhbmNlIiwgU3RyaW5nLmZvcm1hdChpbnN0YW50aWF0aW9uLCAiQkxBUyIsICJCTEFTIiwgIkJMQVMiKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTVBMUyA9ICJjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTmF0aXZlU3lzdGVtQkxBUyxjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuTmF0aXZlUmVmQkxBUyxjb20uZ2l0aHViLmZvbW1pbC5uZXRsaWIuRjJqQkxBUyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ9IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmRzLmdldCgiZG5hdXBkIikudXBkYXRlKFN5c3RlbS5uYW5vVGltZSgpIC0gc3RhcnQsIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ9XG4iICsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ9IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ9XG4iICsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJlLnByaW50U3RhY2tUcmFjZSgpO1xuIiArCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ9IGNhdGNoIChDbGFzc05vdEZvdW5kRXhjZXB0aW9uIGUpIHtcbiIgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>face</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
-      <last-replace>var</last-replace>
-      <last-substitute>val</last-substitute>
+      <last-pattern>face</last-pattern>
+      <last-replace>$face$</last-replace>
+      <last-substitute>FACE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>define</entry>
-        <entry>map</entry>
-        <entry>Reord</entry>
         <entry>Record</entry>
         <entry>Con</entry>
-        <entry>instance</entry>
         <entry>package</entry>
         <entry>wrapper</entry>
         <entry>onlyIf</entry>
@@ -981,13 +993,17 @@
         <entry>record</entry>
         <entry>lapack</entry>
         <entry>abstract</entry>
-        <entry>wraper</entry>
-        <entry>wrap</entry>
         <entry>Tools</entry>
         <entry>module</entry>
         <entry>IMPLS</entry>
         <entry>PROPERTY_KEY</entry>
         <entry>load</entry>
+        <entry>instance</entry>
+        <entry>INSTANCE</entry>
+        <entry>FACE</entry>
+        <entry>wraper</entry>
+        <entry>wrap</entry>
+        <entry>face</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
@@ -1000,6 +1016,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry>46,71s/FACE/face/g</entry>
+        <entry>46,71s/FACE/$face$/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
