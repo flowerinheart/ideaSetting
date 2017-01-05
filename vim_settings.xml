@@ -782,6 +782,13 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" timestamp="1483623103140">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="57" column="42" />
+        <mark key="." line="57" column="42" />
+        <mark key="^" line="57" column="42" />
+      </file>
       <file name="H:/Desktop/project/netlib-java/core/target/generated-sources/netlib-java/com/github/fommil/netlib/LAPACK.java" timestamp="1483431347704">
         <mark key="'" line="129" column="0" />
       </file>
@@ -837,8 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="13" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
-      <jump line="88" column="49" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="93" column="62" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
@@ -937,10 +942,12 @@
       <jump line="122" column="19" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
       <jump line="273" column="60" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
       <jump line="23" column="12" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" />
+      <jump line="3" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" />
+      <jump line="45" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjItU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIHJnYmEoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>NativeSystemLAPACKWrapper.Record</text>
@@ -949,34 +956,34 @@
         <text>Spare</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjItU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB4Q2xhbXAoeCA6IEludCkgPSBjbGFtcCh4LCAwLCBzcmMud2lkdGggLSAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIHJnYmEoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+bmF0aXZlX3N5c3RlbTwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi5mb21taWwubmV0bGliPC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgIHJnYmEoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBncmVlbihyZ2JhMSkgKyBncmVlbihyZ2JhMiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpdmVTeXMK</text>
+        <text encoding="base64">ICAgICAgICBibHVlKHJnYmExKSArIGJsdWUocmdiYTIpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkNvbmN1cnJlbnRIYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
