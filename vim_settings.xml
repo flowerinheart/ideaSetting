@@ -616,6 +616,9 @@
         <mark key="^" line="43" column="33" />
         <mark key="." line="43" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" timestamp="1483616056002">
+        <mark key="'" line="273" column="60" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1483615850158">
         <mark key="'" line="122" column="19" />
       </file>
@@ -639,8 +642,8 @@
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/MovieReviewConverter.java" timestamp="1480409549324">
         <mark key="'" line="19" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" timestamp="1482410912037">
-        <mark key="'" line="130" column="19" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" timestamp="1483616136573">
+        <mark key="'" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/launcher/src/main/java/org/apache/spark/launcher/SparkLauncher.java" timestamp="1481342381196">
         <mark key="'" line="199" column="31" />
@@ -834,8 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="89" column="13" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="88" column="49" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
@@ -934,6 +935,8 @@
       <jump line="437" column="13" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
       <jump line="24" column="42" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
       <jump line="122" column="19" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="273" column="60" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
+      <jump line="23" column="12" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -943,7 +946,7 @@
         <text>NativeSystemLAPACKWrapper.Record</text>
       </register>
       <register name="/" type="4">
-        <text>dot</text>
+        <text>Spare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjItU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
@@ -980,9 +983,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dot</last-search>
+      <last-search>Spare</last-search>
       <last-offset />
-      <last-pattern>dot</last-pattern>
+      <last-pattern>Spare</last-pattern>
       <last-replace>$face$</last-replace>
       <last-substitute>FACE</last-substitute>
       <last-dir>1</last-dir>
@@ -990,7 +993,6 @@
     </search>
     <history>
       <history-search>
-        <entry>package</entry>
         <entry>wrapper</entry>
         <entry>onlyIf</entry>
         <entry>parent</entry>
@@ -1010,6 +1012,7 @@
         <entry>INSTANCE</entry>
         <entry>log</entry>
         <entry>dot</entry>
+        <entry>Spare</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
