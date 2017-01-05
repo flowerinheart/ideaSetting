@@ -41,9 +41,6 @@
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/stat/KernelDensity.scala" timestamp="1482300689976">
         <mark key="'" line="19" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1483430495988">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="H:/Desktop/project/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483439329674">
         <mark key="[" line="69" column="42" />
         <mark key="]" line="69" column="25" />
@@ -619,8 +616,8 @@
         <mark key="^" line="43" column="33" />
         <mark key="." line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1481698409416">
-        <mark key="'" line="208" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" timestamp="1483615850158">
+        <mark key="'" line="122" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/AbstractNetlibGenerator.java" timestamp="1482866231870">
         <mark key="'" line="102" column="40" />
@@ -837,9 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="34" filename="$USER_HOME$/IdeaProjects/netlib-java-1.1.1/native_ref/java/target/netlib-native/com/github/fommil/netlib/NativeRefBLAS.java" />
-      <jump line="56" column="32" filename="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" />
-      <jump line="62" column="5" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="89" column="13" filename="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
@@ -937,6 +931,9 @@
       <jump line="235" column="35" filename="H:/Desktop/project/netlib-java/native_system/pom.xml" />
       <jump line="13" column="104" filename="H:/Desktop/project/netlib-java/bin/install.sh" />
       <jump line="39" column="50" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
+      <jump line="437" column="13" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="24" column="42" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
+      <jump line="122" column="19" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -946,7 +943,7 @@
         <text>NativeSystemLAPACKWrapper.Record</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>dot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjItU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
@@ -983,9 +980,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>dot</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>dot</last-pattern>
       <last-replace>$face$</last-replace>
       <last-substitute>FACE</last-substitute>
       <last-dir>1</last-dir>
@@ -993,7 +990,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Con</entry>
         <entry>package</entry>
         <entry>wrapper</entry>
         <entry>onlyIf</entry>
@@ -1013,6 +1009,7 @@
         <entry>face</entry>
         <entry>INSTANCE</entry>
         <entry>log</entry>
+        <entry>dot</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
