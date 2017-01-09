@@ -190,12 +190,12 @@
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_ref/java/target/netlib-native/com/github/fommil/netlib/NativeRefLAPACK.java" timestamp="1482922987715">
         <mark key="'" line="49" column="0" />
       </file>
-      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" timestamp="1483956502640">
-        <mark key="'" line="65" column="4" />
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="10" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="22" column="10" />
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" timestamp="1483957663225">
+        <mark key="'" line="101" column="5" />
+        <mark key="[" line="126" column="18" />
+        <mark key="]" line="126" column="21" />
+        <mark key="^" line="126" column="21" />
+        <mark key="." line="126" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/scala/org/apache/spark/storage/AlluxioStore.scala" timestamp="1479984445711">
         <mark key="'" line="413" column="21" />
@@ -890,9 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="96" column="19" filename="H:/Desktop/project/netlib-java/pom.xml" />
-      <jump line="64" column="47" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="19" column="3" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
       <jump line="334" column="5" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
       <jump line="14" column="32" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
@@ -990,10 +987,13 @@
       <jump line="47" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="59" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="65" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
+      <jump line="88" column="6" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
+      <jump line="122" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
+      <jump line="102" column="5" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NativeSystemLAPACKWrapper.Record</text>
@@ -1005,31 +1005,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgSXRlbVtdIGFycmF5OwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgaW5pdFNpemUgPSAzMjsKICAgIHByaXZhdGUgaW50IGNhcGFjaXR5ID0gaW5pdFNpemU7CiAgICBwcml2YXRlIGludCB0YWlsID0gMDsKICAgIHByaXZhdGUgaW50IGhlYWQgPSAwOwogICAgcHVibGljIERlcXVlKCkgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zdHJ1Y3QgYW4gZW1wdHkgZGVxdWUKICAgIHsKICAgICAgICBhcnJheSA9IChJdGVtW10pbmV3IE9iamVjdFtjYXBhY2l0eV07CiAgICB9CiAgICBwdWJsaWMgYm9vbGVhbiBpc0VtcHR5KCkgICAgICAgICAgICAgICAgIC8vIGlzIHRoZSBkZXF1ZSBlbXB0eT8KICAgIHsKICAgICAgICByZXR1cm4gdGFpbCA9PSBoZWFkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJlc2l6ZShpbnQgbmV3U2l6ZSl7CiAgICAgICAgYXNzZXJ0IG5ld1NpemUgPj0gc2l6ZSgpOwoKICAgICAgICAvL2NvbnN0cnVjdCBuZXcgc3RhdGUKICAgICAgICBJdGVtW10gbmV3QXJyYXkgPSAoSXRlbVtdKW5ldyBPYmplY3RbbmV3U2l6ZV07CiAgICAgICAgaW50IGkgPSAwLCBwdHIgPSBoZWFkOwoKICAgICAgICB3aGlsZShwdHIgIT0gdGFpbCl7CiAgICAgICAgICAgIG5ld0FycmF5W2krK10gPSBhcnJheVtwdHJdOwogICAgICAgICAgICBwdHIgPSBtb3ZlUHRyKGhlYWQsIGkpOwogICAgICAgIH0KCgogICAgICAgIC8vICB1cGRhdGUgc3RhdGUKICAgICAgICBoZWFkID0gMDsKICAgICAgICB0YWlsID0gaTsKICAgICAgICBjYXBhY2l0eSA9IG5ld1NpemU7CiAgICAgICAgYXJyYXkgPSBuZXdBcnJheTsKICAgIH0KCgogICAgcHJpdmF0ZSBpbnQgbW92ZVB0cihpbnQgcHRyLCBpbnQgbnVtKXsKICAgICAgICByZXR1cm4gKHB0ciArIG51bSAlIGNhcGFjaXR5ICsgY2FwYWNpdHkpICUgY2FwYWNpdHk7CiAgICB9CgogICAgcHVibGljIGludCBzaXplKCkgICAgICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gdGhlIG51bWJlciBvZiBpdGVtcyBvbiB0aGUgZGVxdWUKICAgIHsKICAgIC8vICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2l6ZSIgKyBTdHJpbmcudmFsdWVPZihtb3ZlUHRyKHRhaWwsIC1oZWFkKSkpOwogICAgICAgIHJldHVybiBtb3ZlUHRyKHRhaWwsIC1oZWFkKSArIDE7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGFkZENoZWNrKEl0ZW0gaXRlbSl7CiAgICAgICAgaWYoaXRlbSA9PSBudWxsKQogICAgICAgICAgICB0aHJvdyBuZXcgTnVsbFBvaW50ZXJFeGNlcHRpb24oKTsKICAgICAgICBpZihzaXplKCkgPT0gY2FwYWNpdHkpCiAgICAgICAgICAgIHJlc2l6ZShjYXBhY2l0eSAqIDIpOwogICAgfQogICAgcHVibGljIHZvaWQgYWRkRmlyc3QoSXRlbSBpdGVtKSAgICAgICAgICAvLyBhZGQgdGhlIGl0ZW0gdG8gdGhlIGZyb250CiAgICB7CiAgICAgICAgYWRkQ2hlY2soaXRlbSk7CiAgICAgICAgaGVhZCA9IG1vdmVQdHIoaGVhZCwgLSAxKTsKICAgICAgICBhcnJheVtoZWFkXSA9IGl0ZW07CiAgICB9CiAgICBwdWJsaWMgdm9pZCBhZGRMYXN0KEl0ZW0gaXRlbSkgICAgICAgICAgIC8vIGFkZCB0aGUgaXRlbSB0byB0aGUgZW5kCiAgICB7CiAgICAgICAgYWRkQ2hlY2soaXRlbSk7CiAgICAgICAgYXJyYXlbdGFpbF0gPSBpdGVtOwogICAgICAgIHRhaWwgPSBtb3ZlUHRyKHRhaWwsIDEpOwogICAgfQogICAgcHVibGljIEl0ZW0gcmVtb3ZlRmlyc3QoKSAgICAgICAgICAgICAgICAvLyByZW1vdmUgYW5kIHJldHVybiB0aGUgaXRlbSBmcm9tIHRoZSBmcm9udAogICAgewogICAgICAgIGlmKGlzRW1wdHkoKSkKICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaEVsZW1lbnRFeGNlcHRpb24oKTsKICAgICAgICBJdGVtIHJlcyA9IGFycmF5W2hlYWRdOwogICAgICAgIGFycmF5W2hlYWRdID0gbnVsbDsKICAgICAgICBoZWFkID0gbW92ZVB0cihoZWFkLCAxKTsKICAgICAgICBpZihjYXBhY2l0eSA+IGluaXRTaXplICYmIHNpemUoKSA8PSBjYXBhY2l0eSAvIDQpCiAgICAgICAgICAgIHJlc2l6ZShjYXBhY2l0eSAvIDIpOwogICAgICAgIHJldHVybiByZXM7CiAgICB9CiAgICBwdWJsaWMgSXRlbSByZW1vdmVMYXN0KCkgICAgICAgICAgICAgICAgIC8vIHJlbW92ZSBhbmQgcmV0dXJuIHRoZSBpdGVtIGZyb20gdGhlIGVuZAogICAgewogICAgICAgIGlmKGlzRW1wdHkoKSkKICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaEVsZW1lbnRFeGNlcHRpb24oKTsKICAgICAgICBJdGVtIHJlcyA9IGFycmF5W3RhaWxdOwogICAgICAgIGFycmF5W3RhaWxdID0gbnVsbDsKICAgICAgICB0YWlsID0gbW92ZVB0cih0YWlsLCAtMSk7CiAgICAgICAgaWYoY2FwYWNpdHkgPiBpbml0U2l6ZSAmJiBzaXplKCkgPD0gY2FwYWNpdHkgLyA0KQogICAgICAgICAgICByZXNpemUoY2FwYWNpdHkgLyAyKTsKICAgICAgICByZXR1cm4gcmVzOwogICAgfQogICAgcHVibGljIEl0ZXJhdG9yPEl0ZW0+IGl0ZXJhdG9yKCkgICAgICAgICAvLyByZXR1cm4gYW4gaXRlcmF0b3Igb3ZlciBpdGVtcyBpbiBvcmRlciBmcm9tIGZyb250IHRvIGVuZAogICAgewogICAgICAgIHJldHVybiBuZXcgSXRlcmF0b3I8SXRlbT4oKSB7CiAgICAgICAgICAgIGludCBwdHIgPSBoZWFkOwogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaGFzTmV4dCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBwdHIgIT0gdGFpbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBJdGVtIG5leHQoKSB7CiAgICAgICAgICAgICAgICBJdGVtIHJlcyA9IGFycmF5W3B0cl07CiAgICAgICAgICAgICAgICBwdHIgPSBtb3ZlUHRyKHB0ciwgMSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzOwogICAgICAgICAgICB9CiAgICAgICAgfTsKICAgIH0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpICAgLy8gdW5pdCB0ZXN0aW5nIChvcHRpb25hbCkKICAgIHsKCgogICAgICAgIERlcXVlPEludGVnZXI+IGRlcXVlID0gbmV3IERlcXVlPD4oKTsKICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgMTAwOyBpKyspCiAgICAgICAgICAgIGlmKGkgJSAyID09IDApCiAgICAgICAgICAgICAgICBkZXF1ZS5hZGRGaXJzdChpKTsKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgZGVxdWUuYWRkTGFzdChpKTsKICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNDA7IGkrKykgewogICAgICAgICAgICBkZXF1ZS5yZW1vdmVMYXN0KCk7CiAgICAgICAgICAgIGRlcXVlLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgfQoKICAgICAgICBmb3IoaW50IGkgOiBkZXF1ZSkKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChTdHJpbmcudmFsdWVPZihpKSArICIgIiApOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiXG4iICsgU3RyaW5nLnZhbHVlT2YoZGVxdWUuY2FwYWNpdHkpKTsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FubmVyIHRlc3QgPSBuZXcgU2Nhbm5lcigiTGFiMiIgKyBGaWxlLnNlcGFyYXRvckNoYXIgKyAicmVzb3VyY2UiICsgRmlsZS5zZXBhcmF0b3JDaGFyICsgYXJndlsxXSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdGRJbi4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZShTdGRJbi5yZWFkU3RyaW5nKCkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gU3RkSW4ucmVhZFN0cmluZygpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHRlc3QgPSBuZXcgU2Nhbm5lcigiTGFiMiIgKyBGaWxlLnNlcGFyYXRvckNoYXIgKyAicmVzb3VyY2UiICsgRmlsZS5zZXBhcmF0b3JDaGFyICsgYXJndlsxXSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdGRJbi4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZShTdGRJbi5yZWFkU3RyaW5nKCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgamF2YS51dGlsLkl0ZXJhdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gU3RkSW4ucmVhZFN0cmluZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
