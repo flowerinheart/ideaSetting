@@ -210,11 +210,11 @@
       <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" timestamp="1483942343645">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" timestamp="1483943247533">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" timestamp="1481976761959">
         <mark key="'" line="328" column="7" />
@@ -974,7 +974,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobmV3U2l6ZSA+IHRhaWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NativeSystemLAPACKWrapper.Record</text>
@@ -986,31 +986,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oZnJvbS50b1N0cmluZyArICIgICAgIiArIGVuZC50b1N0cmluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobmV3U2l6ZSA+IHRhaWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXBhY2l0eSA9IG5ld1NpemU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtLmMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgTnVsbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZihpdGVtID09IG51bGwpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobmV3U2l6ZSA+IHRhaWwpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIERlcXVlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
