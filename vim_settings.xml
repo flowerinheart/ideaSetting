@@ -281,6 +281,11 @@
       <file name="H:/Desktop/project/netlib-java/core/pom.xml" timestamp="1483440393509">
         <mark key="'" line="89" column="45" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1484384025465">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1481273095425">
         <mark key="'" line="257" column="6" />
       </file>
@@ -325,11 +330,12 @@
       <file name="$USER_HOME$/IdeaProjects/netlib-java/core/target/generated-sources/netlib-java/com/github/fommil/netlib/F2jARPACK.java" timestamp="1482985231226">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1484380847592">
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1484383742231">
+        <mark key="'" line="66" column="5" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="98" column="2" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/com/github/fommil/netlib/ARPACK.class" timestamp="1481493606674">
         <mark key="'" line="12" column="22" />
@@ -905,7 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/core/target/classes/com/github/fommil/netlib/BLAS.class" />
       <jump line="67" column="32" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
       <jump line="87" column="18" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemARPACKWrapper.java" />
@@ -1005,10 +1010,11 @@
       <jump line="54" column="76" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="25" column="13" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
       <jump line="24" column="13" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
+      <jump line="61" column="5" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelCountChange.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmKG1vbmV5IDwgMCkK</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -1020,31 +1026,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKG1vbmV5IDwgMCkK</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgMAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRvdGFsQ29pbnNUaHJlc2hvbGQoYWxsQ29pbnMubGVuZ3RoKShtb25leSwgY29pbnMpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAobW9uZXksIGNvaW5zKSA9PiBtb25leVRocmVzaG9sZChzdGFydGluZ01vbmV5KShtb25leSwgY29pbnMpIHx8Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAwCg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYobW9uZXkgPCAwKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">ICBuZXcgVGhyZXNob2xkewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
