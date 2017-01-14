@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1482877877797">
         <mark key="'" line="243" column="2" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1484390624750">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" timestamp="1481698471839">
         <mark key="'" line="959" column="52" />
       </file>
@@ -1016,7 +1022,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -1028,31 +1034,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnKScgPT4gY291bnQgLT0gMQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnKCcgPT4gY291bnQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnKScgPT4gY291bnQgLT0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYXJzLnNsaWNlKCkuZm9yZWFjaCgoYykgPT5jIG1hdGNoIHsK</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnKCcgPT4gY291bnQgKz0gMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJzLnNsaWNlKCkuZm9yZWFjaCgoYykgPT5jIG1hdGNoIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
