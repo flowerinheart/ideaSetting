@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1482877877797">
         <mark key="'" line="243" column="2" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1484393152737">
-        <mark key="[" line="86" column="58" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="77" column="16" />
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1484394988839">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="126" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/Vectors.scala" timestamp="1481698471839">
         <mark key="'" line="959" column="52" />
@@ -919,9 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="3" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="61" column="15" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="32" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="208" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="34" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="47" column="80" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
@@ -1019,10 +1016,13 @@
       <jump line="81" column="10" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
       <jump line="64" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
       <jump line="100" column="28" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
+      <jump line="100" column="47" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
+      <jump line="108" column="3" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
+      <jump line="61" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">MTI3IGxpbmVzICgxMDggc2xvYykgIDMuNzYgS0IK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -1034,31 +1034,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">MTI3IGxpbmVzICgxMDggc2xvYykgIDMuNzYgS0IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBSYXdCbGFtZUhpc3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">MSBjb250cmlidXRvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">QHJlaW5ubyByZWlubm8gZXggcmVkdWN0aW9uIDR0aCBjb21taXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlucHV0Lgo=</text>
+        <text encoding="base64">ZjNkNzNhZiAgb24gNiBKdW4gMjAxNgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBCcmFuY2g6IG1hc3RlciBGaW5kIGZpbGUgQ29weSBwYXRoY291cnNlcmEtcGFycHJvZy9yZWR1Y3Rpb25zL3NyYy9tYWluL3NjYWxhL3JlZHVjdGlvbnMvTGluZU9mU2lnaHQuc2NhbGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">Q29kZSAgSXNzdWVzIDAgIFB1bGwgcmVxdWVzdHMgMCAgUHJvamVjdHMgMCAgV2lraSAgUHVsc2UgIEdyYXBocwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">Rm9yayAxIHJlaW5uby9jb3Vyc2VyYS1wYXJwcm9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">U3RhciAyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
