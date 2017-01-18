@@ -585,6 +585,9 @@
       <file name="H:/learning/course/大四上/scala函数式/job/patmat/build.sbt" timestamp="1480772607640">
         <mark key="'" line="18" column="15" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" timestamp="1484707501462">
+        <mark key="'" line="38" column="33" />
+      </file>
       <file name="$USER_HOME$/.m2/repository/org/alluxio/alluxio-core-common/1.3.0/alluxio-core-common-1.3.0.jar!/alluxio/thrift/FileInfo.class" timestamp="1479973248646">
         <mark key="'" line="377" column="111" />
       </file>
@@ -672,6 +675,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/common/DataGen/src/main/java/GetSparkMetrics.java" timestamp="1480410110279">
         <mark key="'" line="80" column="6" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1484707875358">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="45" />
+        <mark key="." line="48" column="45" />
+        <mark key="^" line="48" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/ml/regression/LinearRegression.scala" timestamp="1481493753690">
         <mark key="'" line="49" column="0" />
@@ -926,7 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="H:/Desktop/project/netlib-java/bin/install.sh" />
       <jump line="40" column="36" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLASWrapper.java" />
       <jump line="66" column="0" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLASWrapper.java" />
       <jump line="350" column="0" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLASWrapper.java" />
@@ -1026,10 +1034,11 @@
       <jump line="61" column="26" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
       <jump line="65" column="17" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
       <jump line="48" column="33" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
+      <jump line="38" column="33" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MTI3IGxpbmVzICgxMDggc2xvYykgIDMuNzYgS0IK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -1041,31 +1050,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTI3IGxpbmVzICgxMDggc2xvYykgIDMuNzYgS0IK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBSYXdCbGFtZUhpc3RvcnkK</text>
+        <text encoding="base64">MTI3IGxpbmVzICgxMDggc2xvYykgIDMuNzYgS0IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MSBjb250cmlidXRvcgo=</text>
+        <text encoding="base64">ICBSYXdCbGFtZUhpc3RvcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHJlaW5ubyByZWlubm8gZXggcmVkdWN0aW9uIDR0aCBjb21taXQK</text>
+        <text encoding="base64">MSBjb250cmlidXRvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZjNkNzNhZiAgb24gNiBKdW4gMjAxNgo=</text>
+        <text encoding="base64">QHJlaW5ubyByZWlubm8gZXggcmVkdWN0aW9uIDR0aCBjb21taXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBCcmFuY2g6IG1hc3RlciBGaW5kIGZpbGUgQ29weSBwYXRoY291cnNlcmEtcGFycHJvZy9yZWR1Y3Rpb25zL3NyYy9tYWluL3NjYWxhL3JlZHVjdGlvbnMvTGluZU9mU2lnaHQuc2NhbGEK</text>
+        <text encoding="base64">ZjNkNzNhZiAgb24gNiBKdW4gMjAxNgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29kZSAgSXNzdWVzIDAgIFB1bGwgcmVxdWVzdHMgMCAgUHJvamVjdHMgMCAgV2lraSAgUHVsc2UgIEdyYXBocwo=</text>
+        <text encoding="base64">ICBCcmFuY2g6IG1hc3RlciBGaW5kIGZpbGUgQ29weSBwYXRoY291cnNlcmEtcGFycHJvZy9yZWR1Y3Rpb25zL3NyYy9tYWluL3NjYWxhL3JlZHVjdGlvbnMvTGluZU9mU2lnaHQuc2NhbGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rm9yayAxIHJlaW5uby9jb3Vyc2VyYS1wYXJwcm9nCg==</text>
+        <text encoding="base64">Q29kZSAgSXNzdWVzIDAgIFB1bGwgcmVxdWVzdHMgMCAgUHJvamVjdHMgMCAgV2lraSAgUHVsc2UgIEdyYXBocwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U3RhciAyCg==</text>
+        <text encoding="base64">Rm9yayAxIHJlaW5uby9jb3Vyc2VyYS1wYXJwcm9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
