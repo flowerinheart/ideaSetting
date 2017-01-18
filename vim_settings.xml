@@ -121,6 +121,9 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" timestamp="1484717790073">
+        <mark key="'" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/pom.xml" timestamp="1480660434253">
         <mark key="'" line="230" column="0" />
       </file>
@@ -934,10 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLASWrapper.java" />
-      <jump line="350" column="0" filename="H:/Desktop/project/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLASWrapper.java" />
-      <jump line="168" column="42" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="2" column="0" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="44" column="38" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="66" column="61" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
       <jump line="121" column="9" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
@@ -1034,6 +1033,10 @@
       <jump line="48" column="33" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
       <jump line="38" column="33" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
       <jump line="204" column="9" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
+      <jump line="77" column="35" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
+      <jump line="6" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
+      <jump line="29" column="53" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
+      <jump line="0" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1043,7 +1046,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>without</text>
+        <text>kmeans</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
@@ -1080,9 +1083,9 @@
       </register>
     </registers>
     <search>
-      <last-search>without</last-search>
+      <last-search>kmeans</last-search>
       <last-offset />
-      <last-pattern>without</last-pattern>
+      <last-pattern>kmeans</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,8 +1093,6 @@
     </search>
     <history>
       <history-search>
-        <entry>module</entry>
-        <entry>IMPLS</entry>
         <entry>PROPERTY_KEY</entry>
         <entry>load</entry>
         <entry>instance</entry>
@@ -1110,6 +1111,8 @@
         <entry>Counter</entry>
         <entry>toTu</entry>
         <entry>without</entry>
+        <entry>kmean</entry>
+        <entry>kmeans</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
