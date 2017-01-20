@@ -294,12 +294,12 @@
       <file name="H:/Desktop/project/netlib-java/core/pom.xml" timestamp="1483440393509">
         <mark key="'" line="89" column="45" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1484389504713">
-        <mark key="'" line="100" column="28" />
-        <mark key="[" line="81" column="10" />
-        <mark key="]" line="81" column="5" />
-        <mark key="^" line="81" column="5" />
-        <mark key="." line="81" column="5" />
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1484910574499">
+        <mark key="'" line="39" column="7" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/ml/clustering/KMeans.scala" timestamp="1481273095425">
         <mark key="'" line="257" column="6" />
@@ -327,6 +327,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481252291714">
         <mark key="'" line="437" column="6" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" timestamp="1484911389820">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/data/mllib/gmm_data.txt" timestamp="1482291791714">
         <mark key="'" line="8" column="25" />
       </file>
@@ -338,6 +344,9 @@
       </file>
       <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/common/package.scala" timestamp="1482572407598">
         <mark key="'" line="40" column="0" />
+      </file>
+      <file name="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Iterator.scala" timestamp="1484911159060">
+        <mark key="'" line="850" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-bench-old/SVDPlusPlus/src/main/scala/SVDPlusPlusApp.scala" timestamp="1481862677822">
         <mark key="'" line="68" column="46" />
@@ -367,6 +376,9 @@
         <mark key="]" line="28" column="52" />
         <mark key="^" line="28" column="52" />
         <mark key="." line="28" column="52" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/BufferedReader.java" timestamp="1484910555420">
+        <mark key="'" line="143" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java-1.1.1/pom.xml" timestamp="1482878731919">
         <mark key="'" line="64" column="19" />
@@ -478,6 +490,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/serializer/JavaSerializer.scala" timestamp="1481164274555">
         <mark key="'" line="117" column="26" />
+      </file>
+      <file name="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" timestamp="1484910624918">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/pom.xml" timestamp="1480562579325">
         <mark key="'" line="51" column="0" />
@@ -945,16 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="11" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="60" column="15" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="65" column="11" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="129" column="10" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="133" column="8" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="137" column="6" filename="H:/Desktop/project/netlib-java/generator/src/main/resources/com/github/fommil/netlib/generator/netlib-java.stg" />
-      <jump line="59" column="8" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
-      <jump line="36" column="22" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
-      <jump line="63" column="0" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
-      <jump line="62" column="0" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
       <jump line="235" column="35" filename="H:/Desktop/project/netlib-java/native_system/pom.xml" />
       <jump line="13" column="104" filename="H:/Desktop/project/netlib-java/bin/install.sh" />
       <jump line="39" column="50" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
@@ -1045,55 +1050,65 @@
       <jump line="41" column="2" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" />
       <jump line="20" column="31" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/KMeans.scala" />
       <jump line="0" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" />
+      <jump line="9" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" />
+      <jump line="143" column="30" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/BufferedReader.java" />
+      <jump line="38" column="7" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
+      <jump line="65" column="38" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
+      <jump line="37" column="0" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
+      <jump line="45" column="28" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
+      <jump line="11" column="0" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
+      <jump line="848" column="22" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Iterator.scala" />
+      <jump line="850" column="8" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Iterator.scala" />
+      <jump line="13" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHlvdXIgaW1wbGVtZW50YXRpb24gbmVlZCB0byBiZSB0YWlsIHJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">ICB0LmJ1ZmZlcmVkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>kM</text>
+        <text>head</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHlvdXIgaW1wbGVtZW50YXRpb24gbmVlZCB0byBiZSB0YWlsIHJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">ICB0LmJ1ZmZlcmVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25zID0gY29udmVyZ2VkKGV0YSkK</text>
+        <text encoding="base64">ICB2YWwgdCA9IGlvLlNvdXJjZS5mcm9tU3RyaW5nKCJmc2ZzIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICAiZnNmc2ZzIi5zcGxpdCgiZnMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2UK</text>
+        <text encoding="base64">ICB2YWwgdCA9IGlvLlNvdXJjZS5mcm9tU3RyaW5nKCJmc2ZzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYob2xkTWVhbnMoaSkuc3F1YXJlRGlzdGFuY2UobmV3TWVhbnMoaSkpID4gZXRhKQo=</text>
+        <text encoding="base64">ICAiZnNmc2ZzIi5zcGxpdCgiZnMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcihpIDwtIDAgdW50aWwob2xkTWVhbnMubGVuZ3RoKSkK</text>
+        <text encoding="base64">dmFsIHQgPSBTb3VyY2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHlvdXIgaW1wbGVtZW50YXRpb24gbmVlZCB0byBiZSB0YWlsIHJlY3Vyc2l2ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25zID0gY29udmVyZ2VkKGV0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaSA8LSBSYW5nZShvbGRNZWFucy5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kM</last-search>
+      <last-search>head</last-search>
       <last-offset />
-      <last-pattern>kM</last-pattern>
+      <last-pattern>head</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,8 +1116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>instance</entry>
-        <entry>FACE</entry>
         <entry>wraper</entry>
         <entry>wrap</entry>
         <entry>face</entry>
@@ -1121,6 +1134,8 @@
         <entry>index</entry>
         <entry>kmean</entry>
         <entry>kM</entry>
+        <entry>buffer</entry>
+        <entry>head</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
