@@ -18,6 +18,12 @@
         <mark key="." line="69" column="25" />
         <mark key="^" line="69" column="25" />
       </file>
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" timestamp="1485577209459">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" timestamp="1481701898959">
         <mark key="'" line="118" column="0" />
       </file>
@@ -110,11 +116,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
         <mark key="'" line="184" column="18" />
       </file>
-      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485572522735">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="7" column="0" />
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485576915829">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Permutation.java" timestamp="1483959689994">
         <mark key="[" line="15" column="48" />
@@ -976,8 +983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" />
-      <jump line="3" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" />
       <jump line="45" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" />
       <jump line="1" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/ttt.sc" />
       <jump line="6" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/ttt.sc" />
@@ -1076,10 +1081,12 @@
       <jump line="67" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
       <jump line="109" column="7" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
       <jump line="69" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" />
+      <jump line="8" column="27" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
+      <jump line="29" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VnbWVudHM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -1088,34 +1095,34 @@
         <text>head</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG51bWJlciA9IDA7CiAgICBwcml2YXRlIExpbmVTZWdtZW50W10gc2VnbWVudHMgPSBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VnbWVudHM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJydXRlQ29sbGluZWFyUG9pbnRzIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBEYXJuZWxsIG9uIDIwMTcvMS8yOC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEZhc3RDb2xsaW5lYXJQb2ludHMgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpbmVTZWdtZW50IHsK</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50cyA9IChMaW5lU2VnbWVudFtdKXNlZ21lbnRMaXN0LnRvQXJyYXkoKTsKICAgICAgICBudW1iZXIgPSBzZWdtZW50TGlzdC5zaXplKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG51bWJlcisrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
