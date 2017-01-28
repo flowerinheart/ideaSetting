@@ -12,11 +12,12 @@
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" timestamp="1484388030562">
         <mark key="'" line="41" column="6" />
       </file>
-      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" timestamp="1485588506487">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" timestamp="1485590595512">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="39" column="76" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="92" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/multi-run.sh" timestamp="1481701898959">
         <mark key="'" line="118" column="0" />
@@ -105,8 +106,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
         <mark key="'" line="184" column="18" />
       </file>
-      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485586948530">
-        <mark key="'" line="22" column="52" />
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485590292180">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="31" />
         <mark key="." line="63" column="0" />
@@ -915,13 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="63" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/resource/tale.txt" />
-      <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="58" column="29" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="53" column="39" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="35" column="15" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="74" column="5" filename="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java" />
-      <jump line="120" column="27" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" />
       <jump line="116" column="24" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" />
       <jump line="21" column="4" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/RandomizedQueue.java" />
       <jump line="60" column="22" filename="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/RandomizedQueue.java" />
@@ -1015,13 +1009,20 @@
       <jump line="17" column="52" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
       <jump line="30" column="8" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
       <jump line="80" column="17" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
+      <jump line="62" column="30" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
+      <jump line="101" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
+      <jump line="0" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
+      <jump line="37" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
+      <jump line="84" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
+      <jump line="1" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
+      <jump line="10" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoU2V0PExpbmVTZWdtZW50PiBzZXQgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BruteCollinearPoints</text>
       </register>
       <register name="-" type="4">
-        <text>points.length - i - 1</text>
+        <text>BruteCollinearPoints</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
@@ -1030,31 +1031,31 @@
         <text encoding="base64">ICAgICAgICBCcnV0ZUNvbGxpbmVhclBvaW50cyBjb2xsaW5lYXIgPSBuZXcgQnJ1dGVDb2xsaW5lYXJQb2ludHMocG9pbnRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoU2V0PExpbmVTZWdtZW50PiBzZXQgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCcnV0ZUNvbGxpbmVhclBvaW50cyBjb2xsaW5lYXIgPSBuZXcgQnJ1dGVDb2xsaW5lYXJQb2ludHMocG9pbnRzKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHkgLSB0aGF0LnkpIC8gKHggLSB0aGF0LngpOwo=</text>
+        <text encoding="base64">ICAgICAgICA2OCBsaW5lcyAoNTUgc2xvYykgIDIuMjEgS0IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYXdCbGFtZUhpc3RvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIERvdWJsZS5QT1NJVElWRV9JTkZJTklUWTsK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZih4ID09IHRoYXQueCkK</text>
+        <text encoding="base64">ICAgICAgICA2OCBsaW5lcyAoNTUgc2xvYykgIDIuMjEgS0IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIERvdWJsZS5ORUdBVElWRV9JTkZJTklUWTsK</text>
+        <text encoding="base64">ICAgICAgICBSYXdCbGFtZUhpc3RvcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb21wYXJlVG8odGhhdCkgPT0gMCkK</text>
+        <text encoding="base64">ICAgICAgICAxIGNvbnRyaWJ1dG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">QEFsZXhKb3ogQWxleEpveiAxMDAvMTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
