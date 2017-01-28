@@ -37,11 +37,6 @@
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/generated-sources/netlib-java/com/github/fommil/netlib/NativeSystemLAPACKWrapper.java" timestamp="1482986994682">
         <mark key="'" line="2189" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Permutation.java" timestamp="1483953538811">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/clustering/BisectingKMeans.scala" timestamp="1482298716468">
         <mark key="'" line="281" column="6" />
       </file>
@@ -114,6 +109,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1480902887087">
         <mark key="'" line="184" column="18" />
+      </file>
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485572522735">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Permutation.java" timestamp="1483959689994">
         <mark key="[" line="15" column="48" />
@@ -228,6 +229,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
+      </file>
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" timestamp="1485572077209">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/main/java/test/Tools.java" timestamp="1480043440878">
         <mark key="'" line="86" column="42" />
@@ -423,6 +431,13 @@
       <file name="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1483411584040">
         <mark key="'" line="1029" column="15" />
       </file>
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" timestamp="1485571953921">
+        <mark key="'" line="109" column="7" />
+        <mark key="[" line="109" column="9" />
+        <mark key="]" line="109" column="9" />
+        <mark key="." line="109" column="10" />
+        <mark key="^" line="109" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/com/skydata/spark/benchmark/metrics/spark-events/日志模板" timestamp="1480488419547">
         <mark key="'" line="9" column="18" />
         <mark key="[" line="22" column="67" />
@@ -506,9 +521,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lenskit/lenskit-core/3.0-M1/221a0ebce5ae7579cc61819962d54ef3816c795/lenskit-core-3.0-M1-sources.jar!/org/lenskit/basic/AbstractItemRecommender.java" timestamp="1480900651503">
         <mark key="'" line="93" column="51" />
-      </file>
-      <file name="/fragment.java" timestamp="1483953308613">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib-local/src/main/scala/org/apache/spark/ml/linalg/Vectors.scala" timestamp="1481496006194">
         <mark key="'" line="25" column="37" />
@@ -964,11 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="50" filename="H:/Desktop/project/netlib-java/Tools/src/main/java/com/github/fommil/netlib/Tools.java" />
-      <jump line="437" column="13" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
-      <jump line="24" column="42" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
-      <jump line="122" column="19" filename="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/classification/LogisticRegression.scala" />
-      <jump line="273" column="60" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
       <jump line="23" column="12" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.10/1.6.1/spark-mllib_2.10-1.6.1-sources.jar!/org/apache/spark/mllib/feature/StandardScaler.scala" />
       <jump line="3" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" />
       <jump line="45" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/scalashop/package.scala" />
@@ -1064,10 +1071,15 @@
       <jump line="13" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" />
       <jump line="529" column="25" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/ClassLoader.java" />
       <jump line="1865" column="25" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/ClassLoader.java" />
+      <jump line="115" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
+      <jump line="53" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
+      <jump line="67" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
+      <jump line="109" column="7" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
+      <jump line="69" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSA=</text>
@@ -1079,31 +1091,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuIiArIFN0cmluZy52YWx1ZU9mKGRlcXVlLnNpemUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0LmJ1ZmZlcmVkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgdCA9IGlvLlNvdXJjZS5mcm9tU3RyaW5nKCJmc2ZzIikK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJydXRlQ29sbGluZWFyUG9pbnRzIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZnNmc2ZzIi5zcGxpdCgiZnMiKQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgdCA9IGlvLlNvdXJjZS5mcm9tU3RyaW5nKCJmc2ZzIikK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBEYXJuZWxsIG9uIDIwMTcvMS8yOC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZnNmc2ZzIi5zcGxpdCgiZnMiKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIHQgPSBTb3VyY2UuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHlvdXIgaW1wbGVtZW50YXRpb24gbmVlZCB0byBiZSB0YWlsIHJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExpbmVTZWdtZW50IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25zID0gY29udmVyZ2VkKGV0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1148,13 +1160,13 @@
         <entry>87m90s/out.println/.append/g</entry>
         <entry>87,90s/out.println/.append/g</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>wq</entry>
         <entry>46,71s/FACE/face/g</entry>
         <entry>46,71s/FACE/$face$/g</entry>
         <entry>60,71s/width/height/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
