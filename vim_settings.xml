@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/IdeaProjects/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/BLAS.scala" timestamp="1482877877797">
         <mark key="'" line="243" column="2" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/pom.xml" timestamp="1487660368726">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1484396288905">
         <mark key="'" line="11" column="14" />
         <mark key="[" line="0" column="0" />
@@ -1048,7 +1054,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -1060,31 +1066,31 @@
         <text encoding="base64">ICAgIHZhbCBzdGF0RGlyID0gQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSkubWtTdHJpbmcoRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsK</text>
+        <text encoding="base64">ICAgICAgICA8c2NhbGEudmVyc2lvbj4yLjExPC9zY2FsYS52ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My44LjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBib29sZWFuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzaW5nZXJQcmludGVyLgo=</text>
+        <text encoding="base64">ICAgIDx1cmw+aHR0cDovL21hdmVuLmFwYWNoZS5vcmc8L3VybD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
