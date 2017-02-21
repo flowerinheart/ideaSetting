@@ -47,12 +47,12 @@
       <file name="C:/software/dev/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Traversable.scala" timestamp="1480748782969">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" timestamp="1487657524157">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="11" column="109" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" timestamp="1487658407999">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="67" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala" timestamp="1481130009233">
         <mark key="'" line="216" column="10" />
@@ -583,6 +583,11 @@
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/lib/algs4.jar!/edu/princeton/cs/algs4/QuickUnionUF.java" timestamp="1481466619970">
         <mark key="'" line="93" column="19" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/PCABenchmark.scala" timestamp="1487658931388">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="122" column="8" />
@@ -940,10 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="10" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="82" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="93" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
-      <jump line="98" column="12" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="103" column="12" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="111" column="12" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="116" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
@@ -1040,10 +1041,14 @@
       <jump line="110" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/Simulator.scala" />
       <jump line="14" column="4" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
       <jump line="32" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
+      <jump line="12" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
+      <jump line="15" column="3" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
+      <jump line="41" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
+      <jump line="19" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihBcnJheSgiLi4iLCAicmVzdWx0IiwgbW9kZWxOYW1lKS5ta1N0cmluZyhGaWxlLnNlcGFyYXRvckNoYXIudG9TdHJpbmcpKQogICAgdmFsIHNpbmdlclByaW50ZXIgPSBuZXcgUHJpbnRXcml0ZXIoQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSkubWtTdHJpbmcoRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKSkK</text>
+        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -1055,31 +1060,31 @@
         <text encoding="base64">ICAgIHZhbCBzdGF0RGlyID0gQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSkubWtTdHJpbmcoRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihBcnJheSgiLi4iLCAicmVzdWx0IiwgbW9kZWxOYW1lKS5ta1N0cmluZyhGaWxlLnNlcGFyYXRvckNoYXIudG9TdHJpbmcpKQogICAgdmFsIHNpbmdlclByaW50ZXIgPSBuZXcgUHJpbnRXcml0ZXIoQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSkubWtTdHJpbmcoRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKSkK</text>
+        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihzdGF0RGlyLCApCg==</text>
+        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdCgpIDogVW5pdCA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0RGlyID0gQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSkubWtTdHJpbmcoRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKQogICAgdmFsIHNpbmdlckRpciA9IEFycmF5KCIuLiIsICJyZXN1bHQiLCBtb2RlbE5hbWUpLm1rU3RyaW5nKEZpbGUuc2VwYXJhdG9yQ2hhci50b1N0cmluZykKICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihzdGF0RGlyLCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWluRGlyID0gIi4uIgo=</text>
+        <text encoding="base64">ICBib29sZWFuIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0aXN0aWNzUHJpbnRlciA9IGRpciArIGphdmEuaW8uRmlsZS5zZXBhcmF0b3JDaGFyICsgInN0YXRpc3RpY3MuY3N2IjsK</text>
+        <text encoding="base64">ICBkZWYgaW5pdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obmV3IGphdmEuaW8uRmlsZSgiLiIpLmdldEFic29sdXRlUGF0aCkK</text>
+        <text encoding="base64">ICBzaW5nZXJQcmludGVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
