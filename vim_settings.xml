@@ -53,12 +53,10 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" timestamp="1487742944714">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="20" column="140" />
-        <mark key="]" line="20" column="140" />
-        <mark key="^" line="20" column="140" />
-        <mark key="." line="20" column="140" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" timestamp="1487753506616">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483410613220">
         <mark key="'" line="0" column="0" />
@@ -223,8 +221,11 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" timestamp="1487752317416">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" timestamp="1487753323613">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
         <mark key="'" line="24" column="30" />
@@ -239,6 +240,13 @@
         <mark key="]" line="22" column="61" />
         <mark key="." line="22" column="61" />
         <mark key="^" line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" timestamp="1487753531486">
+        <mark key="'" line="117" column="7" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="71" />
+        <mark key="^" line="258" column="0" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" timestamp="1480048569439">
         <mark key="'" line="11" column="22" />
@@ -426,10 +434,9 @@
         <mark key="^" line="98" column="2" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/Kmeans_env.sh" timestamp="1487751089815">
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/Kmeans_env.sh" timestamp="1487753524627">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="71" />
-        <mark key="^" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482990420493">
@@ -652,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
       <jump line="42" column="20" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
       <jump line="45" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
       <jump line="10" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
@@ -752,10 +758,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/.gitignore" />
       <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" />
       <jump line="94" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
+      <jump line="117" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFycmF5KCIxLCIsICIyIikK</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vLi4vYmVuY2htYXJrcy90YXJnZXQvc3BhcmsuYmVuY2htYXJrcy0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -767,31 +774,31 @@
         <text encoding="base64">LiAiJHtESVJ9L2NvbmZpZy5zaCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFycmF5KCIxLCIsICIyIikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEFycmF5KCIxLCIsICIyIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEttZWFuc0RhdGFHZW4ucnVuKEFycmF5KGFyZ3NbM10sIGFyZ3NbMF0sICxhcmdzWzRdLCBhcmdzWzVdLCBhcmdzWzZdLCBhcmdzWzddKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBudW1DbHVzdGVyID0gYXJncygyKS50b0ludAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoue0xldmVsLCBMb2dnZXJ9CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLnV0aWwuS01lYW5zRGF0YUdlbmVyYXRvcgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay57U3BhcmtDb25mLCBTcGFya0NvbnRleHR9CgpvYmplY3QgS21lYW5zRGF0YUdlbiB7CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnLmFwYWNoZS5zcGFyayIpLnNldExldmVsKExldmVsLldBUk4pOwogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnLmVjbGlwc2UuamV0dHkuc2VydmVyIikuc2V0TGV2ZWwoTGV2ZWwuT0ZGKTsKICAgIGlmIChhcmdzLmxlbmd0aCA8IDUpIHsKICAgICAgcHJpbnRsbigidXNhZ2U6IDxvdXRwdXQ+IDxudW1Qb2ludHM+IDxudW1DbHVzdGVycz4gPGRpbWVuc3Rpb24+IDxzY2FsaW5nIGZhY3Rvcj4gW251bXBhcl0iKQogICAgICBTeXN0ZW0uZXhpdCgwKQogICAgfQogICAgdmFsIGNvbmYgPSBuZXcgU3BhcmtDb25mCiAgICBjb25mLnNldEFwcE5hbWUoIlNwYXJrIEtNZWFucyBEYXRhR2VuIikKICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKCiAgICB2YWwgb3V0cHV0ID0gYXJncygwKQogICAgdmFsIG51bVBvaW50ID0gYXJncygxKS50b0ludAogICAgdmFsIG51bUNsdXN0ZXIgPSBhcmdzKDIpLnRvSW50CiAgICB2YWwgbnVtRGltID0gYXJncygzKS50b0ludAogICAgdmFsIHNjYWxpbmcgPSBhcmdzKDQpLnRvRG91YmxlCiAgICB2YWwgZGVmUGFyID0gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgic3BhcmsuZGVmYXVsdC5wYXJhbGxlbGlzbSIpID09IG51bGwpIDIgZWxzZSBTeXN0ZW0uZ2V0UHJvcGVydHkoInNwYXJrLmRlZmF1bHQucGFyYWxsZWxpc20iKS50b0ludAogICAgdmFsIG51bVBhciA9IGlmIChhcmdzLmxlbmd0aCA+IDUpIGFyZ3MoNSkudG9JbnQgZWxzZSBkZWZQYXIKCiAgICB2YWwgZGF0YSA9IEtNZWFuc0RhdGFHZW5lcmF0b3IuZ2VuZXJhdGVLTWVhbnNSREQoc2MsIG51bVBvaW50LCBudW1DbHVzdGVyLCBudW1EaW0sIHNjYWxpbmcsIG51bVBhcikKICAgIGRhdGEubWFwKF8ubWtTdHJpbmcoIiAiKSkuc2F2ZUFzVGV4dEZpbGUob3V0cHV0KQoKICAgIHNjLnN0b3AoKTsKICB9Cgp9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">SkFSPSIke0RJUn0vLi4vYmVuY2htYXJrcy90YXJnZXQvc3BhcmsuYmVuY2htYXJrcy0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZWNob19hbmRfcnVuIHNoIC1jICIgJHtTUEFSS19IT01FfS9iaW4vc3Bhcmstc3VibWl0IC0tbmFtZSAke0NMQVNTfSAtLWNsYXNzICR7Q0xBU1N9IC0tbWFzdGVyICR7U1BBUktfTUFTVEVSfSAke1lBUk5fT1BUfSAke1NQQVJLX09QVH0gJHtKQVJ9ICR7T1BUSU9OfSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I1JNICR7T1VUUFVUX0hERlN9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyByZW1vdmUgZGF0YSBmaWxlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
