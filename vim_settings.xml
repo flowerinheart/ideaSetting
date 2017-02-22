@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" timestamp="1480656796352">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-        <mark key="^" line="12" column="43" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/KMeans/src/main/java/KmeansAppJava.java" timestamp="1481704371754">
         <mark key="'" line="29" column="64" />
         <mark key="[" line="16" column="47" />
@@ -41,6 +34,226 @@
       <file name="/a.dummy" timestamp="1487662298728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/pom.xml" timestamp="1487663337662">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1484396288905">
+        <mark key="'" line="11" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="126" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" timestamp="1487752138259">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="52" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" timestamp="1487742944714">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="20" column="140" />
+        <mark key="]" line="20" column="140" />
+        <mark key="^" line="20" column="140" />
+        <mark key="." line="20" column="140" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483410613220">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="47" />
+        <mark key="^" line="56" column="47" />
+        <mark key="." line="56" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/CallCount.java" timestamp="1482867153825">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" timestamp="1487658407999">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="67" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/PCABenchmark.scala" timestamp="1487658931388">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="122" column="8" />
+        <mark key="]" line="122" column="12" />
+        <mark key="." line="122" column="12" />
+        <mark key="^" line="122" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/GetSparkMetrics2.java" timestamp="1480491543684">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/.gitignore" timestamp="1487740276605">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482989355338">
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="59" column="17" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482980404673">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJavaGenerator.java" timestamp="1482992191545">
+        <mark key="'" line="107" column="11" />
+        <mark key="[" line="94" column="57" />
+        <mark key="]" line="94" column="57" />
+        <mark key="." line="94" column="57" />
+        <mark key="^" line="94" column="57" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/ttt.sc" timestamp="1483770691008">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" timestamp="1482387488476">
+        <mark key="'" line="51" column="59" />
+        <mark key="[" line="55" column="115" />
+        <mark key="]" line="55" column="117" />
+        <mark key="." line="55" column="117" />
+        <mark key="^" line="55" column="117" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/Test.scala" timestamp="1487656361338">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeRegressionExample.scala" timestamp="1487652457464">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/run.sh" timestamp="1481699805701">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="66" column="233" />
+        <mark key="]" line="66" column="231" />
+        <mark key="." line="66" column="231" />
+        <mark key="^" line="66" column="231" />
+      </file>
+      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485590292180">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="30" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/KmeansBenchmark.scala" timestamp="1487662621399">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" timestamp="1483950563026">
+        <mark key="'" line="122" column="24" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="105" column="50" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" timestamp="1481976761959">
+        <mark key="'" line="328" column="7" />
+        <mark key="[" line="147" column="89" />
+        <mark key="]" line="147" column="3" />
+        <mark key="^" line="147" column="3" />
+        <mark key="." line="147" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" timestamp="1482316860281">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+      </file>
+      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/example/src/main/scala/example/Lists.scala" timestamp="1483869119109">
+        <mark key="'" line="26" column="1" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="73" />
+        <mark key="^" line="40" column="73" />
+        <mark key="." line="40" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481777316791">
+        <mark key="'" line="32" column="108" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="25" column="2" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1482288977874">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" timestamp="1481478172492">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" timestamp="1487752317416">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="120" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480669140239">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="22" column="154" />
+        <mark key="]" line="22" column="61" />
+        <mark key="." line="22" column="61" />
+        <mark key="^" line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" timestamp="1480048569439">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" timestamp="1480656796352">
+        <mark key="'" line="12" column="25" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+      </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" timestamp="1483959186121">
         <mark key="'" line="54" column="76" />
         <mark key="[" line="54" column="72" />
@@ -68,30 +281,12 @@
         <mark key="." line="526" column="24" />
         <mark key="^" line="526" column="24" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/pom.xml" timestamp="1487663337662">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" timestamp="1485572077209">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="64" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1484396288905">
-        <mark key="'" line="11" column="14" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="126" column="14" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" timestamp="1487751507599">
-        <mark key="[" line="53" column="69" />
-        <mark key="]" line="53" column="21" />
-        <mark key="^" line="53" column="21" />
-        <mark key="." line="53" column="21" />
       </file>
       <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1482580902824">
         <mark key="'" line="86" column="0" />
@@ -106,13 +301,6 @@
         <mark key="]" line="62" column="50" />
         <mark key="^" line="62" column="50" />
         <mark key="." line="62" column="50" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" timestamp="1487742944714">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="20" column="140" />
-        <mark key="]" line="20" column="140" />
-        <mark key="^" line="20" column="140" />
-        <mark key="." line="20" column="140" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java" timestamp="1481164152296">
         <mark key="'" line="68" column="35" />
@@ -142,13 +330,6 @@
         <mark key="." line="42" column="21" />
         <mark key="^" line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483410613220">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="47" />
-        <mark key="^" line="56" column="47" />
-        <mark key="." line="56" column="47" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1481012743491">
         <mark key="'" line="72" column="6" />
         <mark key="[" line="105" column="0" />
@@ -177,20 +358,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/CallCount.java" timestamp="1482867153825">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-      </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" timestamp="1487658407999">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="45" column="67" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="H:/Desktop/project/netlib-java/native_system/pom.xml" timestamp="1483498949192">
         <mark key="'" line="235" column="35" />
         <mark key="[" line="242" column="56" />
@@ -205,32 +372,6 @@
         <mark key="^" line="144" column="22" />
         <mark key="." line="144" column="22" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/PCABenchmark.scala" timestamp="1487658931388">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="122" column="12" />
-        <mark key="." line="122" column="12" />
-        <mark key="^" line="122" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark/common/src/main/java/GetSparkMetrics2.java" timestamp="1480491543684">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/.gitignore" timestamp="1487740276605">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/Percolation.java" timestamp="1481481303331">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="29" column="0" />
@@ -238,26 +379,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482989355338">
-        <mark key="'" line="87" column="16" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="59" column="17" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" timestamp="1484912285326">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="1" column="16" />
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/java/target/netlib-native/com/github/fommil/netlib/NativeSystemBLAS.java" timestamp="1482980404673">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="49" column="15" />
-        <mark key="^" line="49" column="15" />
-        <mark key="." line="49" column="15" />
       </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/package.scala" timestamp="1486626424074">
         <mark key="'" line="269" column="0" />
@@ -273,37 +400,10 @@
         <mark key="^" line="111" column="70" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJavaGenerator.java" timestamp="1482992191545">
-        <mark key="'" line="107" column="11" />
-        <mark key="[" line="94" column="57" />
-        <mark key="]" line="94" column="57" />
-        <mark key="." line="94" column="57" />
-        <mark key="^" line="94" column="57" />
-      </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab1-scalashop/src/main/scala/ttt.sc" timestamp="1483770691008">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" timestamp="1482387488476">
-        <mark key="'" line="51" column="59" />
-        <mark key="[" line="55" column="115" />
-        <mark key="]" line="55" column="117" />
-        <mark key="." line="55" column="117" />
-        <mark key="^" line="55" column="117" />
-      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" timestamp="1487663345693">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/Test.scala" timestamp="1487656361338">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481697588023">
         <mark key="'" line="29" column="73" />
@@ -319,11 +419,6 @@
         <mark key="^" line="98" column="38" />
         <mark key="." line="98" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeRegressionExample.scala" timestamp="1487652457464">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1484383742231">
         <mark key="'" line="66" column="5" />
         <mark key="[" line="99" column="0" />
@@ -331,25 +426,11 @@
         <mark key="^" line="98" column="2" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/conf/run.sh" timestamp="1481699805701">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="66" column="233" />
-        <mark key="]" line="66" column="231" />
-        <mark key="." line="66" column="231" />
-        <mark key="^" line="66" column="231" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/Kmeans_env.sh" timestamp="1487751089815">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="71" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" timestamp="1485590292180">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="31" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482990420493">
         <mark key="'" line="186" column="83" />
@@ -371,13 +452,6 @@
         <mark key="]" line="221" column="33" />
         <mark key="^" line="221" column="33" />
         <mark key="." line="221" column="33" />
-      </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/KmeansBenchmark.scala" timestamp="1487662621399">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" timestamp="1482306435310">
         <mark key="'" line="42" column="10" />
@@ -414,33 +488,12 @@
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/Lab2/src/Deque.java" timestamp="1483950563026">
-        <mark key="'" line="122" column="24" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="105" column="50" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/breeze/math/src/main/scala/breeze/linalg/NumericOps.scala" timestamp="1481976761959">
-        <mark key="'" line="328" column="7" />
-        <mark key="[" line="147" column="89" />
-        <mark key="]" line="147" column="3" />
-        <mark key="^" line="147" column="3" />
-        <mark key="." line="147" column="3" />
-      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/SparkBenchmark.scala" timestamp="1487662634577">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" timestamp="1482316860281">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/src/test/main/java/TestAlluxio.java" timestamp="1479978159161">
         <mark key="'" line="37" column="0" />
@@ -497,26 +550,12 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/example/src/main/scala/example/Lists.scala" timestamp="1483869119109">
-        <mark key="'" line="26" column="1" />
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="40" column="73" />
-        <mark key="^" line="40" column="73" />
-        <mark key="." line="40" column="73" />
-      </file>
       <file name="H:/learning/course/lv4/scala函数式/函数式/lab/lab2-streams/src/main/scala/streams/Solver.scala" timestamp="1482666582859">
         <mark key="'" line="17" column="20" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="^" line="94" column="33" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481777316791">
-        <mark key="'" line="32" column="108" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="25" column="2" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1487654831037">
         <mark key="[" line="22" column="37" />
@@ -533,13 +572,6 @@
         <mark key="]" line="220" column="108" />
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/pom.xml" timestamp="1482288977874">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1482389420268">
         <mark key="'" line="58" column="6" />
@@ -589,27 +621,6 @@
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/InteractivePercolationVisualizer.java" timestamp="1481478172492">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
-        <mark key="'" line="24" column="30" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="120" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480669140239">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="22" column="154" />
-        <mark key="]" line="22" column="61" />
-        <mark key="." line="22" column="61" />
-        <mark key="^" line="22" column="61" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" timestamp="1480585344171">
         <mark key="'" line="143" column="68" />
         <mark key="[" line="143" column="61" />
@@ -621,13 +632,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/Main.java" timestamp="1480048569439">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1485587295044">
         <mark key="[" line="0" column="0" />
@@ -648,7 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="5" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelCountChange.scala" />
       <jump line="12" column="12" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
       <jump line="42" column="20" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
       <jump line="45" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/common/package.scala" />
@@ -748,10 +751,11 @@
       <jump line="0" column="10" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" />
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/.gitignore" />
       <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" />
+      <jump line="94" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5KCIxLCIsICIyIikK</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -763,31 +767,31 @@
         <text encoding="base64">LiAiJHtESVJ9L2NvbmZpZy5zaCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5KCIxLCIsICIyIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsK</text>
+        <text encoding="base64">ICAgIEFycmF5KCIxLCIsICIyIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoue0xldmVsLCBMb2dnZXJ9CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLnV0aWwuS01lYW5zRGF0YUdlbmVyYXRvcgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay57U3BhcmtDb25mLCBTcGFya0NvbnRleHR9CgpvYmplY3QgS21lYW5zRGF0YUdlbiB7CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnLmFwYWNoZS5zcGFyayIpLnNldExldmVsKExldmVsLldBUk4pOwogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnLmVjbGlwc2UuamV0dHkuc2VydmVyIikuc2V0TGV2ZWwoTGV2ZWwuT0ZGKTsKICAgIGlmIChhcmdzLmxlbmd0aCA8IDUpIHsKICAgICAgcHJpbnRsbigidXNhZ2U6IDxvdXRwdXQ+IDxudW1Qb2ludHM+IDxudW1DbHVzdGVycz4gPGRpbWVuc3Rpb24+IDxzY2FsaW5nIGZhY3Rvcj4gW251bXBhcl0iKQogICAgICBTeXN0ZW0uZXhpdCgwKQogICAgfQogICAgdmFsIGNvbmYgPSBuZXcgU3BhcmtDb25mCiAgICBjb25mLnNldEFwcE5hbWUoIlNwYXJrIEtNZWFucyBEYXRhR2VuIikKICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKCiAgICB2YWwgb3V0cHV0ID0gYXJncygwKQogICAgdmFsIG51bVBvaW50ID0gYXJncygxKS50b0ludAogICAgdmFsIG51bUNsdXN0ZXIgPSBhcmdzKDIpLnRvSW50CiAgICB2YWwgbnVtRGltID0gYXJncygzKS50b0ludAogICAgdmFsIHNjYWxpbmcgPSBhcmdzKDQpLnRvRG91YmxlCiAgICB2YWwgZGVmUGFyID0gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgic3BhcmsuZGVmYXVsdC5wYXJhbGxlbGlzbSIpID09IG51bGwpIDIgZWxzZSBTeXN0ZW0uZ2V0UHJvcGVydHkoInNwYXJrLmRlZmF1bHQucGFyYWxsZWxpc20iKS50b0ludAogICAgdmFsIG51bVBhciA9IGlmIChhcmdzLmxlbmd0aCA+IDUpIGFyZ3MoNSkudG9JbnQgZWxzZSBkZWZQYXIKCiAgICB2YWwgZGF0YSA9IEtNZWFuc0RhdGFHZW5lcmF0b3IuZ2VuZXJhdGVLTWVhbnNSREQoc2MsIG51bVBvaW50LCBudW1DbHVzdGVyLCBudW1EaW0sIHNjYWxpbmcsIG51bVBhcikKICAgIGRhdGEubWFwKF8ubWtTdHJpbmcoIiAiKSkuc2F2ZUFzVGV4dEZpbGUob3V0cHV0KQoKICAgIHNjLnN0b3AoKTsKICB9Cgp9Cg==</text>
+        <text encoding="base64">ICAgIEttZWFuc0RhdGFHZW4ucnVuKEFycmF5KGFyZ3NbM10sIGFyZ3NbMF0sICxhcmdzWzRdLCBhcmdzWzVdLCBhcmdzWzZdLCBhcmdzWzddKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SkFSPSIke0RJUn0vLi4vYmVuY2htYXJrcy90YXJnZXQvc3BhcmsuYmVuY2htYXJrcy0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
+        <text encoding="base64">ICAgIHZhbCBudW1DbHVzdGVyID0gYXJncygyKS50b0ludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I30K</text>
+        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIpLnNldExldmVsKExldmVsLk9GRik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgT1BUSU9OPSIgJHtOVU1fT0ZfQ0xVU1RFUlN9ICR7TUFYX0lURVJBVElPTn0gJHtOVU1fUlVOfSAke0RBVEFfRk9MREVSfSAke05VTV9PRl9QT0lOVFN9ICR7RElNRU5TSU9OU30gJHtTQ0FMSU5HfSAke05VTV9PRl9QQVJUSVRJT05TfSIK</text>
+        <text encoding="base64">ICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZy5hcGFjaGUuc3BhcmsiKS5zZXRMZXZlbChMZXZlbC5XQVJOKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgQ0xBU1M9IkttZWFuc0FwcCIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoue0xldmVsLCBMb2dnZXJ9CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLnV0aWwuS01lYW5zRGF0YUdlbmVyYXRvcgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay57U3BhcmtDb25mLCBTcGFya0NvbnRleHR9CgpvYmplY3QgS21lYW5zRGF0YUdlbiB7CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnLmFwYWNoZS5zcGFyayIpLnNldExldmVsKExldmVsLldBUk4pOwogICAgTG9nZ2VyLmdldExvZ2dlcigib3JnLmVjbGlwc2UuamV0dHkuc2VydmVyIikuc2V0TGV2ZWwoTGV2ZWwuT0ZGKTsKICAgIGlmIChhcmdzLmxlbmd0aCA8IDUpIHsKICAgICAgcHJpbnRsbigidXNhZ2U6IDxvdXRwdXQ+IDxudW1Qb2ludHM+IDxudW1DbHVzdGVycz4gPGRpbWVuc3Rpb24+IDxzY2FsaW5nIGZhY3Rvcj4gW251bXBhcl0iKQogICAgICBTeXN0ZW0uZXhpdCgwKQogICAgfQogICAgdmFsIGNvbmYgPSBuZXcgU3BhcmtDb25mCiAgICBjb25mLnNldEFwcE5hbWUoIlNwYXJrIEtNZWFucyBEYXRhR2VuIikKICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKCiAgICB2YWwgb3V0cHV0ID0gYXJncygwKQogICAgdmFsIG51bVBvaW50ID0gYXJncygxKS50b0ludAogICAgdmFsIG51bUNsdXN0ZXIgPSBhcmdzKDIpLnRvSW50CiAgICB2YWwgbnVtRGltID0gYXJncygzKS50b0ludAogICAgdmFsIHNjYWxpbmcgPSBhcmdzKDQpLnRvRG91YmxlCiAgICB2YWwgZGVmUGFyID0gaWYgKFN5c3RlbS5nZXRQcm9wZXJ0eSgic3BhcmsuZGVmYXVsdC5wYXJhbGxlbGlzbSIpID09IG51bGwpIDIgZWxzZSBTeXN0ZW0uZ2V0UHJvcGVydHkoInNwYXJrLmRlZmF1bHQucGFyYWxsZWxpc20iKS50b0ludAogICAgdmFsIG51bVBhciA9IGlmIChhcmdzLmxlbmd0aCA+IDUpIGFyZ3MoNSkudG9JbnQgZWxzZSBkZWZQYXIKCiAgICB2YWwgZGF0YSA9IEtNZWFuc0RhdGFHZW5lcmF0b3IuZ2VuZXJhdGVLTWVhbnNSREQoc2MsIG51bVBvaW50LCBudW1DbHVzdGVyLCBudW1EaW0sIHNjYWxpbmcsIG51bVBhcikKICAgIGRhdGEubWFwKF8ubWtTdHJpbmcoIiAiKSkuc2F2ZUFzVGV4dEZpbGUob3V0cHV0KQoKICAgIHNjLnN0b3AoKTsKICB9Cgp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgTlVNX09GX1BBUlRJVElPTlM9MjAK</text>
+        <text encoding="base64">SkFSPSIke0RJUn0vLi4vYmVuY2htYXJrcy90YXJnZXQvc3BhcmsuYmVuY2htYXJrcy0ke0JFTkNIX1ZFUlNJT059LmphciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgU0NBTElORz0wLjYK</text>
+        <text encoding="base64">I30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
