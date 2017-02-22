@@ -571,10 +571,12 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" timestamp="1487733409802">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" timestamp="1487736176990">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" timestamp="1481781961951">
         <mark key="'" line="44" column="0" />
@@ -1002,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="30" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="71" column="29" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
       <jump line="54" column="76" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" />
@@ -1102,10 +1103,11 @@
       <jump line="19" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/SparkBenchmark.scala" />
       <jump line="8" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/main/scala/SparkBenchmark.scala" />
       <jump line="14" column="108" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/main/scala/SparkBenchmark.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TkFNRV9PUFQ9JDEK</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -1117,10 +1119,10 @@
         <text encoding="base64">cGFja2FnZSBza3lkYXRhLnNwYXJrLmJlbmNobWFya3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TkFNRV9PUFQ9JDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDI+JjF8dGVlICR7QkVOQ0hfTlVNfS8ke0FQUH1fcnVuXyR7U1RBUlRfVFN9LmRhdCIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1129,19 +1131,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9uZQo=</text>
+        <text encoding="base64">Q0xBU1M9IkttZWFuc0FwcCIKT1BUSU9OPSIgJHtJTk9VVF9TQ0hFTUV9JHtJTlBVVF9IREZTfSAke0lOT1VUX1NDSEVNRX0ke09VVFBVVF9IREZTfSAke05VTV9PRl9DTFVTVEVSU30gJHtNQVhfSVRFUkFUSU9OfSAke05VTV9SVU59Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50X2NvbmZpZyAgJHtBUFB9ICR7U1RBUlRfVElNRX0gJHtFTkRfVElNRX0gJHtTSVpFfSAke1NUQVJUX1RTfSAke3Jlc30+PiAke0JFTkNIX1JFUE9SVH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzPSQ/OyBFTkRfVElNRT1gdGltZXN0YW1wYCBnZXRfY29uZmlnX2ZpZWxkcyA+PiAke0JFTkNIX1JFUE9SVH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNUQVJUX1RJTUU9YHRpbWVzdGFtcGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
