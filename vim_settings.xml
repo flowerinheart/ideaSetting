@@ -241,12 +241,6 @@
         <mark key="." line="526" column="24" />
         <mark key="^" line="526" column="24" />
       </file>
-      <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/Simulator.scala" timestamp="1486628030693">
-        <mark key="'" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/alluxio/alluxio-core-client/1.3.0/alluxio-core-client-1.3.0-sources.jar!/alluxio/client/file/URIStatus.java" timestamp="1479973162703">
         <mark key="'" line="225" column="13" />
       </file>
@@ -491,6 +485,7 @@
         <mark key="^" line="220" column="108" />
         <mark key="." line="220" column="108" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/env2.sh" timestamp="1487736546436" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1482389420268">
         <mark key="'" line="58" column="6" />
         <mark key="[" line="71" column="30" />
@@ -571,12 +566,12 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" timestamp="1487736176990">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" timestamp="1487736703387">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/bin/parse-and-get-report.sh" timestamp="1481781961951">
         <mark key="'" line="44" column="0" />
@@ -1107,7 +1102,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TkFNRV9PUFQ9JDEK</text>
+        <text encoding="base64">I05VTV9PRl9QT0lOVFM9MTAwMDAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -1119,19 +1114,19 @@
         <text encoding="base64">cGFja2FnZSBza3lkYXRhLnNwYXJrLmJlbmNobWFya3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TkFNRV9PUFQ9JDEK</text>
+        <text encoding="base64">I05VTV9PRl9QT0lOVFM9MTAwMDAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IDI+JjF8dGVlICR7QkVOQ0hfTlVNfS8ke0FQUH1fcnVuXyR7U1RBUlRfVFN9LmRhdCIK</text>
+        <text encoding="base64">I05VTV9PRl9DTFVTVEVSUz0xMDAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RFUgJHtJTlBVVF9IREZTfSBTSVpFIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q0xBU1M9IkttZWFuc0FwcCIKT1BUSU9OPSIgJHtJTk9VVF9TQ0hFTUV9JHtJTlBVVF9IREZTfSAke0lOT1VUX1NDSEVNRX0ke09VVFBVVF9IREZTfSAke05VTV9PRl9DTFVTVEVSU30gJHtNQVhfSVRFUkFUSU9OfSAke05VTV9SVU59Igo=</text>
+        <text encoding="base64">IyBwcmUtcnVubmluZwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1140,10 +1135,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNoaWZ0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
