@@ -501,11 +501,11 @@
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/SparkMetrics.scala" timestamp="1487902216453">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="65" />
-        <mark key="." line="11" column="65" />
-        <mark key="^" line="11" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/SparkMetrics.scala" timestamp="1487904191559">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/SparkBenchmark.scala" timestamp="1487662634577">
         <mark key="'" line="20" column="0" />
@@ -774,7 +774,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWwgZGF0YVBhdGggPSBBcnJheSgiIikK</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0RmlsZSA9IG5ldyBGaWxlKEFycmF5KG91dHB1dEZvbGRlciwgInN0YXQuY3N2IikgbWtTdHJpbmcgRmlsZS5zZXBhcmF0b3IudG9TdHJpbmcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>BruteCollinearPoints</text>
@@ -783,31 +783,31 @@
         <text>runs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKQogICAgZihhcmcpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0RmlsZSA9IG5ldyBGaWxlKEFycmF5KG91dHB1dEZvbGRlciwgInN0YXQuY3N2IikgbWtTdHJpbmcgRmlsZS5zZXBhcmF0b3IudG9TdHJpbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgZGF0YVBhdGggPSBBcnJheSgiIikK</text>
+        <text encoding="base64">ICAgIGlmKCEgc3RhdEZpbGUuZXhpc3RzKCkpCiAgICAgIHN0YXRQcmludGVyLnByaW50bG4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG5ldyBQcmludFdyaXRlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihBcnJheShvdXRwdXRGb2xkZXIsICJzdGF0LmNzdiIpIG1rU3RyaW5nIEZpbGUuc2VwYXJhdG9yLnRvU3RyaW5nKQogICAgdmFsIHNpbmdlclByaW50ZXIgPSBuZXcgUHJpbnRXcml0ZXIoQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSArICIuY3N2IikgbWtTdHJpbmcgRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihBcnJheShvdXRwdXRGb2xkZXIsICJzdGF0LmNzdiIpIG1rU3RyaW5nIEZpbGUuc2VwYXJhdG9yLnRvU3RyaW5nKQogICAgdmFsIHNpbmdlclByaW50ZXIgPSBuZXcgUHJpbnRXcml0ZXIoQXJyYXkoIi4uIiwgInJlc3VsdCIsIG1vZGVsTmFtZSArICIuY3N2IikgbWtTdHJpbmcgRmlsZS5zZXBhcmF0b3JDaGFyLnRvU3RyaW5nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0SGVhZCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0SGVhZCA9IEFycmF5KCJsb2FkVGltZSIsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYoYXJnKQo=</text>
+        <text encoding="base64">ICBkZWYgcmVjb3JkVGltZVtBLCBSXShmIDogQSA9PiBSKShhcmcgOiBBKSA9ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydFRpbWUgPSBTeXN0ZW0ubmFub1RpbWUoKQo=</text>
+        <text encoding="base64">ICBkZWYgZ2VuRGF0YSgpewogIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">fQo=</text>
