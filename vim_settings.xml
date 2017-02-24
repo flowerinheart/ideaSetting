@@ -46,12 +46,12 @@
         <mark key="^" line="126" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" timestamp="1487919614658">
-        <mark key="'" line="27" column="68" />
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="36" column="51" />
-        <mark key="^" line="36" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" timestamp="1487920048419">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-all.sh" timestamp="1487753506616">
         <mark key="[" line="4" column="0" />
@@ -467,12 +467,12 @@
         <mark key="^" line="221" column="33" />
         <mark key="." line="221" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/AlgBenchmark.scala" timestamp="1487919107742">
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/AlgBenchmark.scala" timestamp="1487920060253">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="41" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" timestamp="1482306435310">
         <mark key="'" line="42" column="10" />
@@ -687,9 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="10" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
-      <jump line="62" column="10" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
-      <jump line="67" column="41" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
       <jump line="79" column="10" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
       <jump line="81" column="10" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
       <jump line="64" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
@@ -785,12 +782,15 @@
       <jump line="128" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/T.scala" />
       <jump line="7" column="13" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/SparkMetrics.scala" />
-      <jump line="27" column="68" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
       <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/AlgBenchmark.scala" />
+      <jump line="26" column="5" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
+      <jump line="77" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
+      <jump line="27" column="11" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
+      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtQ2x1c3RlciwgbnVtRGltLCBzY2FsaW5nLCBudW1QYXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KGtleSA6IEFyZ0tleSkgPT4=</text>
@@ -802,31 +802,31 @@
         <text encoding="base64">ICAgIHZhbCBEQVRBX0RJUl9LRVksIE9VVFBVVF9ESVJfS0VZID0gVmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtQ2x1c3RlciwgbnVtRGltLCBzY2FsaW5nLCBudW1QYXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFyZwo=</text>
+        <text encoding="base64">ICAgIGRhdGFHZW5BcmdUYWJsZSA9IG5ldyBBcmdUYWJsZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBcmdLZQo=</text>
+        <text encoding="base64">ICAgIGFsZ0FyZ1RhYmxlID0gbmV3IEFyZ1RhYmxlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE4K</text>
+        <text encoding="base64">ICAgIGNvbW1vbkFyZ1RhYmxlID0gbmV3IEFyZ1RhYmxlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBBcmdLZXkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBBcmdLZXkuCg==</text>
+        <text encoding="base64">b2JqZWN0IEttZWFuc0FwcCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEttZWFuc0JlbmNobWFyay5ydW4oYXJncykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
