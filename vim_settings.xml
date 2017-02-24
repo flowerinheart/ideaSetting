@@ -465,11 +465,11 @@
         <mark key="^" line="221" column="33" />
         <mark key="." line="221" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/AlgBenchmark.scala" timestamp="1487909082800">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="35" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="52" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/AlgBenchmark.scala" timestamp="1487909925334">
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="60" column="89" />
+        <mark key="^" line="60" column="89" />
+        <mark key="." line="60" column="89" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/mllib/src/main/scala/org/apache/spark/mllib/feature/PCA.scala" timestamp="1482306435310">
         <mark key="'" line="42" column="10" />
@@ -780,7 +780,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">ICBkZWYgcmVjb3JkVGltZV8xW0EsIFJdKGYgOiBBID0+IFIpKGFyZyA6IEEpID17CiAgICB2YWwgc3RhcnRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKICAgIHZhbCByZXMgPSBmKGFyZykKICAgICgoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpIC8gMTAwMCwgcmVzKQogIH0K</text>
       </register>
       <register name="-" type="4">
         <text>extends BenchmarkAlg[RDD[Vector], KMeansModel](&quot;Kmeans&quot;){</text>
@@ -789,7 +789,7 @@
         <text>runs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIFdTU1NFID0gY2x1c3RlcnMuY29tcHV0ZUNvc3QocGFyc2VkRGF0YSkK</text>
+        <text encoding="base64">ICBkZWYgcmVjb3JkVGltZV8xW0EsIFJdKGYgOiBBID0+IFIpKGFyZyA6IEEpID17CiAgICB2YWwgc3RhcnRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKICAgIHZhbCByZXMgPSBmKGFyZykKICAgICgoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpIC8gMTAwMCwgcmVzKQogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gIH0K</text>
