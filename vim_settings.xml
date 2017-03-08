@@ -105,12 +105,12 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1488966188244">
-        <mark key="'" line="88" column="25" />
-        <mark key="[" line="138" column="23" />
-        <mark key="]" line="139" column="21" />
-        <mark key="." line="139" column="21" />
-        <mark key="^" line="139" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1488969932106">
+        <mark key="'" line="156" column="71" />
+        <mark key="[" line="151" column="12" />
+        <mark key="]" line="150" column="63" />
+        <mark key="." line="150" column="63" />
+        <mark key="^" line="150" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482989355338">
         <mark key="'" line="87" column="16" />
@@ -704,11 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
-      <jump line="100" column="28" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
-      <jump line="100" column="47" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
-      <jump line="108" column="3" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
-      <jump line="61" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
       <jump line="11" column="14" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
       <jump line="55" column="12" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
       <jump line="57" column="22" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
@@ -804,46 +799,51 @@
       <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
       <jump line="85" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="88" column="25" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="157" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="144" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="62" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="86" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="147" column="71" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZUZpbGUuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Array(outputDir, benchmarkName + &quot;.csv&quot;)</text>
+        <text>&quot;modelName&quot; +: timeHead</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzaW5nbGVGaWxlID0gbmV3IEZpbGUobWFrZVBhdGgoQXJyYXkob3V0cHV0RGlyLCBiZW5jaG1hcmtOYW1lICsgIi5jc3YiKSkpCiAgICB2YWwgc3RhdEZpbGUgPSBuZXcgRmlsZShtYWtlUGF0aChBcnJheShvdXRwdXREaXIsICJzdGF0LmNzdiIpKSkKICAgIHZhbCBtYW5pZmVzdEZpbGUgPSBuZXcgRmlsZShtYWtlUGF0aChBcnJheShkYXRhRGlyLCAibWFuaWZlc3QuY3N2IikpKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlW2JlbmNobWFya10gdmFsIHN0YXRSZXN1bHQgPSBBcnJheVtTdHJpbmddKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZUZpbGUuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0UHJpbnRlciA9IG5ldyBQcmludFdyaXRlcihtYWtlUGF0aChBcnJheShvdXRwdXREaXIsICJzdGF0LmNzdiIpKSwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAvKioKICAgICogYWRkIGV4dHJhIG1ldHJpY3MgdG8gc2luZ2xlSGVhZCBhbmQgc2luZ2xlUmVzdWx0CiAgICAqIEBwYXJhbSB0dXBsZTIKICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzaW5nbGVQcmludGVyID0gbmV3IFByaW50V3JpdGVyKG1ha2VQYXRoKCksIHRydWUpCg==</text>
+        <text encoding="base64">ICBkZWYgbWFrZVBhdGgobmFtZUxpc3QgOiBBcnJheVtTdHJpbmddKSA9IG5hbWVMaXN0IG1rU3RyaW5nIEZpbGUuc2VwYXJhdG9yQ2hhci50b1N0cmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBQcmludFdyaXRlcigpCg==</text>
+        <text encoding="base64">ICBkZWYgbWFrZVBhdGgobmFtZUxpc3QgOiBBcnJheVtTdHJpbmddKSA9IG5hbWVMaXN0IG1rU3RyaW5nIEZpbGUuc2VwYXJhdG9yQ2hhci50b1N0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYW5pZmVzdEZpbGUgPSBuZXcgRmlsZShtYWtlUGF0aChBcnJheShkYXRhRGlyLCAibWFuaWZlc3QuY3N2IikpKQo=</text>
+        <text encoding="base64">ICBkZWYgbWFrZVBhdGgobmFtZUxpc3QgOiBBcnJheVtTdHJpbmddKSA9IG5hbWVMaXN0IG1rU3RyaW5nIEZpbGUuc2VwYXJhdG9yQ2hhci50b1N0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFtiZW5jaG1hcmtdIGRlZiBhZGRNZXRyaWNzKHR1cGxlMiA6IChTdHJpbmcsIFN0cmluZykqKSA9IHR1cGxlMi5mb3JlYWNoKHt0MiA9PgogICAgc2luZ2xlSGVhZCA9IHNpbmdsZUhlYWQgOisgdDIuXzEKICAgIHNpbmdsZVJlc3VsdCA9IHNpbmdsZVJlc3VsdCA6KyB0Mi5fMgogIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB0aW1lSGVhZCA9IEFycmF5KCJsb2FkVGltZSIsICJ0cmFpblRpbWUiLCAidGVzdFRpbWUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHN0YXRIZWFkID0gIm1vZGVsTmFtZSIgKzogdGltZUhlYWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
