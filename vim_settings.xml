@@ -105,12 +105,12 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1488970679095">
-        <mark key="'" line="155" column="71" />
-        <mark key="[" line="157" column="38" />
-        <mark key="]" line="157" column="55" />
-        <mark key="^" line="157" column="55" />
-        <mark key="." line="157" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1488972307174">
+        <mark key="'" line="136" column="4" />
+        <mark key="[" line="148" column="19" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="148" column="19" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482989355338">
         <mark key="'" line="87" column="16" />
@@ -704,12 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="14" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/LineOfSight.scala" />
-      <jump line="55" column="12" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
-      <jump line="57" column="22" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
-      <jump line="61" column="26" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
-      <jump line="65" column="17" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
-      <jump line="48" column="33" filename="D:/sbt/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/Warmer.scala" />
       <jump line="38" column="33" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
       <jump line="204" column="9" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
       <jump line="77" column="35" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
@@ -799,11 +793,17 @@
       <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" />
       <jump line="85" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="88" column="25" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="157" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="144" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="62" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="86" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="147" column="71" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="136" column="46" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="58" column="20" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="95" column="31" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="157" column="19" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="121" column="8" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="128" column="4" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="129" column="4" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -813,7 +813,7 @@
         <text>&quot;modelName&quot; +: timeHead</text>
       </register>
       <register name="/" type="4">
-        <text>stat</text>
+        <text>checkAndSetHead</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlW2JlbmNobWFya10gdmFsIHN0YXRSZXN1bHQgPSBBcnJheVtTdHJpbmddKCkK</text>
@@ -825,34 +825,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgY2hlY2tBbmRDcmVhdGVEaXIocGF0aCA6IFN0cmluZykgPSB7CiAgICB2YWwgZmlsZSA9IG5ldyBGaWxlKHBhdGgpCiAgICBpZighZmlsZS5leGlzdHMoKSkKICAgICAgZmlsZS5ta2RpcigpIG1hdGNoIHsKICAgICAgICBjYXNlIHRydWUgPT4gdHJ1ZQogICAgICAgIGNhc2UgZmFsc2UgPT4gdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImNvdWxkIGNyZWF0ZSBkaXIgIiArIHBhdGgpCiAgICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vICBjaGVjayByZXN1bHQgZmlsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgY2hlY2tBbmRDcmVhdGVEaXIocGF0aCA6IFN0cmluZykgPSB7CiAgICB2YWwgZmlsZSA9IG5ldyBGaWxlKHBhdGgpCiAgICBpZighZmlsZS5leGlzdHMoKSkKICAgICAgZmlsZS5ta2RpcigpIG1hdGNoIHsKICAgICAgICBjYXNlIHRydWUgPT4gdHJ1ZQogICAgICAgIGNhc2UgZmFsc2UgPT4gdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImNvdWxkIGNyZWF0ZSBkaXIgIiArIHBhdGgpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGdlbmVyYXRlIHJlc3VsdCBhbGdvcnRoaW0gc2VsZiBmaWxlIGFuZCBzdGF0IGZpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBjb21tb25BcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShEQVRBX0RJUl9LRVksIE9VVFBVVF9ESVJfS0VZLCBCRU5DSE1BUktfTkFNRSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgREFUQV9ESVJfS0VZID0gImRhdGFfZGlyIgogIHZhbCBPVVRQVVRfRElSX0tFWSA9ICJvdXRwdXRfZGlyIgogIHZhbCBCRU5DSE1BUktfTkFNRSA9ICJiZW5jaG1hcmsiCiAgdmFsIFRJTUVfRk9STUFUID0gInRpbWVfZm9ybWF0Igo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZm9yIChmaWxlIDwtIG5ldyBGaWxlKGRhdGFEaXIpLmxpc3RGaWxlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgICogYWRkIGV4dHJhIG1ldHJpY3MgdG8gc2luZ2xlSGVhZCBhbmQgc2luZ2xlUmVzdWx0CiAgICAqIEBwYXJhbSB0dXBsZTIKICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChmaWxlIDwtIG5ldyBGaWxlKGRhdGFEaXIpLmxpc3RGaWxlcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stat</last-search>
+      <last-search>checkAndSetHead</last-search>
       <last-offset />
-      <last-pattern>stat</last-pattern>
+      <last-pattern>checkAndSetHead</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -860,8 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>dot</entry>
         <entry>Spare</entry>
         <entry>width</entry>
         <entry>public</entry>
@@ -880,6 +878,8 @@
         <entry>runs</entry>
         <entry>ArgKey</entry>
         <entry>stat</entry>
+        <entry>parse</entry>
+        <entry>checkAndSetHead</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
