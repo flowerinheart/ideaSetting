@@ -34,6 +34,12 @@
       <file name="/a.dummy" timestamp="1487662298728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/clustering/MllibUnsupervisalBenchmark.scala" timestamp="1488973839132">
+        <mark key="[" line="10" column="89" />
+        <mark key="]" line="10" column="75" />
+        <mark key="^" line="10" column="75" />
+        <mark key="." line="10" column="75" />
+      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/pom.xml" timestamp="1487663337662">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -105,12 +111,12 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1488972307174">
-        <mark key="'" line="136" column="4" />
-        <mark key="[" line="148" column="19" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="148" column="19" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1488974187383">
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="206" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482989355338">
         <mark key="'" line="87" column="16" />
@@ -302,6 +308,12 @@
         <mark key="." line="526" column="24" />
         <mark key="^" line="526" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/supervisal/MllibSupervisalBenchmark.scala" timestamp="1488973860123">
+        <mark key="[" line="14" column="82" />
+        <mark key="]" line="14" column="79" />
+        <mark key="^" line="14" column="79" />
+        <mark key="." line="14" column="79" />
+      </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" timestamp="1485572077209">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="0" column="0" />
@@ -431,6 +443,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/clustering/KmeansBenchmark.scala" timestamp="1488973772403">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/bin/config.sh" timestamp="1481697588023">
         <mark key="'" line="29" column="73" />
@@ -597,6 +615,13 @@
         <mark key="^" line="94" column="33" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/PrefixSpanBenchmark.scala" timestamp="1488974136074">
+        <mark key="'" line="9" column="7" />
+        <mark key="[" line="63" column="1" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" timestamp="1487654831037">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="35" />
@@ -673,6 +698,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/SimpleFPGrowthBenchmark.scala" timestamp="1488973879801">
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="68" />
+        <mark key="^" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/SparkJsonEstimator.java" timestamp="1480585344171">
         <mark key="'" line="143" column="68" />
         <mark key="[" line="143" column="61" />
@@ -704,62 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="33" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
-      <jump line="204" column="9" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/ScalaShop.scala" />
-      <jump line="77" column="35" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
-      <jump line="6" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
-      <jump line="29" column="53" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
-      <jump line="0" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/PhotoCanvas.scala" />
-      <jump line="17" column="37" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" />
-      <jump line="95" column="6" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" />
-      <jump line="41" column="2" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" />
-      <jump line="20" column="31" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/KMeans.scala" />
-      <jump line="0" column="8" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab3-kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" />
-      <jump line="9" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" />
-      <jump line="143" column="30" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/BufferedReader.java" />
-      <jump line="38" column="7" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
-      <jump line="65" column="38" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
-      <jump line="37" column="0" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
-      <jump line="45" column="28" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
-      <jump line="11" column="0" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/io/BufferedSource.scala" />
-      <jump line="848" column="22" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Iterator.scala" />
-      <jump line="850" column="8" filename="D:/sbt/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/Iterator.scala" />
-      <jump line="13" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" />
-      <jump line="529" column="25" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/ClassLoader.java" />
-      <jump line="1865" column="25" filename="C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/ClassLoader.java" />
-      <jump line="115" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
-      <jump line="53" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
-      <jump line="67" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
-      <jump line="109" column="7" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
-      <jump line="69" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" />
-      <jump line="8" column="27" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
-      <jump line="29" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
-      <jump line="35" column="12" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="38" column="38" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="46" column="20" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="60" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="17" column="52" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
-      <jump line="30" column="8" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="80" column="17" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/Point.java" />
-      <jump line="62" column="30" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
-      <jump line="101" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
-      <jump line="0" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/BruteCollinearPoints.java" />
-      <jump line="37" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="84" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="1" column="0" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="10" column="4" filename="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" />
-      <jump line="286" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/BarnesHut.scala" />
-      <jump line="215" column="50" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/BarnesHut.scala" />
-      <jump line="121" column="13" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/BarnesHut.scala" />
-      <jump line="286" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/package.scala" />
-      <jump line="110" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/lab4-barneshut/src/main/scala/barneshut/Simulator.scala" />
-      <jump line="14" column="4" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
-      <jump line="32" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
-      <jump line="12" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
-      <jump line="15" column="3" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
-      <jump line="41" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
-      <jump line="19" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/SparkBenchmark.scala" />
-      <jump line="38" column="4" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/KmeansBenchmark.scala" />
       <jump line="78" column="0" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/KmeansBenchmark.scala" />
       <jump line="76" column="10" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/KmeansBenchmark.scala" />
       <jump line="48" column="15" filename="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/KmeansBenchmark.scala" />
@@ -796,63 +771,119 @@
       <jump line="144" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="62" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="86" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="147" column="71" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="136" column="46" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="58" column="20" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="95" column="31" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="157" column="19" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="121" column="8" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="128" column="4" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="129" column="4" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="191" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="125" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="151" column="57" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="196" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="33" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="65" column="6" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="152" column="57" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="165" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="195" column="6" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="22" column="32" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="34" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="58" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/PrefixSpanBenchmark.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/PrefixSpanBenchmark.scala" />
+      <jump line="59" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/PrefixSpanBenchmark.scala" />
+      <jump line="67" column="6" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="205" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="207" column="37" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="6" column="30" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="10" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="31" column="11" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="32" column="13" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="35" column="9" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="42" column="109" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="48" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="49" column="28" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="83" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="90" column="49" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="91" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="99" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="100" column="28" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="102" column="51" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="115" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="116" column="16" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="118" column="23" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="119" column="18" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="123" column="29" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="129" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="139" column="50" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="140" column="50" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="146" column="37" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="147" column="41" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="149" column="36" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="150" column="38" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="153" column="35" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="155" column="24" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="161" column="10" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="162" column="54" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="163" column="53" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="166" column="74" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="167" column="76" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="203" column="9" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="204" column="43" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="9" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/PrefixSpanBenchmark.scala" />
+      <jump line="66" column="21" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="69" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="206" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHR5cGUgRCA9IFJERFtUXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;modelName&quot; +: timeHead</text>
+        <text>RDD[Array[String]]</text>
       </register>
       <register name="/" type="4">
-        <text>checkAndSetHead</text>
+        <text>D</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlW2JlbmNobWFya10gdmFsIHN0YXRSZXN1bHQgPSBBcnJheVtTdHJpbmddKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHR5cGUgRCA9IFJERFtUXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICBjaGVjayByZXN1bHQgZmlsZQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdGVzdChtb2RlbDogUHJlZml4U3Bhbk1vZGVsW0ludF0sIHRlc3REYXRhOiBfcm9vdF8uc2t5ZGF0YS5zcGFyay5iZW5jaG1hcmsub3RoZXJzLlByZWZpeFNwYW5CZW5jaG1hcmsuRCk6IFVuaXQgPSA/Pz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGdlbmVyYXRlIHJlc3VsdCBhbGdvcnRoaW0gc2VsZiBmaWxlIGFuZCBzdGF0IGZpbGUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgdHJhaW4odHJhaW5EYXRhOiBfcm9vdF8uc2t5ZGF0YS5zcGFyay5iZW5jaG1hcmsub3RoZXJzLlByZWZpeFNwYW5CZW5jaG1hcmsuRCk6IFByZWZpeFNwYW5Nb2RlbFtJbnRdID0gPz8/Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAodDEsIHQyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChmaWxlIDwtIG5ldyBGaWxlKGRhdGFEaXIpLmxpc3RGaWxlcykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChmaWxlIDwtIG5ldyBGaWxlKGRhdGFEaXIpLmxpc3RGaWxlcykK</text>
+        <text encoding="base64">ICAgICAgbG9hZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkAndSetHead</last-search>
+      <last-search>D</last-search>
       <last-offset />
-      <last-pattern>checkAndSetHead</last-pattern>
+      <last-pattern>D</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -860,9 +891,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Spare</entry>
-        <entry>width</entry>
-        <entry>public</entry>
         <entry>wt</entry>
         <entry>parallel</entry>
         <entry>Counter</entry>
@@ -880,6 +908,9 @@
         <entry>stat</entry>
         <entry>parse</entry>
         <entry>checkAndSetHead</entry>
+        <entry>extract</entry>
+        <entry>load</entry>
+        <entry>D</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
