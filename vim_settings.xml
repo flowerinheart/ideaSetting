@@ -124,11 +124,12 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1489124862073">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1489127656136">
+        <mark key="'" line="148" column="4" />
+        <mark key="[" line="138" column="27" />
+        <mark key="]" line="138" column="27" />
+        <mark key="." line="138" column="27" />
+        <mark key="^" line="138" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/pom.xml" timestamp="1482989355338">
         <mark key="'" line="87" column="16" />
@@ -766,7 +767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="4" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="191" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="125" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -804,7 +804,6 @@
       <jump line="129" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="139" column="50" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="140" column="50" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="147" column="41" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="149" column="36" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="150" column="38" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="153" column="35" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -866,10 +865,12 @@
       <jump line="178" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="205" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="182" column="29" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" />
+      <jump line="136" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="147" column="4" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VySGVhZCA9IGFsZ0FyZ05hbWVzICsrIHRpbWVIZWFkICsrIGV4dHJhQWxnSGVhZAo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -881,28 +882,28 @@
         <text encoding="base64">ICB2YWwgSU5JVF9NT0RFID0gS2V5KCJpbml0aWFsaXphdGlvbk1vZGUiKQogIG92ZXJyaWRlIGxhenkgdmFsIGRhdGFHZW5BcmdOYW1lcyA9IEFycmF5KE5fQ0lSLCBOX1BPSU5UUykKICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA9IEFycmF5KE5fQ0xVU1RFUlMsIE1BWF9JVEVSLCBJTklUX01PREUpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VySGVhZCA9IGFsZ0FyZ05hbWVzICsrIHRpbWVIZWFkICsrIGV4dHJhQWxnSGVhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVICg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VySGVhZCA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogT1BUSU9OIHdoaWNoIHJlcHJlc2VudCB5b3VyIEFQUCBhcmd1bWVudHMoaW5jbHVkZSBkYXRhIGdlbmVyYXRpb24gYXJndW1lbnRzIGFuZCBhbGdvcml0aG0gYXJndW1lbnRzKSwgeW91ciBzY2FsYSBzY3JpcHQgc2hvdWxkIHBhcnNlIGFyZ3VtZW50cyBhY2NvcmRpbmcgdG8K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3VySGVhZCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICogQ0xBU1MgIHdoaWNoIHN0YW5kIGZvciB5b3VyIEFQUCBjbGFzcyBuYW1lKGVnLiBLbWVhbnNBcHApCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRoaXMgZmlsZSBoYXZlIHRvIGNvbnRhaW4gdGhyZWUgbmVjZXNzYXJ5IHZhcmlhYmxlOgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihzaW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjaGVja1NpbmdsZUhlYWQgPSAoKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
