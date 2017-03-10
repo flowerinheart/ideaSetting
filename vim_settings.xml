@@ -224,11 +224,12 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" timestamp="1489129166527">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" timestamp="1489130028879">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/example/src/main/scala/example/Lists.scala" timestamp="1483869119109">
         <mark key="'" line="26" column="1" />
@@ -258,12 +259,12 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" timestamp="1489126802496">
-        <mark key="'" line="182" column="29" />
-        <mark key="[" line="93" column="135" />
-        <mark key="]" line="93" column="199" />
-        <mark key="." line="93" column="199" />
-        <mark key="^" line="93" column="199" />
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" timestamp="1489131751746">
+        <mark key="'" line="132" column="34" />
+        <mark key="[" line="135" column="7" />
+        <mark key="]" line="135" column="7" />
+        <mark key="." line="135" column="7" />
+        <mark key="^" line="135" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/pom.xml" timestamp="1488159525515">
         <mark key="[" line="27" column="26" />
@@ -779,9 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="57" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="196" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="33" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="65" column="6" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="152" column="57" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="165" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -879,55 +877,58 @@
       <jump line="172" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
       <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/global_config.sh" />
+      <jump line="30" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
+      <jump line="79" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" />
+      <jump line="132" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WyAteiAiJEJFTkNIX0NPTkYiIF0gJiYgZXhwb3J0IEJFTkNIX0JJTj0iJHt0aGlzfSIK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>mkdir</text>
+        <text>among</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGhpcz0kKCBjZCAtUCAiJCggZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iICkvIiAmJiBwd2QgLVAgKQpbIC16ICIkQkVOQ0hfSE9NRSIgXSAmJiBleHBvcnQgQkVOQ0hfSE9NRT0iJHt0aGlzfS8uLiIKWyAteiAiJEJFTkNIX0NPTkYiIF0gJiYgZXhwb3J0IEJFTkNIX0JJTj0iJHt0aGlzfSIK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJzcGFya2JtIGNsZWFuIGRhdGEgW2JlbmNobWFyayBuYW1lXSAgICAgICAgICAgICMgY2xlYW4gZGF0YSBkaXIod2hlbiBubyBiZW5jaG1hcmsgbmFtZSkgb3IgY2xlYW4gYmVuY2htYXJrIGRpciB1bmRlciBkYXRhIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WyAteiAiJEJFTkNIX0NPTkYiIF0gJiYgZXhwb3J0IEJFTkNIX0JJTj0iJHt0aGlzfSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhpcz0kKCBjZCAtUCAiJCggZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iICkvIiAmJiBwd2QgLVAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2FzZSAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xlYW4gCg==</text>
+        <text encoding="base64">ICAgIGVjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">ICAgICopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">ICAgICAgICA7OwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mkdir</last-search>
+      <last-search>among</last-search>
       <last-offset />
-      <last-pattern>mkdir</last-pattern>
+      <last-pattern>among</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -935,7 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kmeans</entry>
         <entry>index</entry>
         <entry>kmean</entry>
         <entry>kM</entry>
@@ -955,6 +955,7 @@
         <entry>MKL</entry>
         <entry>Line</entry>
         <entry>mkdir</entry>
+        <entry>among</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
