@@ -199,6 +199,9 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/SparkContext.scala" timestamp="1489332193442">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/template/clustering_env.template" timestamp="1489132914431">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="7" />
@@ -460,6 +463,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1489332285995">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/lab2-reductions/src/test/scala/reductions/LineOfSightSuite.scala" timestamp="1484912285326">
         <mark key="'" line="15" column="0" />
@@ -780,10 +786,14 @@
         <mark key="^" line="122" column="7" />
         <mark key="." line="122" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/supervisal/DecisionTreeClassificationBenchmark.scala" timestamp="1489332382981">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="13" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="35" column="9" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="48" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="49" column="28" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="83" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -882,6 +892,8 @@
       <jump line="37" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/global_env.sh" />
       <jump line="18" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
