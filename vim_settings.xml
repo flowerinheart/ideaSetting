@@ -40,12 +40,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/util/LinearDataGenerator.scala" timestamp="1489340220829">
         <mark key="'" line="153" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/clustering/MllibUnsupervisalBenchmark.scala" timestamp="1489123002241">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/template/supervisal_env.template" timestamp="1489132909447">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="7" />
@@ -783,6 +777,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/mllib/src/main/scala/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1490519442081">
+        <mark key="[" line="388" column="0" />
+        <mark key="]" line="388" column="0" />
+        <mark key="." line="388" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager4/src/main/java/test/TestAlluxio.java" timestamp="1480066656030">
         <mark key="'" line="35" column="29" />
         <mark key="[" line="8" column="37" />
@@ -907,53 +906,53 @@
       <jump line="35" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/LabeledPoint.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>among</text>
+        <text>svd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bXZuIGNsZWFuIHBhY2thZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbHAubGFiZWwgPSBscC5sYWJlbCAvIDIK</text>
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBNYXRoLmFicygpCg==</text>
+        <text encoding="base64">ICAgIGVpZ2VuUwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBNYXRoLmFicwo=</text>
+        <text encoding="base64">ICAgICAgbHAubGFiZWwgPSBscC5sYWJlbCAvIDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExhYmVsZWRQb2ludCgpCg==</text>
+        <text encoding="base64">ICBNYXRoLmFicygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIEFsbHV4aW8gYW5kIEhERlMK</text>
+        <text encoding="base64">ICBNYXRoLmFicwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V2hlbiB1c2Ugc3BhcmsgaW4gY2x1c3RlciwgeW91IHNob3VsZCBwdXQgZGF0YSBmaWxlIGluIGRmcyhlLmcuOiBoZGZzIG9yIGFsbGl4aW8pCg==</text>
+        <text encoding="base64">ICAgIExhYmVsZWRQb2ludCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SWYgeW91IHdhbnQgdG8gY2hhbmdlIGJsYXNcYXJwYWNrXGxhcGFjayhlZyBvcGVuYmxhcywgbWtsKSBvciBzZXQgc3BhcmsncyBydW50aW1lIGFyZ3VtZW50cyhlZyBTUEFSS19FWEVDVVRPUl9NRU1PUlkpIG9yIApjaGFuZ2UgcmVzdWx0IGZvcm1hdChlZyBjaGFuZ2UgdHJhaW50aW1lIG1lYXN1cmUgZnJvbSBzIHRvIG1zKSwgdGhpcyBzZWN0aW9uIHdpbGwgaGVscCB5b3VyLgo=</text>
+        <text encoding="base64">IyMjIEFsbHV4aW8gYW5kIEhERlMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">V2hlbiB1c2Ugc3BhcmsgaW4gY2x1c3RlciwgeW91IHNob3VsZCBwdXQgZGF0YSBmaWxlIGluIGRmcyhlLmcuOiBoZGZzIG9yIGFsbGl4aW8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">SWYgeW91IHdhbnQgdG8gY2hhbmdlIGJsYXNcYXJwYWNrXGxhcGFjayhlZyBvcGVuYmxhcywgbWtsKSBvciBzZXQgc3BhcmsncyBydW50aW1lIGFyZ3VtZW50cyhlZyBTUEFSS19FWEVDVVRPUl9NRU1PUlkpIG9yIApjaGFuZ2UgcmVzdWx0IGZvcm1hdChlZyBjaGFuZ2UgdHJhaW50aW1lIG1lYXN1cmUgZnJvbSBzIHRvIG1zKSwgdGhpcyBzZWN0aW9uIHdpbGwgaGVscCB5b3VyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>among</last-search>
+      <last-search>svd</last-search>
       <last-offset />
-      <last-pattern>among</last-pattern>
+      <last-pattern>svd</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
         <entry>kmean</entry>
         <entry>kM</entry>
         <entry>buffer</entry>
@@ -981,6 +979,7 @@
         <entry>Line</entry>
         <entry>mkdir</entry>
         <entry>among</entry>
+        <entry>svd</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
