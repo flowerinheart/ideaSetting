@@ -70,7 +70,6 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/core/src/main/scala/org/apache/spark/rdd/HadoopRDD.scala" timestamp="1490530813510" />
       <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483410613220">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="45" />
@@ -303,6 +302,12 @@
         <mark key="]" line="22" column="61" />
         <mark key="." line="22" column="61" />
         <mark key="^" line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LinearRegression.scala" timestamp="1490838326509">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" timestamp="1489140201889">
         <mark key="'" line="18" column="7" />
@@ -921,7 +926,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGQuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MaW5lYXJSZWdyZXNzaW9uV2l0aFNHRAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -930,7 +935,7 @@
         <text>VR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bXZuIGNsZWFuIHBhY2thZ2UK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MaW5lYXJSZWdyZXNzaW9uV2l0aFNHRAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGQuCg==</text>
