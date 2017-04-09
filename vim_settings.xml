@@ -70,6 +70,12 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/实习/SparkMlBenchmark/Temp/src/com/company/Main.java" timestamp="1491702362967">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/WraperJavaGenerator.java" timestamp="1483410613220">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="45" />
@@ -552,12 +558,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1491701892919">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1491701938261">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/LabeledPoint.scala" timestamp="1489340259026">
         <mark key="'" line="35" column="8" />
