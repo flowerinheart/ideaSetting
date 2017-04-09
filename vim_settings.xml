@@ -552,6 +552,13 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1491701892919">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/LabeledPoint.scala" timestamp="1489340259026">
         <mark key="'" line="35" column="8" />
       </file>
@@ -829,7 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="22" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="99" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="100" column="28" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="102" column="51" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -929,6 +935,7 @@
       <jump line="35" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/LabeledPoint.scala" />
       <jump line="2" column="113" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2.jar!/breeze/generic/UFunc.class" />
       <jump line="985" column="12" filename="$USER_HOME$/IdeaProjects/main/spark-2.0.0/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="64" column="0" filename="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
