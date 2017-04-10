@@ -10,6 +10,13 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" timestamp="1491867884775">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" timestamp="1487738723609">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="44" column="22" />
@@ -382,7 +389,7 @@
         <mark key="^" line="14" column="79" />
         <mark key="." line="14" column="79" />
       </file>
-      <file name="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1491805224594">
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1491867738104">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -581,8 +588,11 @@
       <file name="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2.jar!/breeze/generic/UFunc.class" timestamp="1490520685179">
         <mark key="'" line="2" column="113" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2-sources.jar!/breeze/generic/UFunc.scala" timestamp="1491806753639">
-        <mark key="'" line="115" column="24" />
+      <file name="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2-sources.jar!/breeze/generic/UFunc.scala" timestamp="1491867729114">
+        <mark key="'" line="156" column="55" />
+      </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" timestamp="1491867752922">
+        <mark key="'" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/native_system/pom.xml" timestamp="1482990420493">
         <mark key="'" line="186" column="83" />
@@ -848,12 +858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="43" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="9" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/others/PrefixSpanBenchmark.scala" />
-      <jump line="66" column="21" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="69" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="206" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="211" column="51" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="31" column="19" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="187" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -948,55 +952,61 @@
       <jump line="262" column="16" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="256" column="36" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="93" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="86" column="7" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" />
+      <jump line="20" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" />
+      <jump line="156" column="55" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2-sources.jar!/breeze/generic/UFunc.scala" />
+      <jump line="11" column="30" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
+      <jump line="15" column="32" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
+      <jump line="16" column="24" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIubGluYWxnLgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>NativeBLAS</text>
+        <text>spark</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MaW5lYXJSZWdyZXNzaW9uV2l0aFNHRAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIubGluYWxnLgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcGFyay4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy4gIAo=</text>
+        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGQudW5wZXJzaXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NativeBLAS</last-search>
+      <last-search>spark</last-search>
       <last-offset />
-      <last-pattern>NativeBLAS</last-pattern>
+      <last-pattern>spark</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -1004,7 +1014,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stat</entry>
         <entry>parse</entry>
         <entry>checkAndSetHead</entry>
         <entry>extract</entry>
@@ -1024,6 +1033,7 @@
         <entry>Native</entry>
         <entry>_native</entry>
         <entry>NativeBLAS</entry>
+        <entry>spark</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
