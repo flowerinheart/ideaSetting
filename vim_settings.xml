@@ -258,6 +258,9 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="40" column="73" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1491805470430">
+        <mark key="'" line="98" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481777316791">
         <mark key="'" line="32" column="108" />
         <mark key="[" line="18" column="0" />
@@ -342,10 +345,6 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/DecisionTreeRegression.sh" timestamp="1489119095331">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="21" />
-      </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/Lab2/src/Deque.java" timestamp="1483959186121">
         <mark key="'" line="54" column="76" />
         <mark key="[" line="54" column="72" />
@@ -379,6 +378,12 @@
         <mark key="]" line="14" column="79" />
         <mark key="^" line="14" column="79" />
         <mark key="." line="14" column="79" />
+      </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1491805224594">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" timestamp="1485572077209">
         <mark key="'" line="64" column="0" />
@@ -520,10 +525,6 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/env/DenseGaussianMixture_env.sh" timestamp="1489119407042">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="20" />
-      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/SparkBenchmark/benchmarks/src/main/scala/KmeansBenchmark.scala" timestamp="1487663345693">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -553,10 +554,6 @@
         <mark key="]" line="98" column="38" />
         <mark key="^" line="98" column="38" />
         <mark key="." line="98" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/build.sh" timestamp="1489139588454">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" timestamp="1491701938261">
         <mark key="'" line="66" column="0" />
@@ -842,8 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="100" column="28" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="102" column="51" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="115" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="116" column="16" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -942,55 +937,57 @@
       <jump line="2" column="113" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2.jar!/breeze/generic/UFunc.class" />
       <jump line="985" column="12" filename="$USER_HOME$/IdeaProjects/main/spark-2.0.0/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="64" column="0" filename="$USER_HOME$/IdeaProjects/main/spark-2.0.0/examples/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" />
+      <jump line="24" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
+      <jump line="98" column="34" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MaW5lYXJSZWdyZXNzaW9uV2l0aFNHRAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIubGluYWxnLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>VR</text>
+        <text>Gas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MaW5lYXJSZWdyZXNzaW9uV2l0aFNHRAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGQuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIubGluYWxnLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQudW5wZXJzaXN0KCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy4gIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">ICAgIGQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwCg==</text>
+        <text encoding="base64">ICAgIGQudW5wZXJzaXN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">ICAgIGRhdGEuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVpZ2VuUwo=</text>
+        <text encoding="base64">ICAgIHVucGVyc2lzdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>VR</last-search>
+      <last-search>Gas</last-search>
       <last-offset />
-      <last-pattern>VR</last-pattern>
+      <last-pattern>Gas</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -998,7 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kM</entry>
         <entry>buffer</entry>
         <entry>head</entry>
         <entry>last</entry>
@@ -1018,6 +1014,7 @@
         <entry>among</entry>
         <entry>svd</entry>
         <entry>VR</entry>
+        <entry>Gas</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
