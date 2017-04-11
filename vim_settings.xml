@@ -10,12 +10,12 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" timestamp="1491867884775">
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" timestamp="1491869888587">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/run-MKL.sh" timestamp="1487738723609">
         <mark key="'" line="0" column="10" />
@@ -36,6 +36,12 @@
         <mark key="]" line="131" column="18" />
         <mark key="^" line="131" column="18" />
         <mark key="." line="131" column="18" />
+      </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/linalg/distributed/RowMatrix.scala" timestamp="1491870731180">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/FastCollinearPoints.java" timestamp="1485590595512">
         <mark key="'" line="10" column="4" />
@@ -161,6 +167,11 @@
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="15" />
       </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/Logging.scala" timestamp="1491870566932">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/netlib-java/generator/src/main/java/com/github/fommil/netlib/generator/NativeImplJavaGenerator.java" timestamp="1482992191545">
         <mark key="'" line="107" column="11" />
         <mark key="[" line="94" column="57" />
@@ -268,8 +279,10 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="40" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1491807822866">
-        <mark key="'" line="93" column="14" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1491869764118">
+        <mark key="'" line="46" column="24" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="137" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481777316791">
         <mark key="'" line="32" column="108" />
@@ -347,6 +360,9 @@
         <mark key="]" line="44" column="36" />
         <mark key="^" line="44" column="36" />
         <mark key="." line="44" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" timestamp="1491870376427">
+        <mark key="'" line="137" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/main/java/com/skydata/spark/benchmark/metrics/StrTools.java" timestamp="1480656796352">
         <mark key="'" line="12" column="25" />
@@ -643,6 +659,12 @@
         <mark key="^" line="43" column="33" />
         <mark key="." line="43" column="33" />
       </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/GammaMllib/feature/regression/PCA.scala" timestamp="1491868870668">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Algorithm1/src/PercolationVisualizer.java" timestamp="1481477394101">
         <mark key="'" line="88" column="32" />
         <mark key="[" line="69" column="64" />
@@ -858,39 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="51" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="31" column="19" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="187" column="26" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="242" column="25" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="42" column="5" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="159" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/global_env.sh" />
-      <jump line="110" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="106" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="277" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="89" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="115" column="11" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="258" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="99" column="9" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="218" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="45" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/global_env.sh" />
-      <jump line="44" column="23" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="49" column="21" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="141" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="223" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="109" column="33" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="108" column="31" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="117" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="194" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="199" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="195" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="204" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
       <jump line="20" column="11" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
       <jump line="12" column="16" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/clustering/MllibUnsupervisalBenchmark.scala" />
       <jump line="96" column="60" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -935,7 +924,6 @@
       <jump line="24" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="98" column="34" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="112" column="25" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
-      <jump line="28" column="39" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="123" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="121" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="122" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
@@ -958,55 +946,89 @@
       <jump line="11" column="30" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
       <jump line="15" column="32" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
       <jump line="16" column="24" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
+      <jump line="31" column="66" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="28" column="39" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="135" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="226" column="10" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="262" column="10" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="279" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="287" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="292" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="494" column="9" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="511" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="16" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="126" column="35" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="48" column="63" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="38" column="15" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="39" column="91" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="40" column="67" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="46" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="34" column="44" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="44" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="107" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="108" column="90" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="111" column="30" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="112" column="51" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="113" column="18" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="116" column="10" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="118" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="119" column="48" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="123" column="55" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="130" column="59" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="131" column="31" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="133" column="46" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="136" column="45" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
+      <jump line="137" column="40" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1/spark-core_2.11-2.0.1-sources.jar!/org/apache/spark/internal/Logging.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>spark</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MaW5lYXJSZWdyZXNzaW9uV2l0aFNHRAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcGFyay4K</text>
+        <text encoding="base64">Y2xhc3MgdCgpIHdpdGggTG9nZ2luZ3sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYXp5IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTG9nZ2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spark</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>spark</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,10 +1036,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
-        <entry>checkAndSetHead</entry>
-        <entry>extract</entry>
-        <entry>load</entry>
         <entry>D</entry>
         <entry>count</entry>
         <entry>setup</entry>
@@ -1034,6 +1052,10 @@
         <entry>_native</entry>
         <entry>NativeBLAS</entry>
         <entry>spark</entry>
+        <entry>rows</entry>
+        <entry>val log</entry>
+        <entry>log_</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
