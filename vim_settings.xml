@@ -110,10 +110,14 @@
         <mark key="^" line="45" column="67" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/Matrices.scala" timestamp="1491976951273">
-        <mark key="'" line="312" column="12" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/Matrices.scala" timestamp="1491978199332">
+        <mark key="'" line="952" column="6" />
         <mark key="[" line="980" column="0" />
         <mark key="]" line="1009" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/feature/PCA.scala" timestamp="1491978572819">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="87" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alluxio-shuffle-manager/TestAlluxio/src/TestAlluxio.java" timestamp="1480065302530">
         <mark key="'" line="35" column="0" />
@@ -255,10 +259,10 @@
         <mark key="^" line="40" column="73" />
         <mark key="." line="40" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1491977956891">
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" timestamp="1491978165303">
         <mark key="'" line="390" column="16" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="47" />
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="396" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/LogisticRegression/bin/run.sh" timestamp="1481777316791">
         <mark key="'" line="32" column="108" />
@@ -304,12 +308,12 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" timestamp="1491977921646">
-        <mark key="'" line="50" column="58" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="67" />
-        <mark key="^" line="50" column="101" />
-        <mark key="." line="50" column="0" />
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" timestamp="1491978825902">
+        <mark key="'" line="64" column="15" />
+        <mark key="[" line="78" column="56" />
+        <mark key="]" line="78" column="43" />
+        <mark key="." line="78" column="43" />
+        <mark key="^" line="78" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
         <mark key="'" line="24" column="30" />
@@ -850,15 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" />
-      <jump line="132" column="34" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" />
-      <jump line="12" column="28" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/funcs.sh" />
-      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="238" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
-      <jump line="27" column="21" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/supervisal/MllibSupervisalBenchmark.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
-      <jump line="51" column="7" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
-      <jump line="21" column="92" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
       <jump line="14" column="11" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
       <jump line="68" column="3" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/bin/sparkbm.sh" />
@@ -950,55 +945,64 @@
       <jump line="51" column="58" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
       <jump line="26" column="16" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/linalg/distributed/GammaOp.scala" />
       <jump line="390" column="16" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
+      <jump line="49" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="952" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/Matrices.scala" />
+      <jump line="60" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="55" column="7" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="35" column="71" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="37" column="21" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="38" column="23" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="41" column="15" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
+      <jump line="64" column="15" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJyZWV6ZS5saW5hbGcue2F4cHkgPT4gYnJ6QXhweSwgaW52LCBzdmQgPT4gYnJ6U3ZkLCBEZW5zZU1hdHJpeCA9PiBCRE0sIERlbnNlVmVjdG9yID0+IEJEViwKICBNYXRyaXhTaW5ndWxhckV4Y2VwdGlvbiwgU3BhcnNlVmVjdG9yID0+IEJTVn0K</text>
+      <register name="&quot;" type="4">
+        <text>explainedVariance</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>explainedVariance</text>
       </register>
       <register name="/" type="4">
-        <text>textFile</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGJyZWV6ZS5saW5hbGcue2F4cHkgPT4gYnJ6QXhweSwgaW52LCBzdmQgPT4gYnJ6U3ZkLCBEZW5zZU1hdHJpeCA9PiBCRE0sIERlbnNlVmVjdG9yID0+IEJEViwKICBNYXRyaXhTaW5ndWxhckV4Y2VwdGlvbiwgU3BhcnNlVmVjdG9yID0+IEJTVn0K</text>
+        <text encoding="base64">ICAgIHZhbCAocGMsIGV4cGxhaW5lZFZhcmlhbmNlKSA9IG1hdC5jb21wdXRlUHJpbmNpcGFsQ29tcG9uZW50c0FuZEV4cGxhaW5lZFZhcmlhbmNlKGspCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB2YWwgZGVuc2VQQyA9IHBjIG1hdGNoIHsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLmxpbmFsZy5NYXRyaWNlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCAocGMsIGV4cGxhaW5lZFZhcmlhbmNlKSA9IEdhbW1hT3AuZnJvbUJyZWV6ZShyZWxhdGlvbnMpLmNvbXB1dGVQcmluY2lwYWxDb21wb25lbnRzQW5kRXhwbGFpbmVkVmFyaWFuY2UoaykK</text>
+        <text encoding="base64">ICAgIE1hdHJpY2VzLmRlbnNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBWZWN0b3JzLmRlbnNlKEFycmF5cy5jb3B5T2ZSYW5nZShleHBsYWluZWRWYXJpYW5jZSwgMCwgaykpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYXRyeCA9IEdhbW1hT3AuZnJvbUJyZWV6ZShyZWxhdGlvbnMpLmFzSW5zdGFuY2VPZltvcmcuYXBhY2hlLnNwYXJrLm1sbGliLmxpbmFsZy5EZW5zZU1hdHJpeF0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKE1hdHJpY2VzLmRlbnNlKG4sIGssIEFycmF5cy5jb3B5T2ZSYW5nZSh1LmRhdGEsIDAsIG4gKiBrKSksCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBicmVlemUubGluYWxnLntEZW5zZU1hdHJpeCA9PiBCRE0sIERlbnNlVmVjdG9yID0+IEJEViwgU3BhcnNlVmVjdG9yID0+IEJTViwgYXhweSA9PiBicnpBeHB5LCBzdmQgPT4gYnJ6U3ZkfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">CiAgICB2YWwgZGVuc2VQQyA9IHBjIG1hdGNoIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKE1hdHJpY2VzLmRlbnNlKG4sIGssIHUuZGF0YSksIFZlY3RvcnMuZGVuc2UoZXhwbGFpbmVkVmFyaWFuY2UpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCAocGMsIGV4cGxhaW5lZFZhcmlhbmNlKSA9IEdhbW1hT3AuZnJvbUJyZWV6ZShyZWxhdGlvbnMpLmNvbXB1dGVQcmluY2lwYWxDb21wb25lbnRzQW5kRXhwbGFpbmVkVmFyaWFuY2UoaykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChrID09IG4pIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWN0b3JzLmRlbnNlKEFycmF5cy5jb3B5T2ZSYW5nZShleHBsYWluZWRWYXJpYW5jZSwgMCwgaykpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>textFile</last-search>
+      <last-search>n</last-search>
       <last-offset />
-      <last-pattern>textFile</last-pattern>
+      <last-pattern>n</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -1006,7 +1010,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setup</entry>
         <entry>MKL</entry>
         <entry>Line</entry>
         <entry>mkdir</entry>
@@ -1026,6 +1029,7 @@
         <entry>log</entry>
         <entry>DenseMatrix</entry>
         <entry>textFile</entry>
+        <entry>n</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
