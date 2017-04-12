@@ -322,6 +322,12 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" timestamp="1491970679502">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
         <mark key="'" line="24" column="30" />
         <mark key="[" line="0" column="0" />
@@ -405,12 +411,6 @@
         <mark key="]" line="14" column="79" />
         <mark key="^" line="14" column="79" />
         <mark key="." line="14" column="79" />
-      </file>
-      <file name="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" timestamp="1491867738104">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="H:/learning/course/lv4/算法/算法1/lab/Algorithm1/lab3/src/LineSegment.java" timestamp="1485572077209">
         <mark key="'" line="64" column="0" />
@@ -894,7 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="205" column="0" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
       <jump line="182" column="29" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/README.md" />
       <jump line="136" column="15" filename="$USER_HOME$/IdeaProjects/实习/SparkBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/SparkMlBenchmark.scala" />
@@ -994,13 +993,14 @@
       <jump line="227" column="5" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="42" column="41" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/linalg/distributed/BLAS.scala" />
       <jump line="43" column="27" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
+      <jump line="68" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5CTEFTLntnZXRJbnN0YW5jZSA9PiBOYXRpdmVCTEFTfQo=</text>
+        <text encoding="base64">ICAgIG5ldyBSb3dNYXRyaXgoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@Since(&quot;1.4.0&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>DenseMatrix</text>
@@ -1009,31 +1009,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIubGluYWxnLlZlY3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5CTEFTLntnZXRJbnN0YW5jZSA9PiBOYXRpdmVCTEFTfQo=</text>
+        <text encoding="base64">ICAgIG5ldyBSb3dNYXRyaXgoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJyZWV6ZS5vcHRpbWl6ZS5saW5lYXIuUG93ZXJNZXRob2QuQkRWCg==</text>
+        <text encoding="base64">ICBAU2luY2UoIjEuNC4wIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAU2luY2UoIjEuNC4wIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNpbmNlKCIxLjQuMCIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgRGFybmVsbCBvbiAyMDE3LzQvMTEuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2FybihzIiRjb2xzIGNvbHVtbnMgd2lsbCByZXF1aXJlIGF0IGxlYXN0ICRtZW1NQiBtZWdhYnl0ZXMgb2YgbWVtb3J5ISIpCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG1lbU1CID0gKGNvbHMudG9Mb25nICogY29scykgLyAxMjUwMDAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
