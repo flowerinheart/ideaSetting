@@ -311,12 +311,11 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" timestamp="1491978825902">
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/com/github/angelhunt/gammamllib/feature/PCA.scala" timestamp="1492239797964">
         <mark key="'" line="64" column="15" />
-        <mark key="[" line="78" column="56" />
-        <mark key="]" line="78" column="43" />
-        <mark key="." line="78" column="43" />
-        <mark key="^" line="78" column="43" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/assembly/assembly.xml" timestamp="1480660191488">
         <mark key="'" line="24" column="30" />
@@ -976,7 +975,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5CTEFTLntnZXRJbnN0YW5jZSA9PiBibGFzfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5tbGxpYi5saW5hbGcue1ZlY3RvciwgVmVjdG9yc30KaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MYWJlbGVkUG9pbnQKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIudXRpbC5MaW5lYXJEYXRhR2VuZXJhdG9yCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLnV0aWwuTUxVdGlscy5sb2FkTGFiZWxlZFBvaW50cwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5yZGQuUkRECmltcG9ydCBza3lkYXRhLnNwYXJrLmJlbmNobWFyay5TcGFya01sQmVuY2htYXJrCgo=</text>
+        <text encoding="base64">ICAgIHJlbGF0aW9ucy5yb3dzLnRyZQo=</text>
       </register>
       <register name="-" type="4">
         <text>GammaSupervisalBenchmark</text>
@@ -988,31 +987,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuZm9tbWlsLm5ldGxpYi5CTEFTLntnZXRJbnN0YW5jZSA9PiBibGFzfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5tbGxpYi5saW5hbGcue1ZlY3RvciwgVmVjdG9yc30KaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi5MYWJlbGVkUG9pbnQKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIudXRpbC5MaW5lYXJEYXRhR2VuZXJhdG9yCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLm1sbGliLnV0aWwuTUxVdGlscy5sb2FkTGFiZWxlZFBvaW50cwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5yZGQuUkRECmltcG9ydCBza3lkYXRhLnNwYXJrLmJlbmNobWFyay5TcGFya01sQmVuY2htYXJrCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgbG9hZFBjYUxhYmVsUG9pbnQoZGF0YVBhdGggOiBTdHJpbmcpID0gewogICAgdmFyIGRhdGEgPSBsb2FkTGFiZWxlZFBvaW50cyhzYywgZGF0YVBhdGgpCiAgICBkYXRhID0gZGF0YS5tYXAocCA9PiB7CiAgICAgIExhYmVsZWRQb2ludChwLmxhYmVsLCBWZWN0b3JzLmRlbnNlKHAuZmVhdHVyZXMudG9BcnJheSA6KyAxLjApKQogICAgfSkKICAgIHNwbGl0RGF0YShkYXRhKQogIH0K</text>
+        <text encoding="base64">ICAgIHJlbGF0aW9ucy5yb3dzLnRyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhID0gbG9hZExhYmVsUG9pbnQoZGF0YVBhdGgpCg==</text>
+        <text encoding="base64">ICBkZWYgbG9hZFBjYUxhYmVsUG9pbnQoZGF0YVBhdGggOiBTdHJpbmcpID0gewogICAgdmFyIGRhdGEgPSBsb2FkTGFiZWxlZFBvaW50cyhzYywgZGF0YVBhdGgpCiAgICBkYXRhID0gZGF0YS5tYXAocCA9PiB7CiAgICAgIExhYmVsZWRQb2ludChwLmxhYmVsLCBWZWN0b3JzLmRlbnNlKHAuZmVhdHVyZXMudG9BcnJheSA6KyAxLjApKQogICAgfSkKICAgIHNwbGl0RGF0YShkYXRhKQogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhID0gbG9hZExhYmVsUG9pbnQoZGF0YVBhdGgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGEubWFwCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRhdGEubWFwCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGxpdHMgPSBkYXRhLnJhbmRvbVNwbGl0KEFycmF5KDAuNywgMC4zKSkKICAgIHZhbCAodHJhaW5pbmdEYXRhLCB0ZXN0RGF0YSkgPSAoc3BsaXRzKDApLCBzcGxpdHMoMSkpCiAgICB0cmFpbmluZ0RhdGEuY2FjaGUoKQogICAgdGVzdERhdGEuY2FjaGUoKQogICAgKHRyYWluaW5nRGF0YSwgdGVzdERhdGEpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZgo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcGxpdHMgPSBkYXRhLnJhbmRvbVNwbGl0KEFycmF5KDAuNywgMC4zKSkKICAgIHZhbCAodHJhaW5pbmdEYXRhLCB0ZXN0RGF0YSkgPSAoc3BsaXRzKDApLCBzcGxpdHMoMSkpCiAgICB0cmFpbmluZ0RhdGEuY2FjaGUoKQogICAgdGVzdERhdGEuY2FjaGUoKQogICAgKHRyYWluaW5nRGF0YSwgdGVzdERhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
