@@ -206,6 +206,7 @@
         <mark key="^" line="147" column="3" />
         <mark key="." line="147" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" timestamp="1494222681210" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" timestamp="1482316860281">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="18" column="28" />
@@ -284,7 +285,6 @@
         <mark key="^" line="1" column="120" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/supervisal/GradientBoostingRegressionBenchmark.scala" timestamp="1494201529915" />
       <file name="$USER_HOME$/IdeaProjects/spark-benchmark-true/common/src/test/java/test/GetSparkMetricsTest.java" timestamp="1480669140239">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="22" column="154" />
@@ -405,6 +405,9 @@
         <mark key="]" line="42" column="21" />
         <mark key="." line="42" column="21" />
         <mark key="^" line="42" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" timestamp="1494223011470">
+        <mark key="'" line="109" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spark/core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala" timestamp="1481012743491">
         <mark key="'" line="72" column="6" />
@@ -814,11 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="233" column="20" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="20" column="53" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="262" column="16" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
-      <jump line="256" column="36" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/BLAS.scala" />
       <jump line="93" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/linalg/distributed/RowMatrix.scala" />
       <jump line="86" column="7" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" />
       <jump line="20" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" />
@@ -914,6 +912,11 @@
       <jump line="149" column="38" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2-sources.jar!/breeze/generic/UFunc.scala" />
       <jump line="19" column="45" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/gamma/PCABenchmark.scala" />
       <jump line="6" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/src/main/scala/skydata/spark/benchmark/supervisal/GammaLinearRegressionBenchmark.scala" />
+      <jump line="113" column="25" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
+      <jump line="139" column="38" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
+      <jump line="253" column="52" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
+      <jump line="312" column="31" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
+      <jump line="109" column="9" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -923,7 +926,7 @@
         <text encoding="base64">ICAgICAgZm9y</text>
       </register>
       <register name="/" type="4">
-        <text>inv</text>
+        <text>optimizer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CnBhY2thZ2Ugc2t5ZGF0YS5zcGFyay5iZW5jaG1hcmsuc3VwZXJ2aXNhbAoKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi57TGFiZWxlZFBvaW50LCBMaW5lYXJSZWdyZXNzaW9uTW9kZWwsIExpbmVhclJlZ3Jlc3Npb25XaXRoU0dEfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5yZGQuUkRECgovKioKICAqIENyZWF0ZWQgYnkgZGFybmVsbCBvbiAxNy0zLTEuCiAgKi8Kb2JqZWN0IExpbmVhclJlZ3Jlc3Npb25CZW5jaG1hcmsgZXh0ZW5kcyBNbGxpYlN1cGVydmlzYWxCZW5jaG1hcmtbTGluZWFyUmVncmVzc2lvbk1vZGVsXSB7CiAgdmFsIE5fSVRFUkFUSU9OID0gS2V5KCJudW1faXRlcmF0aW9uIikKICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShOX0lURVJBVElPTikKCgoKICBvdmVycmlkZSBkZWYgZ2VuRGF0YShwYXRoOiBTdHJpbmcpOiBVbml0ID0KICAgIGdlbmVyYXRlTGluZWFyRGF0YS5zYXZlQXNUZXh0RmlsZShwYXRoKQoKICBvdmVycmlkZSBkZWYgbG9hZChkYXRhUGF0aDogU3RyaW5nKTogKFJERFtMYWJlbGVkUG9pbnRdLCBSRERbTGFiZWxlZFBvaW50XSkgPQogICAgbG9hZExhYmVsUG9pbnQoZGF0YVBhdGgpCgogIG92ZXJyaWRlIGRlZiB0cmFpbih0cmFpbkRhdGE6IFJERFtMYWJlbGVkUG9pbnRdKTogTGluZWFyUmVncmVzc2lvbk1vZGVsID0KICAgIExpbmVhclJlZ3Jlc3Npb25XaXRoU0dELnRyYWluKHRyYWluRGF0YSwgYWxnQXJnVGFibGUoTl9JVEVSQVRJT04pLnRvSW50KQoKICBvdmVycmlkZSBkZWYgdGVzdChtb2RlbDogTGluZWFyUmVncmVzc2lvbk1vZGVsLCB0ZXN0RGF0YTogUkREW0xhYmVsZWRQb2ludF0pOiBVbml0ID0KICAgIHByZWRpY3RvclRlc3QobW9kZWwsIHRlc3REYXRhKQp9Cg==</text>
@@ -960,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inv</last-search>
+      <last-search>optimizer</last-search>
       <last-offset />
-      <last-pattern>inv</last-pattern>
+      <last-pattern>optimizer</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -970,7 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Gas</entry>
         <entry>BLAS</entry>
         <entry>axpy</entry>
         <entry>Native</entry>
@@ -990,6 +992,7 @@
         <entry>dget</entry>
         <entry>dgetri</entry>
         <entry>inv</entry>
+        <entry>optimizer</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
