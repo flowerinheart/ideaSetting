@@ -38,8 +38,8 @@
         <mark key="." line="92" column="26" />
         <mark key="^" line="92" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/util/LinearDataGenerator.scala" timestamp="1489340220829">
-        <mark key="'" line="153" column="16" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/util/LinearDataGenerator.scala" timestamp="1494242284440">
+        <mark key="'" line="131" column="13" />
       </file>
       <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/org/apache/spark/gammamllib/regression/LinearRegression.scala" timestamp="1492384576652">
         <mark key="'" line="37" column="4" />
@@ -206,7 +206,6 @@
         <mark key="^" line="147" column="3" />
         <mark key="." line="147" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/optimization/GradientDescent.scala" timestamp="1494222681210" />
       <file name="$USER_HOME$/IdeaProjects/spark/examples/src/main/scala/StatJson.scala" timestamp="1482316860281">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="18" column="28" />
@@ -817,7 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="7" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" />
       <jump line="20" column="0" filename="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/pom.xml" />
       <jump line="156" column="55" filename="$MAVEN_REPOSITORY$/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2-sources.jar!/breeze/generic/UFunc.scala" />
       <jump line="11" column="30" filename="H:/code/实习/skydata/SparkMlBenchmark/benchmarks/pom.xml" />
@@ -917,6 +915,7 @@
       <jump line="312" column="31" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
       <jump line="109" column="9" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
       <jump line="270" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/regression/GeneralizedLinearAlgorithm.scala" />
+      <jump line="131" column="13" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.0.1/spark-mllib_2.11-2.0.1-sources.jar!/org/apache/spark/mllib/util/LinearDataGenerator.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -926,7 +925,7 @@
         <text encoding="base64">ICAgICAgZm9y</text>
       </register>
       <register name="/" type="4">
-        <text>optimize</text>
+        <text>eps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CnBhY2thZ2Ugc2t5ZGF0YS5zcGFyay5iZW5jaG1hcmsuc3VwZXJ2aXNhbAoKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi57TGFiZWxlZFBvaW50LCBMaW5lYXJSZWdyZXNzaW9uTW9kZWwsIExpbmVhclJlZ3Jlc3Npb25XaXRoU0dEfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5yZGQuUkRECgovKioKICAqIENyZWF0ZWQgYnkgZGFybmVsbCBvbiAxNy0zLTEuCiAgKi8Kb2JqZWN0IExpbmVhclJlZ3Jlc3Npb25CZW5jaG1hcmsgZXh0ZW5kcyBNbGxpYlN1cGVydmlzYWxCZW5jaG1hcmtbTGluZWFyUmVncmVzc2lvbk1vZGVsXSB7CiAgdmFsIE5fSVRFUkFUSU9OID0gS2V5KCJudW1faXRlcmF0aW9uIikKICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShOX0lURVJBVElPTikKCgoKICBvdmVycmlkZSBkZWYgZ2VuRGF0YShwYXRoOiBTdHJpbmcpOiBVbml0ID0KICAgIGdlbmVyYXRlTGluZWFyRGF0YS5zYXZlQXNUZXh0RmlsZShwYXRoKQoKICBvdmVycmlkZSBkZWYgbG9hZChkYXRhUGF0aDogU3RyaW5nKTogKFJERFtMYWJlbGVkUG9pbnRdLCBSRERbTGFiZWxlZFBvaW50XSkgPQogICAgbG9hZExhYmVsUG9pbnQoZGF0YVBhdGgpCgogIG92ZXJyaWRlIGRlZiB0cmFpbih0cmFpbkRhdGE6IFJERFtMYWJlbGVkUG9pbnRdKTogTGluZWFyUmVncmVzc2lvbk1vZGVsID0KICAgIExpbmVhclJlZ3Jlc3Npb25XaXRoU0dELnRyYWluKHRyYWluRGF0YSwgYWxnQXJnVGFibGUoTl9JVEVSQVRJT04pLnRvSW50KQoKICBvdmVycmlkZSBkZWYgdGVzdChtb2RlbDogTGluZWFyUmVncmVzc2lvbk1vZGVsLCB0ZXN0RGF0YTogUkREW0xhYmVsZWRQb2ludF0pOiBVbml0ID0KICAgIHByZWRpY3RvclRlc3QobW9kZWwsIHRlc3REYXRhKQp9Cg==</text>
@@ -963,9 +962,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optimize</last-search>
+      <last-search>eps</last-search>
       <last-offset />
-      <last-pattern>optimize</last-pattern>
+      <last-pattern>eps</last-pattern>
       <last-replace>height</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
@@ -973,7 +972,6 @@
     </search>
     <history>
       <history-search>
-        <entry>axpy</entry>
         <entry>Native</entry>
         <entry>_native</entry>
         <entry>NativeBLAS</entry>
@@ -993,6 +991,7 @@
         <entry>inv</entry>
         <entry>optimizer</entry>
         <entry>optimize</entry>
+        <entry>eps</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/Task2/Task/g</entry>
