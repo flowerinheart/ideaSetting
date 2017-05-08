@@ -220,6 +220,11 @@
         <mark key="^" line="81" column="5" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="H:/code/实习/skydata/SparkMlBenchmark/GammaMllib/src/main/scala/org/apache/spark/gammamllib/feature/PCA.scala" timestamp="1494287147052">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="H:/learning/course/lv4/scala函数式/并行编程/lab/example/src/main/scala/example/Lists.scala" timestamp="1483869119109">
         <mark key="'" line="26" column="1" />
         <mark key="[" line="40" column="37" />
@@ -919,7 +924,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShOX0lURVJBVElPTikK</text>
+        <text encoding="base64">ICAgIChyZWxhdGlvbnMpLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgZm9y</text>
@@ -931,13 +936,13 @@
         <text encoding="base64">CnBhY2thZ2Ugc2t5ZGF0YS5zcGFyay5iZW5jaG1hcmsuc3VwZXJ2aXNhbAoKaW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIucmVncmVzc2lvbi57TGFiZWxlZFBvaW50LCBMaW5lYXJSZWdyZXNzaW9uTW9kZWwsIExpbmVhclJlZ3Jlc3Npb25XaXRoU0dEfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5yZGQuUkRECgovKioKICAqIENyZWF0ZWQgYnkgZGFybmVsbCBvbiAxNy0zLTEuCiAgKi8Kb2JqZWN0IExpbmVhclJlZ3Jlc3Npb25CZW5jaG1hcmsgZXh0ZW5kcyBNbGxpYlN1cGVydmlzYWxCZW5jaG1hcmtbTGluZWFyUmVncmVzc2lvbk1vZGVsXSB7CiAgdmFsIE5fSVRFUkFUSU9OID0gS2V5KCJudW1faXRlcmF0aW9uIikKICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShOX0lURVJBVElPTikKCgoKICBvdmVycmlkZSBkZWYgZ2VuRGF0YShwYXRoOiBTdHJpbmcpOiBVbml0ID0KICAgIGdlbmVyYXRlTGluZWFyRGF0YS5zYXZlQXNUZXh0RmlsZShwYXRoKQoKICBvdmVycmlkZSBkZWYgbG9hZChkYXRhUGF0aDogU3RyaW5nKTogKFJERFtMYWJlbGVkUG9pbnRdLCBSRERbTGFiZWxlZFBvaW50XSkgPQogICAgbG9hZExhYmVsUG9pbnQoZGF0YVBhdGgpCgogIG92ZXJyaWRlIGRlZiB0cmFpbih0cmFpbkRhdGE6IFJERFtMYWJlbGVkUG9pbnRdKTogTGluZWFyUmVncmVzc2lvbk1vZGVsID0KICAgIExpbmVhclJlZ3Jlc3Npb25XaXRoU0dELnRyYWluKHRyYWluRGF0YSwgYWxnQXJnVGFibGUoTl9JVEVSQVRJT04pLnRvSW50KQoKICBvdmVycmlkZSBkZWYgdGVzdChtb2RlbDogTGluZWFyUmVncmVzc2lvbk1vZGVsLCB0ZXN0RGF0YTogUkREW0xhYmVsZWRQb2ludF0pOiBVbml0ID0KICAgIHByZWRpY3RvclRlc3QobW9kZWwsIHRlc3REYXRhKQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShOX0lURVJBVElPTikK</text>
+        <text encoding="base64">ICAgIChyZWxhdGlvbnMpLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgTl9JVEVSQVRJT04gPSBLZXkoIm51bV9pdGVyYXRpb24iKQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBsYXp5IHZhbCBhbGdBcmdOYW1lcyA6IEFycmF5W0tleV0gPSBBcnJheShOX0lURVJBVElPTikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgTl9JVEVSQVRJT04gPSBLZXkoIm51bV9pdGVyYXRpb24iKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -949,13 +954,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBza3lkYXRhLnNwYXJrLmJlbmNobWFyay5zdXBlcnZpc2FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
